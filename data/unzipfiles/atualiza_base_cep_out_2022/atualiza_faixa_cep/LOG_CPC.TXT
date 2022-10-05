@@ -1,0 +1,2125 @@
+1285@AL@158@Conjunto Mutirão@Quadra 1 nº 37 - Conj.Mutirão - Rio Largo@57100990
+3788@AL@158@Utinga Leão@Rua do Hospital s/n@57100993
+4162@AL@184@Gulandim@Povoado Gulandim@57265990
+4191@AL@144@Pontal do Peba@Povoado Pontal do Peba@57210990
+4195@AL@145@Mangabeiras@Povoado Mangabeiras@57150990
+4197@AL@30@Pau D'Arco@Povoado Pau D'Arco@57319990
+4199@AL@31@Vila José Paulino@Rua Professor Genário Cardoso s/n@57690990
+4201@AL@31@Alto do Cruzeiro@Rua Joaquim Vieira 27@57690991
+4203@AL@143@Tabuleiro dos Negros@Povoado Tabuleiro dos Negros@57200990
+4204@AL@143@Marituba do Peixe@Povoado Marituba do Peixe@57200991
+4205@AL@143@Ponta Morfina@Povoado Ponta Morfina@57200992
+4381@AL@169@Povoado Quitunde@Escola Monteiro Lobato - Povoado Quitunde@57920990
+5469@AL@169@Alto Cristo Redentor@Rua George José da Silva s/n@57920991
+5470@AL@31@Povoado Genipapeiro@Rua Manoel Francisco, s/n@57690992
+5471@AL@71@Usina Guaxuma@Avenida Goiás nº 11 - Usina Guaxuma@57230991
+5472@AL@71@Pontal do Coruripe@Rua da Praia, s/n - Pontal do Coruripe@57230990
+5474@AL@182@Povoado Lagoa Grande@Rua Principal, s/n - Lagoa Grande@57640990
+6325@AL@114@Povoado Tuquanduba@Rua Principal@57160990
+6326@AL@57@Povoado Chã da Imbira@Rua Amerino Rodrigues de Paiva, 264@57250990
+6328@AL@170@Coité de São Miguel@Rodovia Municipal Aureo Cesar Teixeira@57240990
+2607@AM@243@Comunidade Agrícola São João@Rodovia BR-174, km 4@69048990
+5361@AM@232@Associação Agro Extrativista do Lago do Limão@Estrada Manoel Urbano, Km 30@69423990
+5362@AM@256@Associação Comunitária Bom Socorro do Zé Açu@Lago do Zé Açu S/N@69150990
+5363@AM@256@Associação dos Pais e Mestres da Escola Marcelino@Estrada da Vila Amazônia, Km 55@69150991
+5364@AM@243@Associação da Comunidade Nossa Senhora de Fátima@Rio Tarumã Mirim S/N@69049992
+5365@AM@243@Comunidade Cueiras do Tarumã Açu@BR-174, Km 15@69048992
+5547@AM@243@Comunidade São Sebastião do Rio Cuieiras@Margem Esquerda do Rio Negro@69049993
+5610@AM@216@Associação Comunitária dos Moradores Rurais do Purupuru@Rua Nunes de Melo, 17@69250990
+5613@AM@243@Associação de Moradores do Pontal da Cachoeira@Avenida Cachoeira Alta, Nº  31 - Tarumã@69041991
+6372@AM@256@Residencial Vila Cristina@Rua 12, Quadra 04, Casa 34 - Residencial Vila Cristina@69158992
+3277@AP@307@Associação São Francisco do Coração@Rodovia Duque de Caixas, km 14@68906990
+3278@AP@307@Danielle de Souza Nazaré - ME@Avenida das Bacabas, 5 - BR-156 km 2@68909990
+6511@AP@316@Associação dos Produtores Rurais do Pirativa@Comunidade Sao Sebastiao Do Lago Pirativa Br Jari Km 96@68939990
+1292@BA@789@Glória Maria Silva e Silva@Rua Valença, s/n - Vila Praiana@42705990
+1293@BA@789@Armarinho Ponto 13@Rua Cristovão B Pires, s/n - Portão@42713990
+1294@BA@789@Mercadinho Neves@Rua Doutor Gerino de Souza Filho, 18 - Caixa D'Água@42711990
+1295@BA@789@Edgar dos Santos Carneiro@Rua Maria Amorim Silva, 15 - Caji@42721990
+1296@BA@789@Anexo do Posto Policial@Rua Jacobina, s/n - Areia Branca@42733991
+1297@BA@789@Associação dos Moradores de Areia Branca@Rua Nova, s/n - Jambeiro@42728990
+1298@BA@789@Nazareth e Cia Ltda - Farmácia Fernandez@Rua Capimarara, 517 - Lot Jaíba - Areia Branca@42733990
+1301@BA@988@Associação de Moradores de São Cristóvão@1ª Travessa 2 de Julho, 30 - Colina do Rio@41500990
+1302@BA@988@Núcleo de Promoção e Ação Social - SETRADES@Rua Stella Maris, 1 - São Cristóvão@41510991
+1307@BA@988@Associação Beneficente dos Moradores de Nova Constituinte@Rua Direta da Nova Constituinte, 128 - Nova Constituinte@40720990
+1308@BA@988@Associação Jardim Campo da Mina@Rua Irecê, s/n - Alto do Cruzeiro@40740990
+1309@BA@988@Associação de Moradores de Santa Maria@Avenida São Jorge, s/n@40726990
+1310@BA@988@João Bosco Lopes da Silva@Rua Desembargador Manoel Pereira - Costa Azul@41760990
+1311@BA@988@Comercial Padaria e Mercearia@Rua Manoelito Teixeira, 66 - Mirante de Periperi Conj II@40726991
+1313@BA@988@Bar e Restaurante Berico Ltda@Rua Santana, s/n - Ilha de Maré@40000990
+1315@BA@988@Vila da Base Naval de Aratu@Estrada da Base Naval de Aratu - São Tomé de Paripe@40800990
+1316@BA@988@Base Naval de Aratu@Estrada da Base Naval de Aratu - São Tomé de Paripe@40800991
+1318@BA@988@Sociedade Beneficente Recreativa e Cultural João Paulo II@Conjunto João Paulo II -Fim de Linha do Uruguai@40450990
+2133@BA@988@Associação Beneficente dos Moradores do Bairro da Paz@Praça das Decisões, s/n@41515990
+2140@BA@988@Conselho de Moradores do Bairro da Paz@Rua Nossa Senhora da Paz, 60 - Bairro da Paz@41515991
+2155@BA@506@Cardeal da Silva@Praça José Osete, s/n@48390990
+2166@BA@473@Monte Gordo@Rua Senhor do Bonfim, s/n - Monte Gordo (Monte Gordo)@42829990
+2167@BA@473@Vila de Abrantes@Estrada do Côco, km 13 - (PAO) - Vila de Abrantes (Abrantes)@42827990
+2169@BA@519@Associação Comunitária da Baixada da Paz@Rua José Visco, s/n@48110990
+2170@BA@519@Associação Comunitária e Social de Catu@Caminho 5, Casa 11 - URBIS@48110992
+2171@BA@519@Associação Beneficente do Bom Viver@Rua Carlos Gomes, 87@48110991
+2172@BA@537@Colônia de Pescadores Z-31@Rua da Igreja, s/n@48300990
+2173@BA@366@Araçás@Praça da Matriz, s/n@48108990
+2174@BA@369@Aramari@Rua Juvino Cunha, s/n@48130990
+2175@BA@379@Comercial Maria do Bairro@Rua Risoleta Neves, s/n@45675990
+2176@BA@400@Edelzuíta Maria Dias@Rua G, s/n - Firno Leal@45560990
+2177@BA@364@Aporá@Rua Coronel Francelino, 301@48350990
+2178@BA@537@Farmácia Vila Nova@Avenida Oito de Setembro, s/n@48300991
+2179@BA@565@Associação Beneficente Unida e Desp. de Biribeira@Rua Antônio Norberto, 06@42850990
+2180@BA@575@Casa Senhor do Bonfim@Rua Lauro de Freitas, s/n@48180992
+2181@BA@575@Mercearia Casa Progresso@Avenida Presidente Médici, 1@48180991
+2182@BA@575@Letícia Maria Sousa Rocha Ltda@Rua Dois de Fevereiro, 1830-Bela Vista-MCPC Instalado na Casa Material de Constr@48180990
+2183@BA@582@Associação dos Trabalhadores do Rosário@Rua Tijuca do Sul, s/n@44072990
+2184@BA@624@Associação de Moradores do Bairro D. Guedes@Quadra L, 186 - Mercearia Dias@45745990
+2185@BA@626@Noedna M. da S. Santana@Praça do Mercado, s/n@45290990
+2186@BA@626@Vanilza Pinheiro Cruz@Rua da Bandinha, s/n - MCPC Instalado na Escola Ministro Tarso Dutra@45290992
+2187@BA@626@Maria de Fátima L. S. Galvão@Rua Jerson França, s/n@45290991
+2188@BA@634@Prefeitura Municipal de Ibirapitanga_@Anexo Centro Educacional de Itamaraty@45500991
+2189@BA@634@Prefeitura Municipal de Ibirapitanga - Escola Edson Ramos de Almeida@Escola Edson Ramos de Almeida@45500992
+2190@BA@634@Prefeitura Municipal de Ibirapitanga - Escola Maria das Dores@Escola Maria das Dores@45500990
+2191@BA@636@Supermercado Mirante@Alto do Mirante@45580990
+2193@BA@668@Teotônio Januário dos Santos@Rua Dona Benta - Sítio do Pica-pau@45570991
+2194@BA@682@Prefeitura Municipal de Itaberaba - Posto Médico@Praça J. J. Seabra, 373 - Posto Médico do Povoado de Alagoas@46880991
+2195@BA@682@Prefeitura Municipal de Itaberaba - Mercado Municipal de São Vicente@Praça J. J. Seabra, 373@46880990
+2199@BA@708@Itanagra@Rua Nestor Duarte, 46@48290990
+2200@BA@745@Jandaíra@Rua Capitão Durval Faria, s/n@48310990
+2201@BA@753@Prefeitura Municipal de Jitaúna@Lomanto Júnior, 14 - Centro@45225990
+2202@BA@851@Associação Comunitária do Povoado de Rosa Benta@Praça Ovídio de Carvalho, s/n - Centro@44850991
+2203@BA@851@Associação Comunitária de Dias Coelho@Praça Doutor Muniz, 04 - Centro@44850990
+2204@BA@801@Prefeitura Municipal de Madre de Deus@Posto Médico do Distrito de Maria Guarda Madre de Deus@42600990
+2205@BA@827@Barramar Comércio de Alimentos Ltda@Loteamento Praia de Imbassaí, s/n - Lote 01, Quadra 08 - Imbassaí@48280992
+2206@BA@944@Prefeitura Municipal de Porto Seguro@Rua Carlos Alberto de Souza Parracho, s/n@45819990
+2207@BA@1090@Supermercado Maia@Avenida Antonio Carlos, s/n@45545991
+2208@BA@1090@Joana Celeste V. Magno@Armarinho Celeste Distrito de Faisqueira@45545990
+2209@BA@1091@Florisvaldo Cardoso Almeida@Rua Félix Londrina, 239@45550990
+2210@BA@1091@Barachísio Martins de Souza@Avenida Landulfo Alves, s/n@45550991
+2211@BA@1091@Wannuacick Pereira Bonfim@Rua Francisco Xavier, 67@45550992
+2212@BA@939@Associação dos Moradores do Bairro do Retiro@Módulo Esportivo do Retiro, s/n@48120990
+2213@BA@939@Associação Católica Comunitária de Pojuca@Loteamento Jardim Los Angeles, s/n@48120991
+2214@BA@1027@Associação Beneficente e Recreativa de B. Areia@Rua Banco de Areia, s/n@43850991
+2215@BA@1113@Prefeitura Municipal de Vera Cruz - Cacha Pregos@Travessa Recuada, 57 - Cacha Pregos@44478990
+2709@BA@366@Associação Comunitária dos Moradores do Gaioso@Fazenda Gaioso, s/n@48108991
+2710@BA@379@Associação dos Moradores do Distrito de Lage Branco@Praça Mário Reis, s/n@45675991
+2711@BA@427@Associação dos Irrigantes do Projeto Formoso A@Posto Telefônico Setor 33, Projeto Formoso A@47600990
+2712@BA@400@Associação Comunitária de Tapirama@Praça Idelbrando Ribeiro, s/n@45560991
+2713@BA@427@Associação dos Pequenos Produtores Rurais de Favelândia@Praça do Comércio, s/n@47600991
+2730@BA@465@Pedreira Comércio e Indústria de Produtos Alimentícios Ltda@Rua da Rainha, 46-A - Distrito de Morro de São Paulo@45420990
+2731@BA@472@Prefeitura Municipal de Camacan@Avenida Doutor João Gonzaga, 622 - Centro (Posto de Saúde S. J. Panelinha)@45880990
+2734@BA@489@Associação Beneficente e Comunitária dos Moradores da URBIS I@Caminho 10, s/n@43800992
+2736@BA@575@Mariju Comércio & Alimentos Ltda@Quadra 2, Lote 22@48180993
+2740@BA@582@Associação de Moradores do Bairro do Limoeiro@Praça do Limoeiro, s/n - Posto de Saúde@44097990
+2743@BA@626@Comércio de Estivas Severino Ltda.@Praça Duque de Caxias, 30@45290993
+2744@BA@626@Associação de Menores Carentes de Ibitupã@Praça Valvimata Veiga, s/n@45290994
+2745@BA@690@Prefeitura Municipal de Itagibá@Rua Chile, 25 - Centro@45585992
+2746@BA@700@Associação de Moradores de Pimenteira@Distrito de Pimenteira@45630990
+2747@BA@700@Sociedade Beneficente de Inema@Praça da Bandeira, s/n@45630991
+2752@BA@827@Mercadinho e Bar Rancho Alegre@Avenida Monte Líbano, 40 - Monte Líbano@48280990
+2753@BA@832@Panificadora Santos@Praça Francisco Félix@44720990
+2754@BA@832@Comunidade das Populares@Bairro Populares - Bar Boa Parada@44720991
+2755@BA@832@Associação Comunitária do Braço Mindinho@Rua José Lúcio n 74 - Salão Comunitário São José@44720992
+2756@BA@869@Prefeitura Municipal@Praça Lomanto Júnior, s/n@45270990
+2757@BA@944@Câmara Municipal de Porto Seguro - Farmácia Cambolo@Praça do Dendê, 04 - Cambolo@45810993
+2758@BA@944@Câmara Municipal de Porto Seguro - Associação de Moradores@Loteamento Village 1 - Taperapuã@45810991
+2759@BA@944@Câmara Municipal de Porto Seguro@Avenida Bahia  Lote 38, s/n - Alto do Mundaí@45810992
+2760@BA@944@Câmara Municipal de Porto Seguro - Farmácia Silva@Rua da Matriz, 19 - Frei Calixto@45810994
+2761@BA@944@Câmara Municipal de Porto Seguro - Ypiranga Tudo Para Construção@Rua 19 de Novembro, 240 - Frei Calixto@45810995
+2762@BA@944@Câmara Municipal de Porto Seguro  -  Casa de Material Nova Canaã@Rua Neilton Dantas de Souza  Lote 40  Quadra 35 - Parque Ecológico João Carlos@45810996
+2763@BA@944@Câmara Municipal de Porto Seguro - Bazar Silva@Praia do Mirante, 66 Mirante de Caravelas@45810997
+2764@BA@944@Câmara Municipal de Porto Seguro - Supermercado Pais e Filhos@Avenida Ubaldino Júnior Quadra 30  Lote 01 - Fontana II@45810998
+2765@BA@1009@Iracélia Silva Régis@Rua RJ, Quadra B, nº 03 - Ribeirão@47820996
+2766@BA@1016@Associação Comunitária Boa Hora e Adjacência@Loteamento Jardim Ouro Verde, s/n  -  Boa Hora@44330990
+2767@BA@1016@Associação Comunitária dos Pequenos Produtores de Magalhães@Unidade de Saúde da Família Sinhá@44330992
+2768@BA@1040@Colima - Comercial de Cereais@Rua F, 59 - Agrovila 06@47630990
+2769@BA@985@Associação Beneficente Filhos e Amigos de Conceição@Rua da Cajazeira, s/n - Conceição de Salinas@44450991
+2770@BA@985@Sociedade Beneficente dos Moradores de Cairu - Salinas da Margarida@Praça do Cairu, s/n@44450990
+2771@BA@988@Associação dos Moradores Colina do Rio@Rua Oito de Dezembro, s/n - São Cristóvão@41510990
+2774@BA@988@Florisvaldo da Silva Santos@Rua Colibri, 09 Loteamento Recanto dos Pássaros, Quadra A - Valéria@41300991
+2776@BA@1004@Associação dos Moradores, Pescadores e Marisqueiros de São Braz@Rua do Porto, s/n - São Braz@44200990
+2777@BA@1004@Colônia de Pescadores Z-27@Rua Rui Barbosa, 85 - Acupe@44218990
+2778@BA@1034@Associação Comunitária de Tamburil@Travessa do Colégio, s/n@46900992
+2782@BA@1103@Associação de Desenvolvimento Comunitário Bairro Minação@Rua Joviniano Azevedo, s/n - Térreo@48890990
+2783@BA@1113@Prefeitura Municipal de Vera Cruz - Gameleira@Rua São Bento, 123 - Centro@44470990
+3117@BA@944@Câmara Municipal de Porto Seguro - Bar e Rest. Recanto da Primavera@Rua da Embratel, s/n@45811990
+3118@BA@944@Câmara Municipal de Porto Seguro - Adm. Condomínio Paraíso dos Pataxós@Rua Pero Vaz de Caminha, 30 - Centro@45810990
+3120@BA@988@Associação Beneficente e Recreativa do Bairro de São Marcos@Rua Atlântica, 07 - São Marcos@41253990
+3122@BA@366@Associação dos Pequenos Agricultores Rurais da Região de Floresta@Fazenda Floresta, s/n@48108992
+3123@BA@364@Associação Com. Benef. de Itamira@Rua Custódio Batista, s/n@48350991
+3127@BA@711@Associação dos Moradores Primeiro de Maio de Porto Santo@Rua Areia Preta, s/n@44460991
+3128@BA@939@Prefeitura Municipal de Pojuca@Rua Raulino Jorge Dias Aquino, s/n@48120992
+3129@BA@1004@Prefeitura Municipal de Santo Amaro@Praça da Purificação, s/n@44200991
+3130@BA@1047@Sociedade Beneficente Comunitária e Desportiva do km 30 e Tiro Seguro@Avenida Camaçari, 692 - km 30@43700990
+3131@BA@473@Arembepe@Rua Manoel Coelho, s/n - Arembepe (Abrantes)@42835991
+3132@BA@988@Bar de Dai@Rua 54, Caminho 21, Loteamento São Cristóvão, 01 - Castelo Branco@41320991
+3133@BA@988@Itamar Machado Santana@Rua Machado de Assis, 17 - 3ª Etapa - Castelo Branco@41321992
+3134@BA@988@Iraci Gonçalves Santana@Rua AC, Loteamento Direito de Morar, Caminho 26 - Castelo Branco@41321990
+3135@BA@988@Iraci Gonçalves Santana@Rua 24 - Bar de D Lúcia@41321991
+3138@BA@489@Colônia de Pescadores de Candeias Z-54@Rua Rio do Cunha, s/n - Passé@43800991
+3139@BA@711@Grupo Beneficente dos Moradores de Mocambo@Rua 4 - Travessa do Mocambo@44460990
+3140@BA@489@Associação Comunitária e Beneficente dos Moradores do Bairro Dom Avelar@Rua Frei Caneca, 20@43800993
+3141@BA@489@Associação Beneficente dos Moradores do Caboto@Rua Ruy Barbosa, s/n@43800990
+3143@BA@1027@Associação dos Moradores e Amigos de Maracangalha@Rua do Cruzeiro, s/n - Cinco Rios@43850990
+3144@BA@988@Sociedade Comunitária Alto da Esperança@Rua Santo Antônio, 28E - Macaúbas@40300990
+3158@BA@489@Associação Comunitária e Cultural de Passagem dos Teixeiras@Rua da Matriz, s/n@43800994
+3223@BA@473@Barra do Jacuípe@Rua Humberto Costa, 2 - Módulo Policial - Barra do Jacuípe (Monte Gordo)@42836991
+3592@BA@473@Barra do Pojuca@Rua Filogônio de Oliveira, s/n - Barra do Pojuca (Monte Gordo)@42841991
+3624@BA@586@Comercial de Estivas Severino LTDA@Praça Duque de Caxias, 30@45720993
+3625@BA@600@Associação Comunitária de Tapirama@Praça Idelbrando Ribeiro, s/n@45540991
+3626@BA@659@Alex Confeccões@Rodovia Itabuna - Buararema, 568 - Nossa Senhora da Vitória@45672990
+3627@BA@659@Associação de Moradores de Pimenteira@Distrito de Pimenteira@45672991
+3628@BA@659@Mercado Lima@Rua São Jorge, 139 - Nossa Senhora da Vitória@45672992
+3629@BA@659@Sociedade Beneficente de Inema@Praça da Bandeira, s/n@45672993
+3630@BA@858@Novidade Mercadinho e Padaria Popular LTDA@Praça da Rodoviária, S/N Javi@47115990
+3632@BA@713@Laudeni Santos Pereira@Rua Silvio Tosta Júnior, 388 - Centro - Itapebi@45855990
+3633@BA@713@Mercearia do Vale@Rua Valfrides Santana Silva, 497 - Centro - Itapebi@45855991
+3638@BA@944@ECT@Mercado Municipal Arraial D'ajuda - Porto Seguro@45816990
+3640@BA@10210@ECT@Praça Municipal s/n - Trancoso@45818990
+4640@BA@533@Pinheiro@Rua Santa Rita, 360-Bairro Pinheiro@44320990
+6349@BA@14012@Bomfim Bowes Turismo Ltda@Alameda do Sol, s/n - Centro@48287990
+6402@BA@988@Maria da Glória S Cruz@Rua Direta do Capelão, 130 - Areia Branca -Salvador@41412990
+6410@BA@789@Mercearia Flor do Picuaia@Rua Ruy Barbosa, 12 - Lot. Jardim Picuaia@42721991
+6413@BA@473@Jauá@Rua do Flamingo, s/n - Jauá (Abrantes)@42828990
+6414@BA@473@Catu de Abrantes@Rua Catu de Abrantes, s/n - Catu de Abrantes (Abrantes)@42825990
+6415@BA@473@Areias@Rua da Mangueira, s/n - Areias (Abrantes)@42823990
+1319@CE@1156@Prainha@Rua Damião Tavares de Souza, s/n@61700990
+1321@CE@1156@Tapuio@Avenida Noé Leite de Freitas, s/n@61700992
+1322@CE@1156@Machuca@Vila Machuca, s/n@61700993
+1323@CE@1205@Bitupita@Rua do Comércio, s/n@62414990
+1329@CE@1284@Córrego do Alexandre@Rua Luiz Eduardo Souza de Araújo, s/n@61600990
+1330@CE@1284@Cipó@Avenida Amaro Martins, s/n@61600992
+1331@CE@1284@Matões@Estrada do Pecém, km 19, s/n@61680990
+1332@CE@1284@Santa Rosa@Estrada de Santa Rosa, s/n@61690991
+1333@CE@1284@Pajuçara@Principal, s/n@61600995
+1334@CE@1284@Tabuleiro Grande@Rua Joaquim Mota, s/n@61690992
+1335@CE@1284@Carauçanga@Estrada de Carauçanga, s/n@61685992
+1345@CE@1417@Parque Dom Pedro@Avenida C, nº  510 - Conjunto Parque Dom Pedro@61880990
+1346@CE@1417@Jabuti@BR-116 km 20, s/n  Loja 12@61880991
+1351@CE@1486@Colônia Antônio Justa@Avenida Faustino Albuquerque, s/n@61905990
+1353@CE@1486@Jaçanaú@Rua Ernesto Gurgel do Amaral, 70@61915990
+1354@CE@1486@Mucunã@Avenida Raimundo Pessoa de Araújo, 72@61915991
+2064@CE@1125@Aranaú@Rua Dom Aluísio, s/n@62585990
+2065@CE@1125@Juritianha@Rua Central, s/n@62580990
+2144@CE@1488@Sapupara@Avenida Tabatinga, s/n@61950990
+2145@CE@1488@Itapebussú@Rua Manuel Guedes, s/n@61988990
+2318@CE@1156@Porto das Dunas@Avenida Arterial I, Lote 14, Quadra 55, 4ª Etapa@61700995
+2319@CE@1156@Caponga da Bernada@Rua Cândido Benício Sampaio, s/n@61754990
+2326@CE@1722@Taperuaba@Rua Principal, s/n@62106990
+2327@CE@1722@Rafael Arruda@Rua Principal, s/n@62000990
+2328@CE@1722@Aprazível@Rua Principal, s/n@62114990
+2329@CE@1722@São José Torto@Rua Principal, s/n@62105990
+2330@CE@1776@Quatiguaba@Rua Principal, s/n@62310990
+2331@CE@1776@Padre Vieira@Rua Principal, s/n@62315990
+2332@CE@1776@Manhoso@Rua Principal, s/n@62300990
+2333@CE@1776@Juá dos Vieiras@Rua Principal, s/n@62300991
+2334@CE@1776@Oiticica@Rua Principal, s/n@62300992
+2335@CE@1362@Parazinho@Rua Principal, s/n@62437990
+2336@CE@1362@Timonha@Rua Principal, s/n@62440990
+2337@CE@1382@Alto Lindo@Rua Benjamin Central, s/n@62360990
+2338@CE@1382@Santo Antônio da Pindoba@Rua Principal, s/n@62363990
+2339@CE@1382@Betânia@Rua Vila Betânia, s/n@62360991
+2340@CE@1676@Inhuçú@Rua Principal, s/n@62373990
+2341@CE@1676@Barreiros@Rua Principal, s/n@62374990
+2342@CE@1756@Araticum@Rua do Mercado, s/n@62352990
+2343@CE@1756@Jaburuna@Alameda Amador, s/n@62354990
+2344@CE@1742@Caruatai@Rua Principal, s/n@62325990
+2345@CE@1742@Arapá@Rua Santa Lúzia,  s/n@62328990
+2346@CE@1368@Várzea dos Espinhos@Rua Principal, s/n@62388990
+2347@CE@1368@Sussuanha@Rua Principal, s/n@62385990
+2348@CE@1300@Ibiapaba@Rua Várzea de Aguiar, s/n@63725990
+2349@CE@1300@Montenebo@Rua Enoque Barros, s/n@63715990
+2350@CE@1559@São Geraldo@Rua Francisco do Monte, s/n@63520990
+2351@CE@1396@Conjunto João Paulo II@Rua Vicente Alves, 659@63500990
+2352@CE@1396@Jardim Oásis@Rua A,  nº 55 - Jardim Oásis@63500991
+2354@CE@1126@Vila Moreira@Vila Moreira de Cima, s/n@63560990
+2355@CE@1126@Vila Esperança@Rua Antônio Moreira, s/n@63560991
+2356@CE@1403@Vila São José@Rua Coronel Gustavo Lima, 230@63340990
+2357@CE@1156@Tapera@Rua João Ferreira de Freitas, s/n@61758990
+2358@CE@1156@Patacas@Rua Josué Leite de Freitas, s/n@61756990
+2359@CE@1156@Iguape/Jacauna@Rua Osvaldo Studart, s/n@61752990
+2360@CE@1156@Camará@Rua Doca Sales, s/n@61753990
+2361@CE@1156@Justiniano de Serpa@Rua Rufino C. de Assunção, s/n@61751990
+2366@CE@1390@Ibicuitaba@Rua Ricardo de Holanda, s/n@62813990
+2367@CE@1390@Rendonda@Rua da Praia, s/n@62810990
+2368@CE@1365@Água Verde@Rua Otávio Moreira, 29@61895990
+2369@CE@1488@Penedo@Rua José da Silva, s/n@61956990
+2370@CE@1561@Pavuna@Avenida José Guilherme, s/n@61870990
+2371@CE@1561@Monguba@Rua Antônio de Luiz de Souza, s/n@61860990
+2372@CE@1643@Guassi@Rua Central, s/n@62794990
+2373@CE@1526@Pedras@Rua Ana Nogueira, s/n@62943990
+2374@CE@1526@Juazeiro de Baixo@Vila Juazeiro da Quintina, s/n@62945990
+2375@CE@1526@Roldão@Travessa Luiz Vieira, s/n@62948990
+2376@CE@1526@Lagoa Grande@Rua Moisés Rabelo, s/n@62942990
+2377@CE@1526@Boa Água@Rua do Juazeiro, s/n@62953990
+2378@CE@1526@Uiraponga@Rua Maria Paula, s/n@62950990
+2379@CE@1526@Aruaru@Rua Raimundo José, s/n@62951990
+2382@CE@1422@Assunção@Rua Francisco Braga Vera , s/n@62505990
+2383@CE@1422@Deserto@Rua Élbia Barroso, s/n@62502990
+2384@CE@1422@Picos@Rua Central, s/n@62500990
+2385@CE@1425@Almofala@Rua João Agostinho do Nascimento, 313@62592990
+2386@CE@1763@São Joaquim@Rua Central, s/n@62663990
+2387@CE@1746@Mundaú@Rua do Fogo, s/n@62695990
+2388@CE@1180@Amaro@Rua Central, s/n@63144990
+2389@CE@1190@Arajara@Rua Central, s/n@63183990
+2390@CE@1300@Tucuns@Rua Central, s/n@63710990
+2391@CE@1602@Vila Nova@Rua Central, s/n@63460991
+2392@CE@1602@Conjunto Popular@Rua Contorno Nordeste, s/n@63460990
+2394@CE@1301@São Bento@Rua Central, s/n@63100991
+2415@CE@1301@Santa Fé@Rua Vicente Teles, s/n@63136990
+2423@CE@1722@Caracará@Rua do Caracará, s/n@62112990
+2424@CE@1722@Jaíbaras@Rua Santa Terezinha, s/n@62107990
+2425@CE@1722@Patriarca@Rua Central, s/n@62104990
+2426@CE@1722@Jordão@Rua Central, s/n@62108990
+2427@CE@1284@Mirambé@Rodovia Luís Nerys Nunes de Miranda, s/n@61685990
+2428@CE@1284@Sítios Novos@Rua Henrique Martins, s/n@61695990
+2429@CE@1284@Tucunduba@Rodovia Raimundo Wilson N. Miranda, s/n@61688990
+2430@CE@1284@Catuana@Rua Leocádio Maciel, s/n@61680991
+2431@CE@1284@Primavera@BR-222, km 30, s/n@61690990
+2632@CE@1284@Alto da Tabuba@Rua Nossa Senhora do Perpétuo Socorro, s/n@61618992
+2633@CE@1284@Planalto do Cauipe@Rua Honorina Barros Fonteles, s/n@61680994
+2635@CE@1284@Coité Pedreira@Rua Nossa Senhora de Fátima, s/n@61616991
+2636@CE@1284@Boqueirão do Arara@BR-222 Km 19, s/n@61616992
+2637@CE@1284@Cumbuco@Praça José Eleutério, s/n@61619990
+2639@CE@1284@Mangabeira@Rua João Rodrigues Tavares, s/n@61680995
+2640@CE@1284@Minguaú@BR-020, km 20, s/n@61688991
+2642@CE@1488@Amanari@Praça Adelino Coelho, s/n@61979990
+2643@CE@1488@Jubaia@Rua Central, s/n@61955990
+2644@CE@1488@Tanques@Rua Central, s/n@61976990
+3225@CE@1209@Prata@Rua da Agência, s/n@62575990
+3229@CE@1369@Pernambuquinho@Rua Central, s/n@62768990
+3230@CE@1397@Iapi@Rua Monsenhor Galvão, s/n@63643990
+3232@CE@1404@Várzea do Giló@Rua Central, s/n@62254990
+3234@CE@1405@Engenheiro João Tomé@Rua Doutor Brandão, s/n@62233990
+3235@CE@1405@Gázea@Rua Central, s/n@62235990
+3236@CE@1405@Livramento@Rua Raimundo Nonato, s/n@62238990
+3237@CE@1405@Matriz@Rua Peixoto Alves, s/n@62232990
+3238@CE@1405@Nova Fátima@Rua Ernesto B. da Silva, s/n@62245990
+3241@CE@1740@Carrapateiras@Rua Central, s/n@63662990
+3242@CE@1740@Marruás@Rua Central, s/n@63665990
+3243@CE@1740@Santa Tereza@Rua Central, s/n@63668990
+3246@CE@1435@Borges@Rua Central, s/n@62835990
+3247@CE@1562@Oiticica@Rua Central, s/n@62770990
+3248@CE@1635@São Francisco@Rua Principal, s/n@63652990
+3249@CE@1636@Tapuiará@Rua Central, s/n@63935990
+3250@CE@1643@Antônio Diogo@Rua Central, s/n@62791990
+3251@CE@1651@São João de Deus@Rua Central, s/n@62908990
+3252@CE@1662@Liseux@Avenida Pedro Odilon, s/n@62293990
+3253@CE@1662@Macarau@Rua Messias Ramos, s/n@62285990
+3255@CE@1742@Bairro Dom Timoteo@Rua Dom Timoteo, s/n@62320991
+3257@CE@1742@Acarape@Rua Principal, s/n@62320990
+3258@CE@1742@Bairro Santo Antonio@Rua Santo Antônio, s/n@62320992
+3824@CE@1156@Facundes@Rod Ce 040 Escola Ótavio Correia Lima@61700996
+3826@CE@1208@Parajuru@Rua Sem Denominação Oficial, S/N@62848990
+3827@CE@1208@Paripueira@Rua Sem Denominação Oficial, S/N@62844990
+3828@CE@1284@Conjunto São Domingos@Rua do Colégio S/N@61685991
+3829@CE@1284@Lagoa da Banana@Rua Principal, S/N Colégio Creche@61685994
+3830@CE@1284@Condomínio Garrote Village@Av Jocob Gomes de Matos, S/N@61690993
+3831@CE@1300@Santo Antônio@Rua Principal, S/N@63705990
+3832@CE@1396@Vila Chapadinha@Vila Chapadinha, S/N@63500992
+3833@CE@1435@São José@Sítio São José@62835991
+3834@CE@1636@Lagoa da Pedra@Rua Sem Denominação Oficial, S/N@63900990
+3835@CE@1636@Arisco@Rua Sem Denominação Oficial, S/N@63900991
+3836@CE@1651@Capim Grosso@Rua Principal, S/N@62908991
+5641@CE@1284@Tabuba Praia Região Leste@Avenida Central, Km 12,5@61685996
+5861@CE@1284@Genipabú@Antero Costa Gadelha, s/sn@61616990
+5862@CE@1284@Urucutuba@Estrada da Urucutuba, s/n@61659990
+5863@CE@1284@Praia da Tabuba@Rua do Colégio, s/n@61618991
+5864@CE@1284@Village das Palmeiras@Rodovia Estruturante, s/n km 11@61623990
+5866@CE@1284@Bom Princípio@Rua Brasília, s/n@61677990
+5868@CE@1651@Pedras@BR 116, km 126 s/n@62900993
+5869@CE@1651@Pedro Ribeiro@Rua Principal, s/n@62900992
+5872@CE@1126@Nova Acopiara@Rua Arimar Moreira Lima, s/n@63560995
+5890@CE@1636@Cipó dos Anjos@Rua Principal, sn@63925990
+5891@CE@1636@Vertentes@Rua Principal, sn@63925991
+5892@CE@1291@Menino de Jesus@BR - 116 km 65 s/n@62875990
+5927@CE@1347@Vila Velha@Avenida Major Assis, 2820 Térreo Bloco L@60345990
+6392@CE@1470@Ilha de Santa Terezinha@Rua Wilson Estácio de Sousa, S/N     Bairro Ilha de Santa Terezinha@62930990
+6507@CE@1284@CPC Toco@Rua Raimundo Sondário, 99   Bairro: Toco@61663990
+1904@DF@1778@Cana do Reino@Rodovia DF-097 (Acesso ao Posto da Polícia Rodoviária)@72127990
+1905@DF@1778@Chácaras do Setor P Norte@QNP 05, Conjunto X@72227990
+1912@DF@1778@Fercal Engenho Velho@Rodovia DF-150 km 12 (Contagem)@73007993
+1914@DF@1778@Jardim Morumbi@Rodovia DF-205 km 1 após o posto da Polícia Rodoviária@73307990
+1915@DF@1778@Taquara@Rodovia DF-410 km 08 (Acesso pela BR-020 a 10 km de Planaltina)@73307991
+1916@DF@1778@Pipiripau@Rodovia DF-205 km 03 (Acesso P/Rod.DF-345 BSB S João D'Aliança)@73307992
+1921@DF@1778@Barreiro@Rodovia DF- 140 km 11@71681990
+1922@DF@1778@Altiplano Leste@Rodovia DF-001@71681991
+1923@DF@1778@AVDCC@Rodovia DF-001 ao lado da Quadra 10 (Núcleo Rural Boqueirão)@71507990
+1987@DF@1778@Boa Esperança@Rodovia DF- 003 km 1,6 (entre o balão do Torto e o Colorado)@71507991
+1988@DF@1778@Núcleo Rural Córrego da Onça@Rua B, Chácara 14, (Núcleo Rural Córrego da Onça)@71707993
+1990@DF@1778@Núcleo Rural DVO@Rodovia BR-020 km 17 (Entre Planaltina e Sobradinho)@73307993
+1992@DF@1778@Bonsucesso@Rodovia DF-128 - Lado direito(logo após a Ponte do Rio Maranhão - EC Bonsucesso@73307994
+1993@DF@1778@INCRA 09 (Alexandre Gusmão)@Rodovia BR-070, km 17 - Salão Comunitário (St de Chácaras A.Gusmão)@72701991
+1997@DF@1778@26 de Setembro@Rodovia DF-240, Km 86 - Rodovia Taguatinga/Brazlândia Chácara 45@72127991
+1998@DF@1778@Córrego do Arrozal@Rodovia BR-020 km 13 (entrada após o Bar do Mocotó)@73007995
+1999@DF@1778@Ponte Alta Norte@Rodovia DF-475 km  05 (ao lado da Escola Classe Ponte Alta Norte)@72457993
+2000@DF@1778@Ponte Alta@Rodovia DF-180 km 65, Chácara 1MD20@72457994
+2435@DF@1778@Vale do Palha@Estrada Parque Paranoá Norte - SMLN - MI 3/5(4,5 km depois do Varjão-Esc. Palha)@71507992
+2436@DF@1778@Vila Estrutural@Baixa Estrutural - Entrada do Aterro Sanitário@71300990
+2438@DF@1778@Boa Esperança@BR-190 km 02 (Entrada do Núcleo Rural Boa Esperança)@72227991
+2439@DF@1778@Engenho das Lages@BR-060 km 32 - Agrovila (sede da ACEL)@72457996
+2441@DF@1778@Núcleo Residencial das Palmeiras@Rodovia DF-475 km 01 - Residencial das Palmeiras@72457995
+2442@DF@1778@Fercal Leste@BR-205 km 01 - Fercal Leste (Posto Telefônico)@73007996
+2605@DF@1778@Olhos D'Água@DF- 003 km 7,5 (ao lado da Igreja)@71507993
+3038@DF@1778@Capoeira do Bálsamo@DF- 015 km 2,5 (Quiosque do Coco)@71507994
+3505@DF@1778@Tabatinga@Rod DF-120 Km 2,5 (Centro Comunitário da Colônia Agrícola Tabatinga)@73307997
+3802@DF@1778@Rua do Mato Fercal@DF-150 km 11, Rua do Mato@73007997
+3928@DF@1778@Vargem Bonita@Area Especial Qd. 9@71707994
+3955@DF@1778@Núcleo Rural Jerivá@Estrada Parque Paranoá Norte - EMLN ML Trecho 3@71540990
+4357@DF@1778@Nova Betânia@Rodovia BR_251 Km 56@71693990
+4365@DF@1778@Condomínio Eldorado Mansões Campestre@Rodovia DF-290 km 21 (via de Acesso)@72410990
+4366@DF@1778@Sobradinho dos Melos@Rodovia DF-250 Km 5@71573990
+4368@DF@1778@Capão da Erva@Rodovia DF-250 Km 8 Centro Comunitário@71573991
+4372@DF@1778@Quebrada dos Neres e Quebrada dos Guimarães@Rodovia DF-130 Km 31 Escola Classe Café sem Troco@71570990
+4636@DF@1778@Condomínio Quintas do Amarante@Rodovia DF-180 km 4 (Portaria do Condomínio)@72227992
+4641@DF@1778@Chapadinha e Circunvizinhas@Rodovia DF-435 km 6,5@72710990
+4642@DF@1778@Vale do Curralinho@Rodovia BR-080 km 18 (Chácara 47)@72738990
+4643@DF@1778@Jardim Serra Dourada@Rodovia DF-290 km 21 (Depois do Posto BR)@72415990
+4769@DF@1778@Corrego do Atoleiro@Rodovia DF-345 km 5,5 Chácara Bom Jesus Nº 10@73370990
+4770@DF@1778@Núcleo Rural Sarandy@Rodovia BR-020 km 18 Entrada da Embrapa CPAC Planaltina@73380990
+4771@DF@1778@Núcleo Rural Sítios Agrovalle@Rodovia DF-130 km 5@73370991
+4806@DF@1778@SHPS@SHPS@72237990
+5026@DF@1778@Quintas do Rio Maranhão@DF-128 Cruzamento com DF-205 Posto da CPRV Entre Planaltina-DF e Planaltina-GO@73380991
+5027@DF@1778@Núcleo Rural Boqueirão@Rodovia DF-001 km 15 Sede da Associação ao Lado da Escola Classe Boqueirão@71573992
+5389@DF@1778@Boa Vista@Rodovia DF-205, km 6@73151990
+5498@DF@1778@Residencial Serra Verde@Rodovia DF-440, km 10 - Núcleo Rural de Sobradinho@73271990
+5521@DF@1778@Vale do Sucupira@Colônia Agrícola Vale do Sucupira Chácara 5 Lote 17@71884990
+5541@DF@1778@Estrela Maior - Assentamento Betinho@Rodovia DF-220 km 6@72710991
+5543@DF@1778@Largo da Pedra Fundamental@Rodovia DF-128 km 13 - Largo da Pedra Fundamental@73376990
+5567@DF@1778@INCRA 6 (Alexandre Gusmão)@Rodovia DF-445 km 1,5 COSIR - Condomínio do Sistema de Irrigação Rodeador@72701994
+5575@DF@1778@Ponte Alta de Cima@Rodovia DF-290 km 26 - Sub-Administração da Ponte Alta@72457997
+5576@DF@1778@Fazenda Larga - APROFAL@Rodovia BR-020 km 49 - VC 107 Núcleo Rural Fazenda Larga Lotes 11 e 13@73380992
+5577@DF@1778@Associação dos Produtores Rurais do Vale Verde - Aprovale@Rodovia DF-128 km 7 - Associação dos Produtores Rurais do Vale Verde - Aprovale@73376991
+5578@DF@1778@Rajadinha II@Rodovia DF-130 km 11 - Associação dos Moradores do Núcleo Rural Rajadinha@73370992
+5718@DF@1778@Rajadinha III@Rodovia DF-250 km 14,5@73370993
+5841@DF@1778@Núcleo Rural Monjolo@Rodovia DF-131 Km 5@73380993
+5919@DF@1778@Núcleo Rural do Jardim@Rodovia DF 285 km 23@73370994
+5932@DF@1778@Morada dos Pássaros I e II@Rodovia DF-220 km 03@72770990
+6104@DF@1778@Prefeitura Comunitária Alexandre Gusmão@Quadra 08 Lote 08 INCRA 08@72701995
+6105@DF@1778@Associação de Moradores e Produtores Rurais do Núcleo Rural Chapada@Núcleo Rural Chapada - DF 135@71693993
+6113@DF@1778@Associação dos Moradores do Condomínio Vivendas Nova Petrópolis@Rodovia BR-020 Km 16@73007998
+6140@DF@1778@Associação Comunitária dos Moradores de Queima Lençol@Rodovia DF-205, Km 4@73151991
+6142@DF@1778@Associação dos Produtores Rurais da Colônia Agrícola Aguilhada@Rodovia BR-251 - Km 69@71693994
+6148@DF@1778@Associação Fraterna Irmã Maria Regina@Núcleo Rural Alexandre Gusmão Gleba 2 - Chacara 118-A@72701996
+6149@DF@1778@Associação dos Produtores Rurais e Moradores do INCRA 07@AR Gleba 03 - Núcleo Rural Alexandre Gusmão@72701997
+6150@DF@1778@Associação dos Produtores e Moradores Rurais da Fazenda Velha@Rodovia DF-250 0 Km 12@73255990
+6357@DF@1778@Jardim do Oriente@CRES Jardim do Oriente Rodovia DF 130 Km 11 Rajadinha II@73370995
+6387@DF@1778@Mansões Park Brasília@Rodovia DF-135 Km 9@71693995
+6389@DF@1778@Condomínio Residencial Monte Verde@BR 070 Km 18 Gleba 4 lote 494@72227993
+6401@DF@1778@Colônia Agrícola Cabeceira do Valo@Colônia Agricola Cabeceira do Valo Sede da Associação Chácara 22@71300991
+6411@DF@1778@Associação Chácaras Rurais Euler Paranhos (ACREP)@Núcleo Rural Euler Paranhos Quinhão 6 Avenida Tenente Antonio João Chácara nº44@73255991
+6484@DF@1778@Condomínio Recanto dos Pássaros@DF 180, INCRA 09 Gleba 04@72276994
+2004@ES@1869@Timbuí@Avenida Vicente Catunda Farias, s/n@29188990
+2019@ES@1816@Barra do Riacho@Rua Patriarca Albino Azeredo, 60 Barra do Riacho@29197990
+2020@ES@1816@Barra do Sahy@Rua Brasiliano Pereira, s/n Barra do Sahy@29195995
+2024@ES@1816@Guaraná@Avenida Gabriel Pandolf, 335 Guaraná@29195990
+2025@ES@1816@Jacupemba@Rua Pedro de Souza, 250 Jacupemba@29196990
+2500@ES@1816@Santa Cruz@Rua 16 de Dezembro, 100 Santa Cruz@29199990
+2503@ES@1816@Vila do Riacho@Rua São Benedito, 391 Vila do Riacho@29197991
+2507@ES@1825@Monte Sinai@Avenida São Francisco, s/n@29807990
+2518@ES@1848@Itaúnas@Rua Principal, s/n@29965990
+2519@ES@1874@Novo Brasil@Rua Alvino Paulo Pereira, s/n@29724990
+2522@ES@1848@Córrego São Domingos@Rodovia BR-101 Norte, 37@29960990
+2530@ES@1925@Canivete@Rodovia Dom José Dalvit, s/n - Canivete@29906998
+2536@ES@1925@Pontal do Ipiranga@Avenida Júpter, s/n@29900994
+2537@ES@1925@Povoação@Rua Beresford Martins Morreira, s/n@29900995
+2538@ES@1925@Rio Quartel@BR-101 km 165, s/n@29900996
+2540@ES@1934@Conceição do Muqui@Rua Principal, s/n@29410990
+2542@ES@1934@Santo Antônio do Muqui@Rua Principal, s/n@29407990
+2543@ES@1934@São Pedro de Itabapoana@Ladeira Amelia Bastos, s/n@29405990
+2549@ES@1954@Vila Verde@Rua Josino de Paula, 184@29752990
+2550@ES@1964@Céu Azul@Rua Serra Dourada, s/n@29285990
+2553@ES@1964@Portinho@Rua Santa Maria, 410@29285994
+2557@ES@1810@Nova Jerusalém@Rodovia Virgílio Lorencini, s/n@29230997
+2558@ES@1810@Iriri@Avenida Dom Helvécio Gomes, s/n@29230990
+2559@ES@1810@Jabaquara@Rua Damaceno Perira, s/n@29236990
+2560@ES@1810@Mãe-bá@Rua Heleno Medeiros, 05@29230991
+2562@ES@1810@Praia dos Castelhanos@Avenida Jovina dos Anjos, s/n@29230993
+2563@ES@1810@Praia de Ubu@Rua Laudelino Neves, s/n@29230995
+2573@ES@1831@Quilômetro Vinte@Rua Principal, s/n@29845991
+2574@ES@1831@Santo Antônio do Pouso Alegre@Rua Presidente Costa e Silva, s/n@29848990
+2576@ES@1825@Vila Luciene@Rua B, s/n@29800990
+2578@ES@1861@Paraju@Praça Pedro Ewald, s/n@29273990
+2579@ES@1861@Pedra Azul@Rodovia BR-262, km 90@29278990
+2580@ES@1861@Santa Isabel@Rua Padre Francisco Albert, s/n@29263990
+2582@ES@1861@Vale da Estação@Rua Principal, s/n@29260992
+2590@ES@1806@Alto Caldeirão@Rua José Delpromni, s/n@29656990
+2591@ES@1999@Santo Antônio do Canaã@Rua 14 de Julho@29654990
+2592@ES@2009@São João de Petrópolis@Rua do Comércio, 277@29660990
+2593@ES@1809@Vargem Alegre - Alto de Santa Maria@Rua São Paulo, s/n@29662990
+2594@ES@2047@Vinte e Cinco de Julho@Rua Principal, s/n@29652990
+2596@ES@2006@São Roque da Terra Roxa@Rua Principal, s/n@29780994
+2599@ES@2019@Nestor Gomes@BR-381 São Mateus x Nova Venécia, km 41@29949990
+2602@ES@2019@Santa Maria@Estrada Principal das Fazendas@29947992
+2706@ES@1861@Melgaço@Estrada Principal, km 30@29276990
+2716@ES@1874@Barra de Novo Brasil@Rua Principal, s/n@29723990
+2935@ES@1925@Regência@Rua Lídio Oliveira, s/n@29914990
+3391@ES@1861@São Paulino do Aracê@Comunidade São Sebastião de Aracê@29278997
+3393@ES@1861@Ponto Alto@Praça Reinoso Kiffer, s/n@29273993
+3394@ES@1861@Perobas@Rua Principal de Perobas, s/n@29273994
+3410@ES@1929@Araguaia@Rua dos Imigrantes - 655@29258990
+3411@ES@1836@São Jorge de Oliveira@Rua Principal - s/n@29635990
+3412@ES@1798@Serra Pelada@Edifício Elecy Maria Hackbart de Carvalho, 100@29603990
+3414@ES@1798@Fazenda Gundú@Avenida Francisco Tosta - 44@29609990
+3419@ES@2037@São João de Viçosa@Avenida Vinte e Quatro de Junho, s/n@29378990
+3420@ES@2037@Alto Caxixe Frio@Estrada Principal, s/n@29375994
+3480@ES@1988@Mangaraí@Cartório de Barra de Mangaraí@29644993
+3481@ES@2043@Jurama@Estrada Principal, s/n@29793990
+3482@ES@2043@São Jorge da Barra Seca@Estrada Principal, s/n@29790990
+3483@ES@1800@Governador Lacerda de Aguiar@Rodovia - ES 080, s/n@29826990
+3489@ES@1918@Acioli@Rua Felipe Raizer, s/n@29687990
+3494@ES@1839@Burarama@Rua Helena Santolin, s/n Centro Burarama@29327990
+3495@ES@1839@Conduru@Avenida Cândido Câmara, s/n Centro Conduru@29329990
+3496@ES@1839@Gironda@Rua Jerônimo Moreira Filho, s/n Centro Gironda@29326990
+3497@ES@1839@Itaóca@Rua Ermenegildo de Sá, s/n Centro Itaóca@29325990
+3498@ES@1839@Pacotuba@Rua Antero Soares, s/n Centro Pacotuba@29323990
+3499@ES@1839@Vargem Grande do Soturno@Praça José Nunes, s/n Centro Vargem Grande do Soturno@29321990
+3501@ES@1925@Desengano@Praça Principal, s/n@29916990
+3502@ES@1925@São Rafael@Avenida José Tesch Sobrinho, s/n@29918990
+3506@ES@1957@Bairro Camata@Rua Nossa Senhora de Fátima - s/n@29970991
+3507@ES@1957@Cristal do Norte@Rua Principal - s/n@29978990
+3509@ES@1946@Santo Antônio do Quinze@Estrada Principal , s/n@29839990
+3510@ES@1946@Boa Vista@Rua Itaperuna, s/n@29830991
+3511@ES@1946@Cedrolândia@Praça Central, s/n@29830992
+3512@ES@1946@Cristalina@Praça da Amizade, s/n@29830993
+3513@ES@1946@Guararema@Rua Getúlio Vargas, s/n@29842990
+3514@ES@1946@Poção@Praça da Igreja, s/n@29830994
+3515@ES@1946@São Gonçalo@Estrada Principal, s/n@29830995
+3516@ES@1825@Cachoeirinha de Itaúna@Estrada Principal, s/n@29805990
+3517@ES@1825@Vila Vicente@Avenida Alexandre Pereira Gomes, s/n@29800992
+3518@ES@1927@Santa Luzia de Mantenópolis@Avenida Maurílio Antônio de Souza, s/n@29772990
+3519@ES@1927@São Geraldo@Rua Messias Gonçalves@29776990
+3520@ES@1927@São José de Mantenópolis@Rua Sebastião Nunes Rosa, s/n@29778990
+3522@ES@1978@São Jorge de Tiradentes@Avenida Fernando Gonçalves, s/n@29925990
+3523@ES@1803@Anutiba@Praça São José@29530990
+3525@ES@1803@Café@Praça Godofredo Costa de Menezes, s/n@29515990
+3526@ES@1803@Celina@Avenida Senador Atílio Vivácqua, s/n@29510990
+3527@ES@1803@Rive@Rua Bernardo Vargas, 20@29520990
+3528@ES@1803@Santa Angélica@Estrada Principal , s/n@29525990
+3530@ES@1813@Bonsucesso@Rua Jacy Lopes Theodoro, s/n@29458990
+3531@ES@1813@José Carlos@Rua Doutor Manoel da Silva Araújo, s/n@29455990
+3534@ES@1885@Santa Marta@Rua Principal, s/n@29545990
+3539@ES@1892@Santa Cruz de Irupi@Rua Principal, s/n@29399990
+3905@ES@1935@São Sebastião do Norte@Estrada Municipal, s/n@29890993
+4715@ES@1861@Melgaço de Baixo@Estrada Municipal, km 20@29276993
+6017@ES@1825@Vila Paulista@Praça Municipal, s/n@29815990
+6202@ES@1816@Santa Rosa@Estrada Santa Rosa-Santa Cruz s/n Santa Rosa@29199995
+6233@ES@1839@Córrego dos Monos@Rua José Ribeiro Avelar, 13 Centro Córrego dos Monos@29328990
+6404@ES@1810@Alto Pongal@Rodovia Virgílio Lorencini, s/n Alto Pongal@29238990
+3024@GO@2222@Americanos@BR-040 - Estrada até o Povoado dos Americanos@72800991
+5088@GO@2222@Jardim Bandeirantes@Quadra 96, Lote 05@72823990
+5091@GO@2135@Caixa Postal Comunitária Povoado Mesquita@Rodovia GO-521 - Km 08@72880990
+5524@GO@2258@América do Sul@Quadra 11 Casa 7 - Residencial América do Sul@72860990
+5525@GO@2258@Residencial Alvorada@Quadra 216 Lote 43 - Residencial Alvorada@72860991
+6075@GO@2055@Associação Comunitária de Padre Lúcio@Quadra 05 - Chácara 1 - Recreio Paraíso@72910990
+6112@GO@2222@Associação de Moradores da Capelinha@Rodovia GO 404 Km 04 Rodovia de ligação de Luziânia Caldas Novas@72801992
+6370@GO@2174@Residencial Balneário I@Rua Jardins Viena, Quadra 04, Lote 11, Residencial Baneário I - Goiânia-GO@74591990
+6371@GO@2174@Residencial Balneário II@Rua Jardins Veneza, Quadra 09, Lote 14, Residencial Balneário II - Goiania-GO@74591991
+2138@MA@2475@Movimento Organizado Bom Jesus@Rua da Amizade, s/n - Bom Jesus - Escola Munipal da Amizade@65900990
+2229@MA@2606@Castelo@Vila do BEC, s/n@65632990
+2622@MA@2390@Alto Bandeirante@Rua Nova, s/n (Unid. Escolar Chagas Araújo)@65700990
+2623@MA@2390@Bairro Novo Bacabal@Avenida Dom Bosco, s/n (Ponto Comercial)@65700991
+2701@MA@2412@Bairro Escalvado@Rua Cândido Mendes, s/n (Ponto Comercial)@65520990
+5553@MA@2606@Povoado Roncador@Povoado Roncador@65634990
+5557@MA@2606@Povoado Campo Grande@BR - 316@65636990
+6030@MA@2587@União de Moradores do Taim@Rua Principal, 42 - Sítio Taim@65099990
+6088@MA@2612@Associação Comunitária dos Moradores do Comum@Comum - Sítio União@65580990
+6226@MA@2585@União dos Moradores do Parque Jair@Rua da União, 100 - Parque Jair@65110991
+6289@MA@2587@Associação de Pequenos Produtores da Vila Magril@Av. São José de Ribamar, 01 - Vila Magril@65058992
+6352@MA@2512@Associação dos Pequenos Produtores Rurais do Povoado Gurutil@Povoado Gurutil, S/N - Zona Rural@65265990
+6353@MA@2587@Associação Beneficente do Residencial Nova Vida@Rua El Shaday, 21 - Residencial Nova Vida@65058993
+6367@MA@2522@Associação de Moradores da Vila Residencial Nova Canaã@Avenida Zinolle Barbosa Bello, 864 - Mocajutuba@65130990
+6388@MA@2522@Clube de Mães do Povoado Pindoba@Rua Tia Bia, s/n - Pindoba@65130991
+6390@MA@2585@Clube de Mães Nossa Senhora da Conceição@Estrada de Jussatuba, 47 A  - Bom Jardim II@65110992
+6397@MA@2522@Assoc Benef dos Moradores do Porto de Mocajutuba, Sururutiu e Pedrinhas@Rua Vila Nova, 63 - Porto do Mocajutuba - Paço do Lumiar@65130992
+6398@MA@2587@Associação Recreativa Beneficente de Cajupe de Santa Bárbara@Rua Principal, 12 - Cajupe@65057990
+6417@MA@2587@Associação Social e Cultural dos Moradores do Residencial Ribeira@Rua Rio Codozinho, 12 QD 34 - Ribeira@65094990
+1463@MG@2762@Escola Municipal Prefeito Brás@Rua Governador Valadares, 425 - S Afonso@32623993
+1464@MG@2762@Mercearia Bom Jesus@Rua Principal, 42 - Pimenta@32621990
+1467@MG@2762@Bar Monte Verde@Rua Maurício Saliba, 105 - Pingo D'Água@32601990
+1475@MG@2980@Bar e mercearia do Wandey@Rua Um, nº 20, Sítio Recreio, Contagem@32056990
+2842@MG@2754@Associação Comunitária Ênio@Estrada Velha de Nova Lima, 1275@30295994
+2843@MG@2754@Bar do Pereira@Estrada Velha de Nova Lima, 275@30295995
+2968@MG@2762@Bar do Romeu@Rodovia MG-050  km 33, nº 550 - Açude@32625990
+2971@MG@2762@Mercearia do Roberto@Rua Serra Negra, 04 - Saraiva@32616990
+2979@MG@2762@Supermercado Rebote@Avenida Dois, 552 - Vila das Flores@32605990
+3001@MG@3047@Posto de Saúde@Conselho Comunitário do Buriti@35501991
+3016@MG@3047@Conselho Comunitário de Branquinhos@Praça da Igreja, s/n - Branquinhos@35501993
+3017@MG@3234@Boa Esperança - Associação Comunitária@Avenida João Paulo I, 267- Boa Esperança@35902990
+3019@MG@3234@Associação Comunitária da  Chapada@Rua da Chapada, s/n - Chapada@35902991
+3037@MG@3267@Posto de Saúde do Brejo Alegre@Praça do Brejo Alegre, s/n.@35681996
+3039@MG@3267@Mercearia da Dona Maria@Rua Principal, s/n - Córrego Soldado@35681991
+3040@MG@3267@Cons. Desenv. Com. V . Alegre@Praça Vista Alegre, s/n - Pov. V. Alegre@35681992
+3041@MG@3267@Posto de Saúde Comunidade de Campos@Rua D, nº. 7 - Comunidade de Campos@35681993
+3042@MG@3267@Salão do Vicente@Praça da Igreja, s/n - Cachoeirinha@35681994
+3049@MG@3986@E M Renato T Guimarães@Avenida Constelação, s/n - Estiva@35702990
+3053@MG@3986@E M Regina V Botelho - Silva Xavier@Praça Pio Rodrigues Lima@35702991
+3054@MG@3986@Bar e Mercearia Liboreiro - Riacho do Campo@Rua Manoel de Souza, 105@35702992
+3055@MG@3986@Bar e Mercearia São João - Quintas Varginha@Avenida Manoel A. Costa, 620@35702993
+3056@MG@3986@Bar e Mercearia Casa Velha@Rua Leonídio A. Faria, 33 - Fazenda Velha@35702994
+3300@MG@3724@Associação Comunitária do Rosário@Rua Greik, 40 - Rosário II@34565990
+3755@MG@2800@Associação Comunitária Santa Rita@Rua Principal s/n, povoado de Santa Rita@35189990
+5417@MG@3924@Posto de Saúde de Termópolis@Rua Quinze de Novembro S/N, Termópolis.@37950990
+5418@MG@3924@Condomínio Campo Alegre@Rodovia BR 491 Km 05@37950991
+5419@MG@3907@Posto de Saúde@Rua Minas Gerais 61 - São J. Barreiro@37928990
+5420@MG@3104@Bar e Lanchonete Juncal@Zona Rural@37640994
+5421@MG@3104@Bar e Mercearia Roseira@Zona Rural - Roseira@37640995
+5422@MG@3104@Lanchonete do Pedro@Zona Rural - Pessegueiros@37640993
+5423@MG@3104@Lanchonete@Bairro dos Forjos - Zona Rural@37640992
+5424@MG@3104@Padaria Nestor@Rodovia Fernão Dias - km 882 - Jardim Extrema@37640991
+5425@MG@3104@Padaria Por do Sol@Zona Rural - Pires@37640990
+5427@MG@3333@Prefeitura Municipal@Avenida Arnaldo L. Ribeiro S/N - Areado@36980990
+5428@MG@3333@AGC Prata@Avenida Sebastião Godinho Reis 185 - Prata@36980991
+5444@MG@3478@Associação Comunitária Bairro Aleixo@Rua Projetada 31,  75@35920991
+5455@MG@2834@Portaria Condomínio Quintas da Serra@Alameda Quintas da Serra s/n@34800990
+5457@MG@2757@Cartório de Registro Civil/Notas@Rua Santa Rita de Cássia 280 - Santana do Paraopeba@35475990
+5463@MG@3571@Posto de Saúde de Ferreiras@Rua São Vicente s/n -  Angicos@33257990
+5465@MG@3571@Bar e Mercearia Angicos@Rua do Cruzeiro 440 - Morada dos Angicos@33252990
+5467@MG@3571@Posto de Saúde de Teotônio Batista de  Freitas@Rua Elias Marques 50 - T. B. Freitas (Bairro da Lua)@33254990
+5488@MG@3047@Centro Comunitário de Amadeu Lacerda@Praça Frei Hilário, s/n - Amadeu Lacerda@35501997
+5489@MG@3047@Centro Comunitário de Quilombro@Quilombo@35501998
+5490@MG@3047@Associação Comunitária dos Lopes@Povoado dos Lopes@35501994
+5491@MG@3267@Bar do Adriano@Estrada Brejo Alegre, 540 - Pedra@35681995
+5609@MG@3047@Comunidade do Choro@Conselho Comunitário do Choro@35501996
+5675@MG@3924@Condomínio Cachoeira@Estrada São Sebastião do Paraiso, KM 07@37950992
+5680@MG@3254@Artesanatos Palhinha@Rod. BR-354 KM-704@37466990
+5682@MG@2762@Mercearia Residencial@Rua Hilda Alves Novais, 73 - Residencial Lagoa@32606991
+5683@MG@2762@Bar do Adilson@Rua Sergipe, 91 - Santo Afonso@32623990
+5834@MG@3047@Comunidade Djalma Dutra@Comunidade Djalma Dutra@35500996
+5835@MG@3047@Comunidade dos Costas@Comunidade dos Costas@35500995
+5865@MG@2735@Autoposto Roselanche@Rodovia BR-040 Km 693@36204990
+5937@MG@3093@Mercadinho Casa Resende@Rua Messias C. Rezende s/n - Córrego dos Mulatos@37542990
+5962@MG@3724@Mercearia da Valdete@Rua Joaquim Ferreira Madureira, 49@34580990
+5964@MG@3724@Sub - Prefeitura@Avenida Doutor Henrique de Mello, 429 - Rosário III@34535990
+5973@MG@3480@Associação Comunitária@Rua Dona Maria da Glória, 711, São Sebastião das Águas Claras, Nova Lima, MG@34009990
+5974@MG@3532@Associação Comunitária do São Sebastião@Rua Joaquim Brochado, 316, São Sebastião, Paracatu, MG@38609990
+5975@MG@2762@Bar do Claudinho@Avenida Amazonas, 4820 - Cachoeira@32602991
+5976@MG@2762@Pamonharia Mineira@Rodovia MG-050 nº 302 - Brodoski@32616992
+5977@MG@2762@Condomínio Residencial Saraiva@Rua Serra Negra, 11 - Quintas do Godoy@32616991
+5980@MG@2762@Casa@Rua Francisco José Martins, 467 - Santo Afonso@32623991
+5983@MG@2762@Gabirobas Bar@Rua Henrique Almeida Santos, 411 - Casa Amarela@32635991
+5992@MG@2754@Bar do Antônio@Rua do Brás, 40 - Itaipu@30692990
+5993@MG@3234@Bar e Mercearia do João@Rua Acre, 122 - Barro Branco@35902993
+5999@MG@3654@Paróquia São Geraldo Magela@Cajuru - Zona Rural@37561990
+6001@MG@3654@Mercadinho Vista Alegre@Rua Professor Joaquim Rosa - Massaranduba@37561991
+6014@MG@3385@Igreja Católica@Rua Domingos Ferreira da Costa, 63.@32470993
+6015@MG@3385@Artmóveis - Móveis Artesanais@Rodovia MG 040 Km 43 n° 4880 - Funil@32470992
+6050@MG@3563@Comércio do Deocesano@Rua Um, 136 - Betânia@35565990
+6051@MG@3563@Armazém do Batista@Rua Um, 419 - Lambari@35565991
+6106@MG@2726@Caixa Postal Comunitária da Baixa@Rua Basílio Eugênio dos Santos@38101990
+6156@MG@2691@Associação das Fazendinhas Pai José@Rua Pai José, s/n Bairro Pai José@35777991
+6157@MG@2729@FHEMIG@Fazenda da Lagoa - Zona Rural@38900990
+6179@MG@3234@Baixada Grande@Rua Baixada Grande, 216 - Barreiro@35903990
+6207@MG@3334@Bairro São João@Posto de Saúde do bairro São João s/n@37480990
+6237@MG@3724@Bar e Mercearia da Carol@Rua Prudente de Morais, 50, Jardim Castanheiras, Sabará, MG@34589990
+6238@MG@3724@Associação Comunitária Zinho@Estrada Velha de Nova Lima, Km 04, Castanheiras, Sabará@34505990
+6240@MG@3724@Bar e Mercearia do Benedito@Avenida Governador Valadares, 180, Sabará@34600990
+6241@MG@3724@Pastoral@Rua Principal, 10, Jardim Castanheiras, Sabará@34589991
+6242@MG@3724@Mercearia do Marquinho@Rua Arco-Íris, 300, Jardim Castanheira, Sabará@34505992
+6243@MG@3724@Bar do Manoel@Rua das Cachoeiras, 300, Jardim Castanheiras@34589992
+6244@MG@3177@Escola Municipal Doutor Luiz de Brito@Rua Pedro Ferreira, Sn, Cruzeiro Aricanga, Guanhães, MG@39740991
+6245@MG@3267@Salão Paroquial - Comunidade de Lopes@Estrada Rural dos Campos@35680990
+6247@MG@3267@Condomínio Alphaville@Rodovia MG-050 Km-84,900 ao 85,799@35680992
+6254@MG@3047@Chácaras Sambeca@Avenida Lago das Roseiras, 101 - Lago das Roseiras - Divinópolis MG@35504990
+6257@MG@3480@Secretaria do Condomínio@Rua Morro dos Pires, nº 10, bairro Jardim Petrópolis, Nova Lima, MG@34015990
+6258@MG@3749@Depósito Morro dos Ventos@Rua Tocantins@33130990
+6259@MG@3749@Bar Mercearia@Rua Uriel Reis, 70@33140990
+6260@MG@3749@Mercearia Nova Esperança@Rua Aranha@33141990
+6261@MG@4047@Associação de Morador@Estrada Municipal, s/n Peirópolis@38039990
+6262@MG@2754@Igreja Católica@Rua das Hortas, 08-A@30670990
+6263@MG@2754@CDD Tirol@Avenida Senador Levindo Coelho, 1830 Vale do Jatobá@30664990
+6264@MG@2754@Conselho Regional de Apoio Social@Rua Duzentos e Oitenta e Um@30666990
+6277@MG@3093@Lanchonete Boa Vista@Praça da Matriz, s/n@37542992
+6278@MG@3724@Padaria e Mercearia do Laércio@Rua Salvador Correia de Sá, 171 - Rosário I@34555992
+6279@MG@3724@Mercearia do Eustáquio@Rua Tomé de Souza, 507 - Rosário I@34555993
+6293@MG@3460@Comunidade Divisório@Avenida Hormindo Rodrigues, s/n, Franco Suiço@36886990
+6294@MG@3460@Comunidade Sofocó@Avenida Alvino Carlos de Souza, s/n Sofocó@36888990
+6295@MG@2729@Mercearia do Salvador@Praça Padre Mário Gerlin, s/n@38900991
+6302@MG@2762@Condomínio Gentileza - Bairro Marimba@Estrada da Gentileza, s/nº, bairro Gentileza@32618990
+6303@MG@3304@Bairro Tanquinho II@Rua Geraldo Ferreira de Araújo, 265, Casa, Tanquinho II@35931990
+6330@MG@2691@Comunidade de Carvalho de Almeida@Rua Joaquim Pereira Moura, nº 280 Carvalho de Almeida@35777990
+6338@MG@3211@Associação dos Moradores do Vale da Serra@Alameda dos Rouxinóis, nº 99, Vivendas Santa Mônica II@32900990
+6339@MG@3211@Bar e Mercearia do Pedro@Rua Sebastiana do Serro, 754, Jequitibá@32900991
+6340@MG@3211@Comercial Vista da Serra@Rua Vista Alegre, 36, Recanto do Igarapé@32900992
+6341@MG@3312@Associação do Bairro Vila Maria Regina@Alameda Pinheiro, nº. 66, Vila Maria Regina, Juatuba, MG@35675990
+6376@MG@2980@Associação@Rua A, n° 80, Chácaras Del Rey, Contagem@32046990
+6377@MG@2980@Clube San Remo@Alameda Campo Alegre, nº 100, San Remo@32062990
+6378@MG@2980@Mercearia Soares@Rua Sema, nº 1020, Nazaré, Contagem - MG@32051990
+6379@MG@2980@Escola@Rua N s/n,@32060990
+6384@MG@3785@Associação dos Moradores Residencial Bethania@Avenida Principal, 1679, Residencial Bethânia, Santana do Paraiso-MG@35179990
+6431@MG@2754@Providens - Ação Social Arquidiocesana@Rua Além Paraíba 208, bairro Lagoinha, Belo Horizonte, CEP 31.210-120@31210990
+6435@MG@2973@Escola Municipal  Victorino Ribeiro@Rua José Pedro, sn@36417990
+6436@MG@2973@Escola Municipal  José Antônio da Silva@Rua São Cristóvão, 711@36412990
+6449@MG@3236@CPC Água Limpa@Avenida Santos  Dumont, 555, Água Limpa, Itabirito@35459990
+6451@MG@3236@CPC Portões@Rua Francisco José  De Carvalho, 4399, Portões, Itabirito, MG.@35457990
+6453@MG@3236@CPC Meu Sítio@Rua Estrada do  Padre Adelmo,  128,@35454990
+2903@MS@4141@Chácara dos Poderes@Estrada NE 5  240@79037990
+2904@MS@4141@Chácara das Mansões@Rua Sertanópolis, 246@79079990
+2905@MS@4107@Vila Limeira@Rua Álvaro - V Oliveira@79990990
+5378@MS@4270@AGC - Vila Vargas@Rua João Gulart, s/nº@79878990
+5379@MS@4250@AGC - São Pedro@Rua Paraná, s/nº@79862990
+5781@MS@4255@AGC- Capão Bonito@Rua Principal, s/n@79170990
+5783@MS@4239@AGC- Perdigão@Rua Principal, s/n@79470990
+5784@MS@4239@AGC- São Francisco@Rua Antônio João, s/n@79470991
+5785@MS@4138@AGC- Pontinha do Cocho@Rua Principal, s/n@79420990
+5786@MS@4188@AGC- Furnas do dionizio@Rua Principal, s/n@79440990
+5788@MS@4154@AGC- Silviolandia@Av. Gonzaga,473@79400990
+5789@MS@4246@AGC- Areado@Rua Henriqueta de Jesus, s/n@79490990
+5790@MS@4150@AGC- Taboco@Av. Pedro Balduino Pereira, 983@79460990
+5791@MS@4150@AGC- Fala Verdade@Rua João Anacleto, s/n@79460991
+5792@MS@4150@AGC- Recanto dos Pintados@Rua Principal, s/n@79460992
+5793@MS@4242@AGC- Piraparque@Rua dos Dourados, 11@79450990
+5805@MS@4261@AGC- Taunay@Rua Principal, s/n@79200990
+5806@MS@4139@AGC- Camisão@Rua Principal, s/n@79200991
+5807@MS@4147@AGC- Cipolandia@Rua Principal, s/n@79200992
+5808@MS@4217@AGC- Palmeiras@Rua Principal, s/n@79215990
+5809@MS@4201@AGC- Morraria do Sul@Rua Principal, s/n@79390990
+5810@MS@4130@AGC- Assentamento Sumatra@Rua Principal, s/n@79390991
+5811@MS@4133@AGC- Boqueirão@Rua Principal, s/n@79240990
+5812@MS@4110@AGC- Monjolinho@Rua Principal, s/n@79210990
+5813@MS@4176@AGC- Indaiá do Sul@Rua do Comércio, 560@79542990
+5814@MS@4180@AGC- Ipezal@Av. Presidente Vargas, s/n@79787990
+5815@MS@4228@AGC- Pontinha do Cocho@Rua Principal, s/n@79424990
+5816@MS@4149@AGC- Congonhas@Rua Principal, s/n@79432990
+5817@MS@4119@AGC- Areado@Rua Henriqueta de Jesus, s/n@79492990
+2609@MT@4347@Jardim Imperial II@Avenida das Torres, Quadra 02 Casa 23@78075990
+2610@MT@4347@Jardim Colorado@Rua H, 162@78040990
+3087@MT@4347@Residencial Ana Maria@Rua Principal, s/n@78055990
+3088@MT@4347@Vista da Chapada@Rua Mata Fria, Lote 01@78099990
+3089@MT@4347@Jardim Primeiro de Março@Rua D, s/n@78058990
+3091@MT@4347@Jardim Renascer@Avenida Archimedes Pereira Lima, s/n@78060990
+3092@MT@4511@Vinte e Quatro de Dezembro@Rua Leôncio Lopes de Miranda, s/n@78132990
+3093@MT@4511@São Mateus@Rua Trinta e Dois - Esquina c/ Rua Oito@78150990
+3094@MT@4511@Serra Dourada@Avenida Principal, s/n@78140990
+3095@MT@4511@Souza Lima@Avenida Principal, s/n@78132991
+3096@MT@4511@Cohab Nova Ipê@Avenida Principal, 01@78158990
+3097@MT@4511@Capão Grande@Rua Luis Pedro de Lima, 862@78145990
+3098@MT@4511@Jardim Ouro Verde@Rua Trinta e Seis, Quadra 40, nº 05@78148990
+3099@MT@4511@Jardim das Oliveiras@Rua Um - Quadra 01- Lote 14@78120990
+3100@MT@4511@Santa Maria@Rua Um, Quadra 35, Casa 06@78128990
+3101@MT@4511@Joaquim Curvo@Rua SD, Quadra 13, Lote 11@78118990
+3102@MT@4511@Capela do Piçarrão@Rua Leôncio Lopes de Miranda, s/n@78132992
+3103@MT@4511@Bonsucesso@Avenida Gil João da Silva, s/n@78132993
+3104@MT@4511@Cohab Sete de Maio@Rua Onze - Quadra 21- Casa 01@78132994
+3105@MT@4511@Treze de Setembro@Rua Barra do Garças, Quadra 02@78132995
+3106@MT@4511@Cohab João Baracat@Rua Mateus Barbosa, 05@78145991
+3107@MT@4462@Vila Paulista@Avenida Principal, s/n@78700990
+3108@MT@4462@Parque São Jorge@Rua Principal, s/n@78700991
+3109@MT@4462@Verde Teto@Rua Principal, s/n@78700993
+3110@MT@4462@Jardim das Flôres@Rua Principal, s/n@78700994
+3121@MT@4511@Nova Fronteira@Avenida Principal, s/n@78148991
+3272@MT@4511@Pai André@Avenida Principal, s/n@78132996
+3288@MT@4347@Jardim Liberdade@Avenida Principal, s/n@78093990
+3289@MT@4347@Sucuri Cuiabá@Avenida Principal, s/n@78105990
+3311@MT@4511@Parque do Sabiá@Rua Dezesseis - Quadra 21 - Lote 17@78149990
+3413@MT@4511@Jardim Eldorado@Av. Celestino Escolástico esquina com Av. Anízio Hadad@78150991
+3847@MT@4347@Jardim Itapuã@Rodovia Deputado Emanuel Pinheiro, Km 01@78055991
+3848@MT@4347@Três Poderes@Rua Galiléia, Q 02, nº 203@78055998
+6013@MT@4511@Comunidade Parque Boa Vista@Rua Principal s/n@78165990
+1515@PA@4764@Coleipa@Rua da Coleipa, 44@68798990
+3256@PA@4565@Vila Maracangalha@Avenida Júlio César, s/n@66613990
+3262@PA@4774@Associação dos Moradores do Bairro Jaderlândia@Rua B, Quadra 11, Lote 01@68045990
+3264@PA@4774@Associação dos Moradores do Cucurunã@Rodovia Doutor Everaldo de Sousa Martins, s/n@68020990
+3265@PA@4774@Associação de Moradores de São Braz@Rodovia Doutor Everaldo de Sousa Martins, s/n@68020991
+3266@PA@4774@Conselho Comunitário de Cipoal@Rodovia BR-163, km 14 - Santarém-Cuiabá@68030990
+3267@PA@4774@Conselho Comunitário de São José@Rodovia BR-163, km 19 - Santarém-Cuiabá@68030991
+3268@PA@4774@Conselho Comunitário do Tabocal@Rodovia BR-163, km 24 - Santarém-Cuiabá@68030992
+3269@PA@4774@Conselho Comunitário dos Moradores de Jacamim@Curuá Una, km 20@68045991
+3270@PA@4774@Conselho Comunitário dos Moradores de São Raimundo da Palestina@Ramal do São Raimundo da Palestina, km 26@68045992
+3273@PA@4677@Associação de Moradores Rurais Capistrano de Abreu@Vila Capistrano de Abreu, s/n@68500990
+3282@PA@4774@Conselho Comunitário dos Moradores do Tipizal@Curuá Una, Km 26@68045993
+3285@PA@4774@Comunidade de Aramanaí@Travessa Aramanaí, s/n@68035990
+3687@PA@4701@Igarapé da Lama@PA Muju, Km 7@68120990
+4392@PA@4774@Comunidade Estrada Nova@Avenida Curuá-Una, Km 7@68045994
+5398@PA@4774@Comunidade de Urumanduba@Avenida Curua-uma, s/n - Urumanduba@68020992
+5399@PA@4774@Comunidade do Amparo (Cedro)@Rodovia Santarém-Cuiabá, s/n - Comunidade do Amparo@68030993
+5400@PA@4774@Comunidade do Maicá@Avenida Maicá, s/n - Maicá@68045995
+5515@PA@4774@Comunidade Boa Fé@Estrada Santarém-Mujuí dos Campos, s/n - Boa Fé@68120992
+5516@PA@4774@Comunidade Garrafão@Estrada Santarém-Mujuí dos Campos, s/n - Garrafão@68120991
+1520@PB@4964@Praia de Nossa Senhora da Penha@Avenida Nossa Senhora da Penha, s/n - (Posto Policial)@58047990
+2268@PB@4904@Marinho@Sítio Marinho@58400990
+2272@PB@5028@Pinturas de Cima@Engenho Pinturas de Cima@58393990
+2274@PB@4904@Serrotão@Rua Projetada, s/n - Mutirão do Serrotão@58434990
+3146@PB@4964@Engenho Velho@Sítio Engenho Velho@58082991
+3151@PB@4904@Sítio Lucas@Sítio Lucas@58430991
+5740@PB@4904@Sítio Salgadinho@Sítio Salgadinho@58430992
+5741@PB@4904@Sítio Caixa d'Água@Associação dos Moradores da Comunidade Caixa d'Água - Bodocongó@58430990
+6386@PB@5044@Sítio Verdes@Associação de Produtores Rurais - ELO VERDE@58476991
+1521@PE@5189@Cidade Garapu@Rua Cinquenta e Cinco ,  Qd 68 Lote 44 - Santo Inácio@54510990
+1524@PE@5198@Aldeia@Estrada de Aldeia, PE-27, km 05 - Aldeia dos Camarás@54792990
+1529@PE@5281@São Marcos@Rua São Marcos, 6 - Lot. São Marcos - Sítio dos Marcos@53615990
+1532@PE@5389@Vila CS-01@Vila Centro de Serviço - Projeto Senador Nilo Coelho@56300990
+1533@PE@5389@Vila N-01@Rua B-81 - Projeto Senador Nilo Coelho@56300991
+1534@PE@5389@Vila N-02@Rua A-19 - Projeto Senador Nilo Coelho@56300992
+2946@PE@5135@Gemba@Estrada de Aldeia, s/n - km 17 - Zona Rural@53589990
+2948@PE@5135@Chã de Cruz@Avenida Norte, 01 - Loteamento Beija-Flor - Chã de Cruz@53590990
+2954@PE@5189@Engenho Massangana@Fazenda Engenho Massangana@54510992
+2955@PE@5189@Engenho Algodoais@Fazenda Engenho Algodoais@54510993
+2956@PE@5189@Enseada dos Corais@Lote 21, Quadra 21, Setor 03 - Enseada dos Corais@54500990
+2957@PE@5189@Suape@Rua José Conrado, s/n - Zona Rural@54510994
+2958@PE@5189@Gaibu@Rua Laurentino Gomes, s/n - Gaibu@54500992
+2959@PE@5189@Pirapama@Rua Nove, 37 - Pirapama@54505990
+2961@PE@5189@Pontezinha@Rua Conde da Boa Vista, 1051 - Pontezinha@54530990
+2974@PE@5216@Alto do Moura@Rua Mestre Vitalino, 107 - Alto do Moura@55000990
+2993@PE@5216@Loteamento José Liberato@Avenida Sargento José dos Santos Leite , 115 - Dep.José Antonio Liberato@55027990
+2997@PE@5264@Russinha@Rua Principal , s/n - Russinha@55640990
+2998@PE@5264@Uruçu-Mirim@Rua Principal , s/n - Uruçu-Mirim@55640991
+2999@PE@5264@Mandacaru@Rua Principal , s/n - Mandacaru@55640992
+3002@PE@5281@Santarém@Rua da Escola , 21 -  (Escola Maria José do Amaral)@53610991
+3004@PE@5281@Boa Vista@Rua Virgínio Morais, 120@53640993
+3005@PE@5285@Serrambi@Vila dos Pescadores , s/n@55590990
+3007@PE@5296@Mangabeira@Rua São João Batista , 42 - Mangabeira@53700990
+3011@PE@5302@Muribeca dos Guararapes@Rua do Rosário, 96-A - Muribeca dos Guararapes@54350993
+3013@PE@5302@Curado IV@Rua Dois, s/n - Curado@54270991
+3020@PE@5362@Vila Santa Maria@Rua das Mangueiras, 01 - Tabajara@53350990
+3022@PE@5362@Olinda Nova@Avenida Flores do Campo, 180  Fragoso - Olinda@53250990
+3027@PE@5387@Papagaio@Rua Constâncio Dovaizem , s/n - Distrito de Papagaio@55215990
+3028@PE@5387@Salobro@Rua Nova , s/n - Distrito de Salobro@55200990
+3029@PE@5343@Mimoso@Rua Silvino Tenótio , s/n - Distrito de Mimoso@55225990
+3033@PE@5389@Nova Descoberta@Rua Principal, s/n - Povoado de Nova Descoberta@56301995
+3035@PE@5406@Residencial dos Milagres@Avenida Pedro Ribeiro Malta, 150 - Ibura@51275990
+3050@PE@5439@Barra do Riachão@Vila Barra do Riachão@55672990
+3212@PE@5198@São João II@Rua dos Coronéis, 404 - São João e São Paulo@54780991
+4598@PE@5453@Bernardo Vieira@Rua Dez de Novembro, s/n@56922990
+4599@PE@5453@Caiçarinha da Penha@Praça João Regalo, s/n@56916990
+4600@PE@5453@Tauapiranga@Rua Abel Gomes Brandão, 64@56925990
+4644@PE@5143@Perpétuo Socorro@Praça Zacarias Virgínio, s/n - Distrito Perpétuo@55265990
+4646@PE@5146@Vila Teimosa@Rua Bolívia, 2 - Vila Teimosa@55890991
+4647@PE@5174@Boas Novas@Rua da Conceição, s/n - Distrito Boas Novas@55662990
+4648@PE@5174@Cajazeiras@Rua do Comércio, s/n - Povoado de Cajazeiras@55660991
+4649@PE@5174@Encruzilhada de São João@Rua Antônio M. Castanho, s/n - Povoado de Encruzilhada de São João@55660990
+4650@PE@5174@Sapucarana@Rua José do Patrocínio, s/n - Distrito de Sapucarana@55661990
+4651@PE@5174@Serra Negra@Rua João Francisco da Silva, s/n - Vila Serra Negra@55660992
+4652@PE@5174@Sítio dos Remédios@Rua Rui Barbosa, s/n - Vila dos Remédios@55660993
+4653@PE@5187@Catimbau@Rua São Cristovão, s/n - Vila do Catimbau@56537990
+4654@PE@5189@Charnequinha@Rua Um, 363 - Charnequinha@54505991
+4655@PE@5189@Alto Bela Vista@Rua Cinco, s/n - Torrinha@54525990
+4656@PE@5189@Loteamento Novo Horizonte@Rua C-1, s/n - Charneca@54535991
+4657@PE@5189@Vila Nossa Senhora do Rosário@Rua Joaquim Caetano Gomes, s/n - Nossa Senhora do Rosário@54500994
+4658@PE@5189@Águas Compridas@Avenida Águas Compridas, s/n - Gaibu@54500995
+4659@PE@5189@Alto do Colégio@Rua Amaro José dos Santos, 8 - Cohab@54520990
+4661@PE@5218@Roçadinho@Rua da Rodagem, s/n - Povoado de Roçadinho@55400990
+4662@PE@5239@Vila de Ameixas@Rua João Paulo Barbosa, s/n - Distrito Vila de Ameixas@55658990
+4663@PE@5242@Maravilha@Rua Manoel Leandro de Moraes, s/n - Distrito Maravilha@56650990
+4664@PE@5256@Lagoa de João Carlos@Rua do Comércio, s/n - Povoado Lagoa de João Carlos@55780990
+4665@PE@5259@Miracica@Rua Sao Jose, 55 - Distrito de Miracica@55303990
+4666@PE@5259@São Pedro@Rua do Comércio, 147 - Distrito de São Pedro@55302990
+4667@PE@5302@Conjunto Residencial Muribeca@Rua Dezessete, s/n Quadra 35 Lotes 14 e 15 - Conjunto Marcos Freire@54350991
+4669@PE@5302@Cova de Onça@Escola Josefa Batista da Silva, lote 26 - Curado@54220991
+4670@PE@5302@Muribeca dos Guararapes II@Avenida Newton Carneiro Filho, 11 - Muribeca@54350994
+4674@PE@5307@Itaparica@Avenida Eletrobrás Sul, s/n - Centro@56470990
+4675@PE@5362@Beira Rio@Rua Rio Capibaribe, 316 - Tabajara@53350991
+4676@PE@5387@Cimbres@Rua da Creche, s/n - Distrito de Cimbres@55205990
+4677@PE@5387@Mutuca@Rua São Francisco, s/n - Distrito Mutuca@55210990
+4683@PE@5407@Vila Couro D'Antas@Povoado Vila Couro D'Antas, s/n - Vila Couro D'Antas@55121990
+4684@PE@5407@Vila de Pinhões@Povoado de Pinhões, s/n - Vila de Pinhões@55120991
+4685@PE@5407@Vila do Rangel@Povoado Vila do Rangel, s/n - Vila do Rangel@55120990
+4686@PE@5407@Vila do Vitorino@Povoado Vila do Vitorino, s/n - Vila do Vitorino@55120992
+4687@PE@5407@Vila Trapiá@Povoado Vila Trapiá, s/n - Vila Trapiá@55122990
+4688@PE@5419@Mulungu@Rua Manoel Raimundo Oliveira, s/n - Distrito Mulungu@55255990
+4689@PE@5419@Santa Clara@Rua Principal, s/n - Santa Clara@55250991
+4690@PE@5443@Riacho do Meio@Rua Antônio Apolônio, s/n - Distrito Riacho do Meio@56705990
+4691@PE@5445@Matriz da Luz@Praça Pátio da Matriz, Nº 624 "A" - Nossa Senhora da Luz@54749990
+4692@PE@5445@Parque Capibaribe@Rua Onze, 100 - Muribara@54720990
+4693@PE@5453@Logradouro@Rua do Comércio, s/n - Logradouro@56922991
+4695@PE@5456@Algodões@Rua do Comércio, s/n - Vila de Algodões@56625990
+4696@PE@5456@Henrique Dias@Rua do Comércio, s/n - Vila Henrique Dias@56620990
+4698@PE@5385@Horizonte Alegre@Avenida Honório Tenório, s/n - Vila Horizonte Alegre@55280990
+4699@PE@5385@Poço do Boi@Praça Paulo Gouveia de Brito, s/n - Vila Poço do Boi@55280991
+4700@PE@5385@Santo Antônio@Rua Antônio de Albuquerque, 70 - Vila Santo Antônio@55280992
+4702@PE@5169@Serra do Vento@Avenida Principal, s/n - Zona Rural@55160990
+4703@PE@5169@Xucuru@Avenida Principal, s/n - Zona Rural@55165990
+4705@PE@5135@Engenho Novo@Estrada de Engenho Novo , s/n - Zona Rural@53589992
+4706@PE@5135@Jaguaribe@Sítio Jaguaribe, 211-A - Zona Rural@53500990
+4783@PE@5189@Vila Claudete@Rua Quatro, s/n Quadra J - Santo Inácio@54515990
+4784@PE@5189@Engenho Serraria@Engenho Propriedade Serraria, s/n PE-60 km 08 - Vila Dois Irmãos@54520992
+4785@PE@5189@Vila Nova@Rua Vinte e Seis, 52-A PE-60 km 02 - COHAB@54520991
+4786@PE@5384@Mumbeca l@Rua José Anacleto da Silva s/n - Sitio Mumbecas@53409990
+4789@PE@5198@Major Lélio@Estrada de Aldeia, s/n PE-27 km 07 - Aldeia dos Camarás@54792991
+4790@PE@5216@São João da Escócia@Rua Cícero Pereira, 12 - Salgado@55018990
+4791@PE@5302@Gregório Bezerra@Avenida Getúlio Vargas, 08 - Muribeca@54350995
+4793@PE@5261@Tejucupapo@Avenida Goiana s/n@55905990
+4794@PE@5261@Pontas de Pedra@Rua do Meio, 241 Pontas de Pedra - Goiana@55908990
+5024@PE@5445@Tiúma do Futuro@Avenida Doutor Edgard Loureiro Falcão,117@54737990
+5240@PE@5189@Cepovo@Rua Vinte e Nove de Dezembro, s/n - Vila Cepovo@54510995
+5241@PE@5189@Engenho Tiriri@Engenho Tiriri, s/n@54510996
+5242@PE@5406@Vale do Senhor@Rua da União, 01- Vila Frei Damião@52160992
+5243@PE@5198@Casa Grande D´Aldeia@Estrada de Aldeia, s/n km14, PE-27 - Aldeia dos Camarás@54783990
+5571@PE@5411@Padre Cícero@3ª Travessa da Rua A nº 33 -Alto Padre Cícero@55520990
+5596@PE@5384@Cidade de Atenas@Rua Presidente João Gulart, 01 Vila Torres Galvão@53403990
+5597@PE@5387@Eucalipto@Avenida Antonio Rosa da Silva, 18 Eucalipto@55200991
+5598@PE@5189@Madre Iva@Rua João Malaquias NR 30  - Cohab@54520993
+5599@PE@5189@Nazaré@Rua do Sol, 06 - Vila Nazaré@54510997
+5603@PE@5302@Suassuna@Rua Usina Jaboatão, s/n - Usina Jaboatão@54080990
+5671@PE@5198@Emporium@Estrada de Aldeia, s/n km 5,5  - Aldeia dos Camarás@54792992
+5738@PE@5216@Rosa de Saron@Rua Professor Sérgio Coelho, s/n - Cedro@55020990
+5755@PE@5389@Caititu@Avenida Principal, s/n  - Povoado de Caititu@56301992
+5758@PE@5389@Tapera@Avenida Principal, s/n - Agrovila de Tapera@56301997
+5760@PE@5389@N-06@Núcleo Habitacional, s/n - Projeto Senador Nilo Coelho@56303990
+5761@PE@5389@C- 03@Rua B, nº 27@56303991
+5762@PE@5389@Maria Tereza@Rua Quatro, 2"B" Vila km 25 - Projeto Maria Tereza@56303992
+5889@PE@5478@Oto Neves@Rua Surubim, Nr 57- Cohab@55125990
+5894@PE@5146@Santa Luzia@Rua Santa Luzia, 40 Aliança@55890990
+5895@PE@5302@Comunidade Edson de Oliveira Silva@Rua B, 175  Estrada Velha da Usina Jaboatão@54353991
+5904@PE@5406@Amigos do Rio@Rua da Jaqueira, 100@51240990
+6016@PE@5281@Inhamã@Avenida Inhamã,  S/N - Inhamã@53625991
+6021@PE@5441@Tentugal@Engenho Tentugal - Zona Rural - São José da Coroa Grande@55655990
+6027@PE@5178@São Rafael@São Cristóvão, 45 São Rafael@55330990
+6038@PE@5384@Riacho de Prata II@Rua Maria Letícia, Nr 330 - Maranguape II@53422990
+6057@PE@5218@Canaã@Rua Professora Irene de Morais, 54 Canaã@55400991
+6067@PE@5282@Irajaí@Rua Doutor José Lopes de Almeida, S/N - Distrito de Irajaí@56845990
+6095@PE@5441@Gameleira@Rodovia PE-60, Km - 85 Loteamento Gameleira@55565992
+6097@PE@5302@Alvorada@Rua Vitória-Régia Nr 100 Dois Carneiros@54280990
+6098@PE@5384@Chã da Mangabeira@Av. Mangabeira Nr. 700 - Tabajara@53404990
+6099@PE@5441@Várzea do Una@Rua do Cajuzeiro S/N Povoado Várzea do Una@55565991
+6109@PE@5470@Capibaribe@Rua Padre Pedro José de Moraes, Nr. 62 - Capibaribe@55790990
+6110@PE@5216@Fernando Lyra@Rua Cinco, S/N - Universitário@55016990
+6111@PE@5154@Novo Arcoverde@Rua B, Nr 2 - São Cristóvão@56503990
+6126@PE@5377@Alto da Serra@BR-423 Km 123 - Povoado Alto da Serra@55355990
+6138@PE@5384@Mata do Ronca@Estrada da Paz, Nº 75 MIrueira@53405990
+6143@PE@5135@Córrego da Areia@Rua Córrego da Areia Nr 405 Caetés I@53530992
+6151@PE@5189@Amigos da Natureza@Loteamento Flor do Vale, Nr 10 - Pirapama@54505992
+6168@PE@5154@Riacho do Meio@Povoado Riacho do Meio, S/N - Zona Rural@56519990
+6174@PE@5383@Usina Mussurepe@Rua do Cinema, nº 20 - Zona Rural@55825990
+6205@PE@5285@Salinas@Rua Projetada, s/n - Porto de Galinhas@55592991
+6206@PE@5285@Maracaípe@Rua Projetada s/n - Maracaípe@55592992
+6231@PE@5302@Gregório Bezerra II@Rua Frei Caneca, 208 - Muribeca@54355990
+6305@PE@5189@Vila das Mercês@Rua Manoel Marinho de Lima, 123@54535992
+6320@PE@5348@Cercado Grande@Rua CSU, 108 "A"  Lot Cercado Grande@54800990
+6323@PE@5135@Engenho Pitanga II@Engenho Pitanga II - Área II@53589991
+6324@PE@5281@Cortegada-ll@Rua Nossa Senhora da Rosa Mística s/n - Tabatinga@53605991
+6351@PE@5216@Severino Afonso@Rua Severino Paulo da Silva, nº 240 - Loteamento Severino Afonso@55044990
+6364@PE@5462@Lagoa Queimada@Rua Oscar Cavalcante, s/n - Diogo@55750990
+6366@PE@5399@Residencial Primavera@Rua Dulce de Oliveira nº 149 - Residencial Primavera@55510990
+6381@PE@5362@Centro Social Urbano@Avenida Renato de Castro Leitão nº 19, Jardim Atlântico@53060990
+6385@PE@5362@Base Rural@Rua Mato Grosso nº 22 - Tabajara@53360991
+6391@PE@5406@Souza Luna@Rua do Rosário s/n@50770990
+1537@PI@5721@Alegria@Rua Celso Pinheiro, s/n - São Lourenço@64039990
+1540@PI@5721@Santa Teresa@Loteamento Juruá, s/n - Vle Q Tem@64058990
+1541@PI@5721@Usina Santana@Rua Edmilson Sidnei de Carvalho, s/n - Santana@64097990
+2003@PI@5721@Soinho@Estrada da Socopo, s/n - Socopo@64063990
+2223@PI@5721@Cacimba Velha@Estrada Vale Quem Tem/Cacimba Velha, s/n@64057990
+2224@PI@5721@Campestre@Estrada Teresina/Fazenda Nova@64041990
+2225@PI@5721@Pilões@Estrada Teresina/Curralinhos@64043990
+2226@PI@5721@Nazária@BR-130 - Estrada Teresina/Palmeirais@64040990
+3204@PI@5721@São Vicente@PI - 112, s/n@64065990
+4622@PI@5721@Chapadinha Sul@BR - 316 - km 24@64022990
+4623@PI@5721@Santa Luz de Cima@PI - 112 - km 18@64067990
+4777@PI@5721@Povoado Boqueirão@Estrada Municipal Santa Luz - Cajaíba@64066990
+4778@PI@5721@Povoado Santa Rita@PI 113 km 04 - Zona Rural@64074990
+5555@PI@5721@Povoado Taboca do Pau Ferrado@BR - 343 - km 17@64090990
+5556@PI@5578@Dermerval Lobão@BR - 316 - km 18@64390990
+5558@PI@5585@Povoado Lagoa Seca@Povoado Lagoa Seca@64180990
+5559@PI@5721@Povoado Vila do Sossego@Rodovia PI-130 - km 37 - Nazária@64028990
+5560@PI@5721@Povoado Lagoinha@BR 343 - km 10@64074994
+5856@PI@5721@Verde Cap@Rua Imperatriz Teresa Cristina, s/n - Verde Cap@64093990
+5857@PI@5721@Coroatá@Rodovia PI 113, Km 16@64059990
+5946@PI@5721@Residencial Vinícius de Moraes@Estrada da Taboca do Pau Ferrado ( Cuídos )@64090991
+5947@PI@5721@Torrões@Estrada da Alegria@64039991
+5950@PI@5721@Árvores Verdes@Estrada da Cacimba Velha@64069990
+5952@PI@5721@Santa Luz de Baixo@Rodovia PI - 112, Km - 22@64067994
+6012@PI@5721@Bebedouro@Rodovia PI - 130, Km 32@64040991
+6028@PI@11896@CPC-Lagoa Nova@Estrada Povoado Lagoa Nova@64415990
+6029@PI@5517@CPC-Montevidéu@BR-343, s/n@64410990
+6052@PI@5721@Boa Hora@Avenida Poty Velho, s/n@64012991
+6081@PI@5721@Bom Futuro@Avenida Noé Mendes@64082990
+6082@PI@5721@Zé de Holanda@Km 10 BR-343 - Estrada de Altos@64049990
+6133@PI@5721@Serra do Gavião@Estrada da Cacimba Velha, s/n@64057991
+6160@PI@5721@Ave Verde@Av Pres. Kennedy s/n@64063991
+6164@PI@5585@Sítio Alegre@Estrada do Povoado Sítio Alegre@64180991
+6192@PI@5721@Povoado Divino Espírito Santo@Estrada da Cacimba Velha@64069991
+6193@PI@5721@Jardim das Palmeiras@Rua Ferroviária s/n@64088991
+6210@PI@5665@Lagoa Comprida@Av Cap Felipe Araujo Rocha@64604990
+6211@PI@5665@Samambaia@Av Piauí@64608990
+6212@PI@5665@Morrinhos@BR-316 Lado Impar - Altamira@64602990
+6213@PI@5665@Altamira@BR-316 Km 303 - Lado Impar - Altamira@64602991
+6221@PI@5721@Dezessete de Abril@Associação Trabalhadores Rural Assentamento 17 de Abril Km 21@64022991
+6225@PI@5721@Povoado Lagoa da Mata@Estrada da Cacimba Velha, s/n@64069992
+6412@PI@5721@Humaitá@Estrada TER 125, km 16, Povoado Humaitá@64039992
+6424@PI@5721@Povoado Gurupá de Baixo@PI 112, s/n@64067991
+1542@PR@5746@Vila Prado@Rua Professor Alberto Piekas, 100@83505990
+1543@PR@5746@Tranqueira@Rua Antônio Stochero, 46@83514990
+1544@PR@5774@Ponta da Pita@Rua da Prainha, 406@83370990
+1545@PR@5774@Portinho@Rua Escoteiro Milton Oribe, s/n@83370991
+1547@PR@5774@Jardim Barigui@Rua Zung Suischen, s/n@83370993
+1575@PR@6135@Caieiras@Rua Geral, s/n@83280990
+1577@PR@6150@John Kennedy@Avenida Brasil, s/n@86200991
+1578@PR@6205@Marques dos Reis@Rua Willy Davis, s/n@86400990
+1580@PR@6297@Conjunto São Lucas@Rua Tocantins, 25@85960990
+1581@PR@6308@Jardim São Domingos@Rua Aquino Cantagali, s/n@87070990
+1582@PR@6321@Solymar@Avenida Paranaguá, s/n@83260990
+1584@PR@6427@São João@Rua Frederico Klin, 25@85509990
+1593@PR@6501@Campininha@Avenida Dom Pedro II, 6008@83420990
+1594@PR@6501@Palmitalzinho@Rua Nossa Senhora da Luz, s/n@83420991
+1595@PR@6504@Vila Pindorama@Rua Indaiá, s/n@85460990
+1596@PR@6656@Cotia@Vereador Domingos Benvenutto Moletta, s/n@83021990
+1597@PR@6656@Colônia Marcelino@Vereador Domingos Benvenutto Moletta, s/n@83024990
+1600@PR@6656@Cachoeira@Rua Vila Nova s/n@83022990
+1601@PR@6656@Agaraú@Rua Arcídio Claudino Barbosa, s/n - Bairro Agaraú@83024991
+2068@PR@6155@Yitzhak Rabim@Rua Principal, s/n - Salao Comunitário@86750990
+2081@PR@6015@Caximba@Travessa Dois, 14 da Rua João Ribeiro Baptista@81490992
+2086@PR@6015@Jardim Kosmos@Rua Antônio Petruzziello, s/n@82110990
+2090@PR@6015@Vila Joanita@Rua Brasílio de Lara, 8@82820990
+2091@PR@6656@Faxina@Rua Carlos Kusma, s/n@83023991
+2095@PR@6472@Pontal do Sul@Avenida Beira Mar, s/n@83255993
+2097@PR@6460@Águas Claras@Estrada da Roseira, 89@83308990
+2098@PR@6460@Planta Nemari@Estrada do Botiatuva, s/n@83309990
+2101@PR@6509@Doce Grande@Rua Principal, s/n@83843990
+2102@PR@6509@Pangaré@Rua Principal, s/n@83845990
+2105@PR@6091@Remanso Grande@Rua Astorga, s/n@85853990
+2106@PR@6196@Ivainópolis@Rua Principal, s/n - Centro Comunitário@86870990
+2107@PR@6213@São José@Rua Benedito José da Silva, 216@86905990
+2110@PR@6812@Alto Paraíso@Avenida Pedro Amaro dos Santos, 1020@87528990
+2115@PR@6656@Contenda de São José dos Pinhais@Estrada Principal, s/n@83115990
+2116@PR@6145@Honório Serpa@Rua São Francisco, s/n@85548990
+2117@PR@6472@Canoas@Rodovia Engenheiro Darci Gomes de Morais, Km 2,5@83255990
+2118@PR@6472@Itatiaia@Rodovia Engenheiro Darci Gomes de Morais, s/n@83255994
+2119@PR@6472@Leblon@Rodovia Engenheiro Darci Gomes de Morais, s/n@83255995
+2232@PR@6674@Vila Bom Jesus@Rua João Toporowicz, s/n@83930990
+2233@PR@6674@Loteamento Santa Cruz@Rua Professor Bernardo do Amaral Wolff, 306@83930991
+2286@PR@5774@Cacatu@Rua Principal, s/n@83375990
+2287@PR@5774@Cachoeira de Cima@Rua Principal, s/n@83380990
+2288@PR@5906@Jaguatirica@Rua Principal, s/n Posto de Saúde@83440991
+2453@PR@6235@Primavera@Avenida Paraná, s/n@87355990
+2456@PR@6235@Rio Verde@Avenida Santos Dumont, s/n@87357991
+2457@PR@5843@Paranaguaçu@Avenida Brasil, s/n@87390990
+2458@PR@5843@Alto Palmital@Avenida Júlio José Souza, s/n@87390991
+2459@PR@5906@Canelinha@Rua Principal, s/n - Posto de Saúde@83430991
+2460@PR@5906@Jardim Santa Rita@Rua Benedito Jacomit, 416@83430992
+2820@PR@6431@Paulistânia@Avenida São Jorge, s/n@87588991
+2821@PR@6333@Mirante do Piquiri@Avenida Duque de Caxias, s/n@87590992
+2984@PR@6460@Laranjeiras@Estrada Pará, s/n@83307990
+3067@PR@6254@Butiá@Rua Principal, s/n - Escola Municipal@83750993
+3070@PR@6272@Valinhos@Rua Principal, s/n - Escola Dom Pedro@87290990
+3315@PR@6418@Ilha de São Miguel@Praça Central, s/n@83251993
+3316@PR@6418@Ilha do Teixeira@Praça central, s/n@83251992
+3317@PR@6068@Jardim Colonial@Rua A, 819@83825990
+3324@PR@6091@Alto da Boa Vista@Rua Principal, s/n@85869990
+3328@PR@6321@Balneário Costa Azul@Avenida Paranaguá, 4000@83260993
+3329@PR@6418@Colônia Maria Luiza@PR-508, Km 07@83251994
+3330@PR@6418@Ilha do Amparo@Praça Central, s/n@83251990
+3331@PR@6418@Jardim Esperança@Rua dos Flamingos, s/n@83218990
+3332@PR@6418@Jardim Iguaçu@Rua dos Jacarandás, 278@83210990
+3333@PR@6418@Ilha de Eufrasina@Praça Central,s/n@83251991
+3334@PR@6532@São João Batista@Rua Rosa Zonato, 209@83540990
+3335@PR@6532@Nossa Senhora de Fátima@Rua Principal, s/n@83540991
+3336@PR@6532@Vila São Pedro@Rua Principal, s/n@83540992
+3337@PR@6532@Santaria@Rodovia dos Minérios, s/n@83540993
+3338@PR@6532@Nodari@Avenida Principal, s/n@83540994
+3797@PR@6015@Vila Gusso@Rua Fernandes Vieira, 476@81020990
+3803@PR@6418@Porto Seguro@Rua Principal, s/n@83218991
+3806@PR@6135@Prainha@Rua Alípio dos Santos, 55@83280991
+3808@PR@6460@Planta Entremar@Estrada da Barragem, 44@83307992
+3809@PR@5746@Jardim Santa Fé@Rua Professor Izidoro da Silva, 72@83511990
+3810@PR@6799@Seção São Paulo@Rua Principal, s/n@86280990
+3814@PR@5913@Jardim da Água Boa@Estrada da Água Boa, s/n@83535990
+3816@PR@5913@Jardim Boa Vista I@Rua Jasmin, 297@83535992
+3817@PR@5913@Jardim Novos Horizontes@Rua Moisés Colotel, 66@83535993
+3818@PR@5913@Jardim Bom Pastor@Rua Principal, s/n@83535994
+4186@PR@6446@Pinhal de São Bento@Avenida São Roque, 178@85727990
+4188@PR@6496@Ibiaci@Rua Guaraca, 170@86143990
+4196@PR@6532@Açungui@Avenida Principal, s/n@83550990
+4198@PR@6543@Lajeado dos Vieiras@Rua Principal, s/n@83880990
+4200@PR@6554@Nossa Senhora da Aparecida@Rua Guarani, 90@86607990
+4206@PR@6556@Alto São João@Avenida São Pedro, 89@87323990
+4207@PR@6579@São José do Ivaí@Avenida Parana, s/n@87913990
+4208@PR@6589@Quinzópolis@Rua Principal, s/n@86355990
+4209@PR@6652@São José das Palmeiras@Avenida José Bonifácio, 1204@85898990
+4211@PR@6656@Colônia Murici@Rua Doutor Murici, 12@83185990
+4213@PR@6674@Caitá@Rua Principal, s/n@83920990
+4214@PR@6674@Lajeado@Rua Principal, s/n@83910990
+4215@PR@6689@Porto São José@Rua Principal, s/n - Posto de Saúde@87957990
+4216@PR@6711@Saudade do Iguaçu@Avenida Iguaçu, s/n@85568990
+4217@PR@6722@Serranópolis do Iguaçu@Avenida Independência, 150@85885990
+4218@PR@6758@Malu@Praça Luiz Peraro, s/n@87245990
+4219@PR@6760@Adhemar de Barros@Rua Ubiratã, s/n@87895990
+4220@PR@6786@Marquês de Abrantes@Rua Principal, s/n@83485990
+4221@PR@5746@Tanguá@Rua Professor Alberto Krause, 2007@83508990
+4222@PR@5755@Santa Maria@Rua Dezesseis de Agosto, s/n@87755990
+4223@PR@5756@Mirante do Piquiri@Avenida Duque de Caxias, s/n@87590990
+4224@PR@5756@Paulistânia@Avenida São Jorge, s/n@87588990
+4226@PR@5804@Bugre@Rua Principal, s/n@83660990
+4227@PR@5804@São Caetano@Rua Principal, s/n@83650990
+4228@PR@5804@São Luiz do Purunã@Rua Principal, s/n@83670990
+4229@PR@5809@Bourbonia@Rua Joaquim Murtin, s/n@86963990
+4230@PR@5809@Paraíso do Sul@Rua Principal, s/n@86960990
+4231@PR@5834@Bela Vista do Caroba@Avenida Rio Grande do Sul, 107@85745990
+4232@PR@5845@Boa Esperança do Iguaçu@Rua Demétrio Pinzon, 16@85680990
+4233@PR@5856@Bom Jesus do Sul@Avenida Ipiranga, 72@85708990
+4234@PR@5864@Bom Sucesso do Sul@Rua Cândido Melo, 290@85515990
+4239@PR@5906@Jardim Santa Rosa@Rua Principal, s/n - Posto de Saúde@83430990
+4240@PR@5906@Barragem do Capivari@Rua Principal, s/n@83440990
+4241@PR@5906@Ribeirão Grande@Rua Principal, s/n - Posto de Saúde@83440993
+4242@PR@5906@Rio do Cedro@Rua Principal, s/n - Posto de Saúde@83440992
+4244@PR@5911@Campo do Meio@Estrada para Balsa Nova, s/n@83604990
+4245@PR@5911@Colônia Antônio Rebouças@Rua Principal, s/n@83631990
+4246@PR@5911@Colônia Dom Pedro II@Rua Principal, s/n@83632990
+4248@PR@5911@Três Córregos@Rua Principal, s/n@83642990
+4249@PR@5914@Piquirivaí@Rua Duque de Caxias, 65@87318990
+4250@PR@5941@Centralito@Rodovia BR-277, km 577@85823990
+4254@PR@5990@São Francisco de Imbaú@Rua Principal, s/n@86325990
+4255@PR@5993@Campestre@Rua Principal, s/n@83730991
+4256@PR@5993@Catanduvas do Sul@Rua Principal, s/n@83740990
+4257@PR@5993@Serrinha@Rua Principal, s/n@83730992
+4258@PR@5996@Congonhas@Avenida Paraná, 454@86305990
+4259@PR@5997@Coronel Domingos Soares@Avenida Araucária, s/n@85557990
+4260@PR@6009@Cuzeiro do Iguaçu@Rua das Palmeiras, 558@85598990
+4263@PR@6025@Diamante do Sul@Rua Juscelino Kubitschek, s/n@85408990
+4266@PR@6068@São Sebastião@Avenida João Quirino Leal, s/n@83825991
+4267@PR@6081@Flor da Serra do Sul@Rua João Arisi, 111@85618990
+4268@PR@6091@Jardim Jupira@Rua Sílvio Romero, s/n@85865991
+4269@PR@6126@Bentópolis@Rua Paraná, s/n@86625990
+4270@PR@6133@Tagaçaba@Rua Principal, s/n@83390991
+4271@PR@6133@Superagui@Rua Principal, s/n@83390992
+4272@PR@6133@Ilha das Peças@Rua Principal, s/n@83390993
+4273@PR@6133@Ilha do Almeida@Rua Principal, s/n@83390994
+4274@PR@6133@Itaqui@Rua Principal, s/n@83390995
+4275@PR@6133@Batuva@Rua Principal, s/n@83390996
+4276@PR@6133@Tagaçaba de Cima@Rua Principal, s/n@83390997
+4277@PR@6133@Potinga@Rua Principal, s/n@83390998
+4278@PR@6133@Pedra Chata@Rua Principal, s/n@83395991
+4279@PR@6133@Serra Negra@Rua Principal, s/n@83395990
+4280@PR@6254@Capão Bonito@Rua Principal, s/n@83750992
+4281@PR@6254@Colônia Johanesdorf@Rua Principal, s/n@83750994
+4282@PR@6254@Faxinal dos Correias@Rua Principal, s/n@83750995
+4283@PR@6254@Rio da Várzea@Rua Principal, s/n@83750996
+4284@PR@6254@Núcleo Leiteiro@Rua Principal, s/n@83750997
+4285@PR@6254@Pedra Lisa@Rua Principal, s/n@83750998
+4286@PR@6254@Alves Cardosos@Rua Principal, s/n@83751990
+4287@PR@6254@Colônia Municipal@Rua Principal, s/n - Escola Municipal@83751992
+4288@PR@6254@Mariental@Rua Principal, s/n@83760990
+4289@PR@6254@Barra dos Melos@Rua Principal, s/n@83760991
+4290@PR@6254@São Bento da Lapa@Rua Principal, s/n@83760992
+4291@PR@6254@Feixo dos Boteatuva@Rua Principal, s/n@83760993
+4292@PR@6254@Restinga@Rodovia do Xisto, km 54,5@83760994
+4293@PR@6254@Água Azul@Rua Principal, s/n@83770990
+4294@PR@6254@Carqueja@Rua Principal, s/n@83770991
+4295@PR@6254@Mato Preto@Rua Principal, s/n@83770992
+4296@PR@6254@Rio da Areia@Rua Principal, s/n@83770993
+4297@PR@6254@Cento e Doze@Rua Principal, s/n@83770994
+4298@PR@6254@Faxinal dos Castilhos@Rua Principal, s/n@83770995
+4299@PR@6254@Canoeiros@Rua Principal, s/n@83770996
+4300@PR@6254@Bonito@Rua Principal, s/n@83770997
+4301@PR@6152@Porto Camargo@Avenida Recife, s/n@87532990
+4302@PR@6152@Vila Rica do Ivaí@Avenida Principal, s/n@87534990
+4303@PR@6157@Iguatu@Rua Doze de Outubro, s/n@85423990
+4306@PR@6180@Águas de Jurema@Avenida Carangola, s/n@87280990
+4307@PR@6184@São Joaquim do Pontal@Rua Constâncio Jussiani, s/n@86378990
+4308@PR@6140@Herculândia@Avenida São João, s/n@87527990
+4309@PR@6218@Novo Horizonte@Avenida Industrial, 315@87225990
+4310@PR@6274@Mairá@Rua Vereador José Batista Zaine, s/n@86638990
+4311@PR@6287@Manfrinópolis@Rua Principal, s/n@85628990
+4312@PR@6297@Jardim Marechal@Avenida Rio Grande do Sul, s/n@85960991
+4313@PR@6308@Floriano@Avenida Antônio Santiago Gualda, s/n@87105990
+4314@PR@6365@Nova Esperança do Sudoeste@Avenida Iguaçu, s/n@85635990
+4316@PR@6396@Água Boa@Avenida Ipiranga, s/n@87145990
+4318@PR@6418@Jardim Ouro Fino@Rodovia PR-407, nº 2225@83218992
+4319@PR@6418@Ilhas Encantadas@Praça de Embarque de Encantadas, s/n@83251995
+4320@PR@6427@São Roque do Chopim@Avenida Nossa Senhora Aparecida, 132@85513990
+4321@PR@6443@Trigolândia@Rua Principal, s/n@83860991
+4322@PR@5761@Jardim Paredão@Avenida Curitiba, s/n@87552990
+4323@PR@5761@São João@Avenida Guaíra, s/n@87553990
+4327@PR@6286@Areia Branca dos Assis@Rua Principal, s/n@83810990
+4328@PR@6289@Barra Santa Salete@Rua Principal, s/n@85265990
+4329@PR@6299@Carbonera@Avenida Paraná, 213@87483990
+4330@PR@6471@Guaragi@Rua Francisco Dias da Silva, s/n@84120990
+4331@PR@6477@Porto Barreiro@Avenida Principal, s/n@85345990
+4333@PR@6472@Balneário Ipanema@Rua Alba de Souza, s/n@83255996
+4334@PR@6472@Balneário Shangri-lá@Rodovia PR-412, s/n@83255997
+4335@PR@6472@Guaraguaçu@Estrada Alexandra-Praia de Leste, s/n@83255998
+4336@PR@6496@Vila Gandhi@Avenida Mahatma Gandhi, s/n@86142990
+4337@PR@6590@Aparecida do Ivaí@Rua Maringá, s/n@87915991
+4338@PR@6656@Campo Largo da Roseira@Estrada Principal, s/n@83183990
+4340@PR@6709@Vale Azul@Avenida Vale Azul, 57@87115990
+4341@PR@5756@Saltinho do Oeste@Praça Dom Bosco, s/n@87585990
+4342@PR@5809@Ourilândia@Avenida Brasil, s/n@86968990
+4344@PR@5809@Tereza Breda@Rua Coronel Junqueira, s/n@86964990
+4345@PR@5906@Jardim Graciosa@Rua José Simioni, 101@83435990
+4346@PR@6047@Sertãozinho@Avenida Principal, 15@87272990
+4347@PR@6108@Jaracatiá@Rua Principal, s/n@87364990
+4348@PR@6091@Jardim América@Rua Estanislau Ponte Preta, 144@85864990
+4367@PR@6254@Campina@Rua Principal, s/n@83751994
+4369@PR@6254@Contestado@Rua Principal, s/n@83760995
+4370@PR@6254@Nosso Chão@Rua Principal, s/n@83751995
+4371@PR@6254@Passa Dois@Rua Principal, s/n@83751997
+4373@PR@6254@São João do Caiva@Rua Principal, s/n@83751996
+4374@PR@6254@Santo Amaro@Rua Principal, s/n - Associaçao de Mães@83751993
+4722@PR@6268@Limoeiro@Estrada Major Achilles Pimpão Ferreira, s/n@86040990
+4723@PR@6268@Selva@Rua João Costa Melquiades, s/n@86108990
+4724@PR@6268@Três Bocas@Rodovia João Alves da Rocha Loures, s/n@86109990
+4726@PR@5749@Alto Alegre@Rua São Paulo, 230@86695990
+4727@PR@6209@Jacutinga@Rua Cambé, s/n@86878990
+4728@PR@5836@Mini Usina Hidrossolúveis@Rua Mato Grosso, s/n@86130990
+4729@PR@6346@Nossa Senhora Aparecida@Rua Antônio Badesso, s/n@86383990
+4730@PR@5783@Aricanduva@Rua Guarani, 711@86719990
+4731@PR@5783@Vila Reis@Rua Apucarana@86719991
+4732@PR@6472@Colonia Pereira@Rua Principal, s/n - Posto de Saúde@83255992
+4733@PR@5746@Bairro Chico Mendes@Rua Presidente Tancredo Neves, 922@83504990
+4739@PR@5958@Loteamento Bela Vista@Rua das Orquídeas, 3472@85560990
+4740@PR@6104@General Carneiro@Rua Henrique Wagner Filho, 100@84660990
+4747@PR@6404@Palmeirinha@Rua Felipe Karan, 136@85118990
+5390@PR@6656@São Judas Tadeu@Rua Pedro Bonatto, 265@83065990
+5391@PR@5746@Jardim Rosana@Rua José Real Prado, 3501@83502990
+5392@PR@5746@Juruqui@Estrada Principal do Juruqui, s/n@83507990
+5393@PR@5913@Jardim Viviane@Estrada do Cerne, km 15@83535991
+5526@PR@5964@Vila Liberdade@Rua da Paz, 9@83413991
+5531@PR@6068@Fazenda Iguaçu@Rua Francisco Ferreira da Cruz, 20@83820990
+5535@PR@5964@Jardim Nossa Senhora da Penha@Rua Aníbal Feliciano dos Santos, 475@83402990
+5538@PR@6418@Jardim Iguaçu I@Rua dos Jatobás, 199@83210991
+5539@PR@6418@Colônia Santa Rita@Avenida Senador Attilio Fontana, 14@83212990
+5580@PR@6418@Jardim Santa Helena@Rua dos Jatobás@83210992
+5581@PR@5746@Jardim São Caetano@Rua Santos Dumont, 950@83507991
+5586@PR@6015@Campo de Santana@Rua Ângelo Tozim, 271@81490994
+5587@PR@5746@Nova Morada@Rua Antônio Tibúrcio de Carvalho, 180@83504991
+5588@PR@5746@Marmeleiro@Rua Antônio Eduardo Trevisan, s/n@83513990
+5589@PR@5746@Pacotuba@Rua Antônio Eduardo Trevisan, 220@83513991
+5590@PR@5911@Francisco Gorski@Rua Canadá, 38@83602990
+5594@PR@6053@Espírito Santo@Rua Santa Marta, 45@86106990
+5595@PR@6293@Maravilha@Rua Ivai nº 170@86110990
+5648@PR@6588@Santa Maria do Rio do Peixe@Rua Cornelio Procópio, s/n@86323991
+5649@PR@5990@Nossa Senhora do Carmo@Rua Maria Vaz, s/n@86324990
+5650@PR@6673@São Martinho@Rua Marzadema, 103@86609991
+5651@PR@6268@Patrimônio Regina@Rodovia Mábio Gonçalves Palhano, s/n@86055991
+5698@PR@5746@Bela Vista do Ipê@Rua Olhos d'água@83505991
+5699@PR@6015@Jardim Campos Andrade@Rua das Araucárias, 5@82710991
+5708@PR@6225@Jandinópolis@Praça Sesquicentenário, s/n@86335990
+5722@PR@6015@Vila Parolin@Rua Professor Plácido e Silva, 860@80220991
+5771@PR@5942@Conjunto Canta Galo II@Rua EC-3, n.º 221 - Conj. Canta Galo II@84178990
+5823@PR@6400@Paiquerê@Rua Alcina Alves de Camargo, 166@86112990
+5824@PR@6015@Jardim Bela Vista@Rua Di de Souza, 356@81480990
+5831@PR@5746@Boichininga dos Franças@Rua José da Silva França, 100@83513993
+5832@PR@5911@Itaqui de Cima@Rua João Bertoja, 715@83605990
+5833@PR@5911@Fazendinha@Estrada de Bateias, s/n@83648991
+5854@PR@6418@Vila Literário@Rua Projetada, 1210@83206990
+5875@PR@6418@Vila Santa Cecília@Rua Castro, s/n@83209990
+5888@PR@6297@Linha Guarani@Rua das Palmeiras, 558@85960992
+5897@PR@5958@Bairro Frei Vito@Rua Tiradentes, 3667@85560991
+5901@PR@6656@Roça Velha@Rua Professor Júlio Carvalho Gomes, 4500@83115991
+5902@PR@6656@Roseira do Campo Largo@Rua Pedro Buhrer, s/n@83183991
+5930@PR@6763@Campina@Rodovia PR-281, Km 15@83190990
+5931@PR@6763@Lagoinha@Rodovia PR-281, Km 18@83190991
+5940@PR@6160@Ilha dos Valadares@Rua Principal, s/n@83252990
+5941@PR@5745@Alexandra@Rua Júlia da Costa, 322@83250990
+5942@PR@5745@Morro Inglês@Estrada Principal do Morro Inglês, s/n@83250991
+5997@PR@6068@Passo Amarelo@Estrada Principal do Passo Amarelo, 1958@83839990
+6084@PR@6390@Posto Indígenas Queimadas@Rua Sete de Setembro, s/n@84350990
+6093@PR@5746@Jardim Tefé@Rua São José, 724@83503990
+6101@PR@6015@Jardim Icaray@Rua Ouro Preto, 180@81590995
+6102@PR@5999@Aldeia Indígena Passo Liso@Rodovia BR-373, Km 460@85550990
+6103@PR@6288@Aldeia Indígena Sede Campinas@Rodovia PR-281, Km 430@85540990
+6127@PR@6763@Campestre@Rua Principal, s/n@83190992
+6128@PR@6763@Tabatinga@Rodovia PR-281, Km 5@83190993
+6129@PR@6763@Matulão@Rodovia BR-376@83190994
+6130@PR@6656@Campestre da Faxina@Rua Carlos Kusma@83023990
+6131@PR@5789@Rio Abaixinho@Rodovia BR-476, 13330@83703990
+6132@PR@5789@Colônia Cristina@Avenida São Casemiro, s/n@83701990
+6153@PR@10429@Santa Cruz@Rua Principal, s/n@83634990
+6155@PR@10430@Caiva@Estrada do Cerne, s/n@83645990
+6175@PR@5830@Bateias@Estrada de Bateais, s/n@83648990
+6176@PR@6408@Palmital de São Silvestre@Estrada do Cerne, s/n@83646990
+6177@PR@10431@Itambezinho@Rua Cassemiro Carmo, s/n@83647990
+6191@PR@6532@Mina de Ferro@Estrada Capiruzinho, 2950@83540995
+6196@PR@12757@Capinzal@Estrada Principal do Capinzal@83728990
+6197@PR@12756@Formigueiro@Estrada do Formigueiro@83726990
+6200@PR@5746@Jardim Iracema@Rua Nelson Gonçalves, 37@83508991
+6229@PR@6135@Carvoeiro@Rua Faxinal, 39@83280992
+6230@PR@6135@Mirim@Av Tiradentes, 516 - Mirim@83280993
+6236@PR@6656@Campina do Taquaral@José Zanqueta Filho, 3040@83021991
+6284@PR@5913@Jardim Boa Vista ll@Rua Petunias, 329@83535995
+6298@PR@5789@Vila Arvoredo II@Rua Pinheiro, 11 - Capela Velha@83706990
+6304@PR@6321@Riviera ll@Rua Dezenove de Dezembro, 2757@83260994
+6306@PR@6763@Postinho@Rua Principal do Postinho@83190996
+6307@PR@6763@Fagundes@Rua Principal do Fagundes@83190995
+6313@PR@6015@29 de Outubro@Avenida Nossa Senhora Aparecida, 578 - Cachimba@81495990
+6314@PR@5913@Retiro - Campo Magro@Estrada Principal do Retiro s/n - Mercearia da Gilda@83535998
+6315@PR@5913@Campo Novo - Campo Magro@Rua Ritimo Costa, 64 - Restaurante da Nona@83535996
+6316@PR@5913@Conceicão dos Correias - Campo Magro@Estrada do Cerne, Casa do Agricultor@83535997
+6319@PR@6445@Jerivá - Pinhais@Rua Ruth Ferreira Amend, 601@83325991
+6322@PR@6321@Santa Itiene@Rua Principal, 537@83260995
+6329@PR@6015@Iguaçu Três@Rua Alexandro Gleski@81935990
+6331@PR@6418@Ilha da Cotinga@Ilha da Cotinga - Área Indígina@83251996
+6336@PR@6015@Portelinha de Cima@Rua Rezala Simão, 400@80330990
+6368@PR@6115@Vila Eletrosul@Rua Campo Grande@85980990
+6373@PR@6832@Araucária Parque I@Rua Mato Grosso@85520990
+6374@PR@6832@Araucária Park II@Avenida das Araucárias@85520991
+6375@PR@6015@Canal Belém@Rua Canal Belém, 19@81650990
+6380@PR@6015@Bairro Novo - Santa Tereza@Rua Guaçui, 6001@81935991
+6406@PR@5999@São Cristovão@Av. Vereador Orlando Ferri@85550991
+6408@PR@5789@Associação de Moradores do Tiete@Av. Pedro Eugenio Lemos, sn@83711990
+6432@PR@6656@Córrego Fundo@Estrada Guaricana, 113@83115992
+6437@PR@6015@15 de Outubro@Avenida do Comercio, 51@81495991
+6442@PR@6015@Moradias Vila Leonice@Ovídio Garcez@82710990
+6475@PR@5789@Campinas das Pedras@Avenida Independência 5113@83704990
+1604@RJ@6848@Soapras-Sociedade Amigos de Praia Seca@Estrada da Praia Seca, km 11-Praia Seca@28979990
+1605@RJ@6875@Associação de Moradores de Castalia@Rua Virtulino José Moraes, s/n@28680990
+1607@RJ@6883@Prefeitura de Cantagalo@AGC Cantagalo - 5 Distrito CTG@28525990
+1609@RJ@6896@Associação dos Moradores de Vila Esperança@Estrada São Domingos, s/n@28740990
+1613@RJ@6912@Associação de Moradores Brasil Novo@Rua D, Lote 2, Quadra 2 - 25 de Agosto@25075990
+1614@RJ@6914@Associação de Moradores da Graminha@Estrada de Sacra Família, 10316@26650990
+1615@RJ@6914@Associação dos Moradores de Palmeiras da Serra@Rua Manuel de Lucas, s/n - Palmeiras da Serra@26650991
+1618@RJ@6951@Associação de Moradores da África I e II@Rua da África I, s/n@27580990
+1619@RJ@6951@Associação de Moradores do Alto Penedo@Praça Toivos Armas Sipilla, s/n@27580991
+1622@RJ@6989@Associação dos Moradores Amigos Marui Grande@Rua da Quadra, s/n -Barreto@24110991
+1624@RJ@6993@Associação dos Moradores do Bairro Nova Suíça@Rua Romana Vilas Boas Schuenck, s/nº@28605990
+1625@RJ@6993@Associação Pequenos Produtores Rurais e Moradores de Conquista@Avenida Antônio Mário de Azevedo, 18800@28630990
+1626@RJ@7000@Associação dos Moradores Sardoal@Estrada Norberto Leal, 3504@25850990
+1627@RJ@7007@Associação dos Moradores do Bairro Maravilha@Estrada da Maravilha, 1516@26950991
+1628@RJ@7007@Associação de Moradores e Amigos de Palmares@Alameda Central, 1695@26950990
+1629@RJ@7012@Associação dos Moradores de Santa Edwirges@Rua A, Travessa 20, s/n@25750990
+1630@RJ@7012@Associação dos Moradores Sertão Carangola@Estrada Carangola, s/n@25715990
+1632@RJ@7012@Associação dos Moradores do Morro do Alemão@Rua Doutor Hans Bristrischan, s/n@25680990
+1633@RJ@7012@Associação dos Moradores do Bairro Duques@Estrada Rio Petrópolis, km-84@25650990
+1634@RJ@7012@Associação dos Moradores de Santa Isabel@Estrada José Almeida Amado, s/n@25615990
+1635@RJ@7012@Associação dos Moradores Barão do Rio Branco@Avenida Barão do Rio Branco, 555@25680991
+1637@RJ@7035@Associação de Moradores da Serrinha do Alambari@Rua do Artesão, s/n@27530990
+1640@RJ@7040@Associação dos Moradores da Fazenda da Grama@Estrada da Vendinha, s/n - Fazenda da Grama@27460990
+1641@RJ@7041@Associação de Moradores de Formoso@Rua Bolivar, 537@27660990
+1643@RJ@7043@Associação Moradores Morro do Urubu@Rua Aderbal Carvalho, 224@20750991
+1644@RJ@7043@Associação Mulheres Amigos Morro do Urubu@Rua Mucuri, 154@20750990
+1645@RJ@7043@Associação de Moradores Nova Esperança@Rua Javata, 2373@21650990
+1646@RJ@7043@Associação de Moradores Camboatá@Estrada Camboatá, 4040@21650991
+1647@RJ@7043@Associação Moradores Caminho do Job@Rua Britania, 2-A@21655990
+1648@RJ@7043@Associação de Moradores Vila Nova Pavuna@Rua Inhumaí, s/n@21520990
+1649@RJ@7043@Associação dos Moradores Amarelinho@Avenida Brasil, 18476@21530990
+1650@RJ@7043@Associação dos Moradores Parques Unidos@Travessa Padre Lima, 12@21335990
+1652@RJ@7043@Associação de Moradores Dois de Maio@Rua Dois de Maio, 246@20961990
+1653@RJ@7043@Associação Moradores Morro da Cruz@Rua Tenente Marques Souza, 259@20530990
+1654@RJ@7043@Associação de Moradores e Amigos de Vila da paz@Estrada do Itanhangá, 449@22753990
+1655@RJ@7043@Associação de Moradores Asa Branca@Avenida Salvador Allende, 4716@22780990
+1656@RJ@7043@Associação Moradores Carumbe@Rua Flor do Brejo, 18@21755990
+1657@RJ@7043@Associação dos Moradores Vila do Almirante@Rua 16 de Maio, 11@21765990
+1658@RJ@7043@Associação Moradores Parque Real@Rua Castro Alves, 77@21775990
+1659@RJ@7043@Associação Moradores Parque Liberal@Travessa Penha, s/n@21775991
+1660@RJ@7043@Associação Moradores Novo Tingui@Rua Doutor Almir Paulo de Lima@23075990
+1661@RJ@7043@Associação Moradores Bosque dos Caboclos@Estrada dos Caboclos, 400@23040990
+1662@RJ@7043@Associação Moradores Agulhas Negras@Estrada das Agulhas Negras, s/n@23042991
+1664@RJ@7043@Associação Moradores 14 de Julho@Rua Carinhanha, 479@21750991
+1665@RJ@7043@Associação Moradores Novo Camarões@Rua Leopoldina, 7@23550990
+1667@RJ@7057@Associação dos Moradores de Terras Frias@Rua São Pedro, s/n@28770991
+1669@RJ@7085@Associação dos Moradores e Amigos do Guarani@Estrada Jacarepiá, s/n@28991990
+1672@RJ@7110@Associação dos Moradores e Amigos Bairro Passagem@Estrada Comercial - Fazenda São José, 5512@27600990
+1674@RJ@7121@Associação dos Moradores Unidos do Bairro Santa Cruz@Avenida Ex-Combatente, 401@27288990
+1675@RJ@7121@Associação Moradores Bairro Pau D' Alho@Avenida Nestorio, 1288  Vale Verde@27278990
+2120@RJ@7043@Associação de Moradores e Amigos Ilha Primeira e Adjacências@Estrada da Barra da Tijuca, 793@22641990
+2417@RJ@7113@Associação  dos Moradores São Sebastião dos Ferreiros@Praça da Matriz, s/n@27705990
+2419@RJ@7040@Associação dos Moraadores de Getulândia@Rua Nossa Senhora da Conceição, 249 - Getulândia@27465990
+2432@RJ@6912@Associação de Moradores Parque Nova Jerusalém@Avenida Canal de Sarapuí, 72@25035990
+2443@RJ@7043@Associação de Moradores São Geraldo@Rua Duarte Nunes, 86@23085990
+2444@RJ@7043@Associação dos Moradores Vale do Eucalipto@Rua Duarte Nunes, 35@23085991
+2445@RJ@7043@Associação de Moradores Caixa D'Água@Rua Caixa D'Água, s/n@21775992
+2446@RJ@6966@Fazenda Santa Barbara@Estrada da Cachoeira, 1@23860990
+2450@RJ@7043@Associação de Moradores Drumont Andrade@Rua Tomaz Gonzaga, 37@20785990
+2451@RJ@7043@Associação dos Moradores Empreendimento Pantoja@Rua Pantoja, 227@21531990
+2454@RJ@7043@Parque Proletário Phídias Távora@Avenida Coronel Phídias Távora, 25@21535991
+2455@RJ@7043@Comunidade Agrícola Novo Rio@Avenida Novo Rio, 10@21051990
+2461@RJ@6999@Associação dos Moradores Mutirão de Paracambi@Estrada Paracambi-Japeri, Km 3@26600990
+2462@RJ@7017@Associação Dos Moradores Vila Monumento@Rua Castelo Branco, 7921@27190990
+2463@RJ@6974@Associação dos Moradores Vera Cruz@Rua Lourdes Sebatiane, s/n@26900990
+2464@RJ@7012@Associação dos Moradores do Morro da Glória@Estrada Nossa Senhora da Glória@25720990
+2465@RJ@7012@Associação dos Moradores Vale das Videiras@Praça do Vale das Videiras, s/n@25725990
+2474@RJ@7057@Associação dos Moradores Sossego@Rua Barão de Madalena, s/n@28777990
+2476@RJ@6993@Associação dos Moradores Tiradentes@Rua Guilherme Hermesdorff, 55@28600990
+2477@RJ@6993@Associação dos Moradores e Produtores de Rio Bonito@Estrada Rio Bonito, s/n@28615991
+2478@RJ@6870@Prefeitura de Bom Jardim (AGC Banquete)@Rua Júlio C.da Silva, 1@28662990
+2479@RJ@6870@AGC Barra Alegre@Rodovia RJ 146, Km 20@28666990
+2480@RJ@6870@Prefeitura de Bom Jardim (AGC São José)@Praça São Sebastião Gastaldi, s/nº - São José do Ribeirão@28664990
+2483@RJ@6850@Associação dos Moradores - Cem Braças@Rua Itajirú, s/n@28950991
+2492@RJ@7085@Associação dos Moradores - Rio de Areia@Estrada Velha Palmital, s/n@28995990
+2493@RJ@6985@Associação dos Moradores e Amigo da Vila da Paz@Posto de Atendimento Médico@28380990
+2494@RJ@6985@Associação dos Moradores do Bairro da Liberdade@Praça João Barra Sobrinho@28380991
+3343@RJ@6910@AGC Doutor Loretti@Posto de Saúde Doutor Loretti@28772990
+3344@RJ@6990@Nossa senhora Aparecida@Rua Carmélio Raposo, 7@25886990
+3651@RJ@7043@Associação Moradores do Morro São Jorge@Avenida Frederico Faulhaber, 1451@21760990
+3652@RJ@7043@Associação Moradores do Parque Proletário Comendador Sófia Vila do Céu@Rua Afonso de Carvalho, 35@23060990
+3653@RJ@7043@Associação de Moradores Nossa Senhora de Lourdes@Estrada Santa Maria, 1816@23078990
+3654@RJ@7043@Associação de Moradores Vale das Palmeiras@Rua Projetada F, Quadra 3@23035990
+3655@RJ@7043@Associação de Moradores do Loteamento do Margarça@Estrada do Margarça, 1715@23035991
+3656@RJ@7043@Associação de Moradores Estrada do Sertão@Estrada do Sertão, 35@22753991
+3657@RJ@7043@Associação de Moradores Amigos do Bairro@Avenida Engenheiro Souza Filho, 574@22753992
+3658@RJ@7043@Associação dos Moradores do Sítio Pai João@Estrada do Itanhangá, 1270@22753994
+3659@RJ@7043@Associação de Moradores da Pedra Itanhangá@Esrtada do Itanhangá, 1103@22753993
+3660@RJ@7043@Associação dos Moradores da Vila da Amizade@Rua H-W, 19 Recreio@22795990
+3661@RJ@7043@Associação Moradores e Amigos Parque Dois Irmãos@Rua Marcellus Gordilho, 14@22711990
+3662@RJ@7043@Associação Moradores e Amigos Jordão@Rua Jordão, 798-A@22725990
+3668@RJ@7105@Associação Moradores Santa Ana e Santa Maria@Estrada Santa Ana, s/n@28175992
+3689@RJ@6966@Associação de Moradores e Amigos da Serra Piloto@Rua Nossa Senhora Aparecida, Quadra 3 Lote 20@23860992
+3690@RJ@7007@Associação de Moradores Unibairros (Bela Vista - Caetés - Campo Verde)@Estrada do Batatal, 2193@26950992
+3692@RJ@7012@Associação de Moradores Olho de Águia@Rua Manoel Francisco de Paula, Lote !3 Servidão 05@25645994
+3693@RJ@7012@Associação de Moradores da Vila São José@Rua Paulino Afonso, Travessa 01 Lote 01 Quadra 3@25680992
+3694@RJ@7102@Associação de Moradores de Bonsucesso@Estrada Teresópolis-Friburgo, s/n@25995990
+3791@RJ@7012@Associação de Moradores Lopes Trovão@Rua Lopes Trovão, 1351@25635991
+3792@RJ@7012@Associação de  Moradores do Loteamento Monte Azul@Rua Coronel Veiga, 2044@25655993
+3793@RJ@7012@Associação de Moradores Alto Taquara@Rua Antonio da Silva Ligeiro, Lote 159@25645995
+3794@RJ@7012@Associação de Moradores Morro Neylor@Rua Felipe Camarão, 310@25680995
+3898@RJ@7043@Associação dos Moradores do Bairro 29 de Março@Estrada de Paciência, 120 Paciência@23060991
+3899@RJ@7043@Associação de Moradores Parque João Paulo II@Rua Sá Viana, 269 Grajaú@20540990
+3900@RJ@7043@Associação de Moradores do Bairro da Pedreira@Rua Rainha da Paz, 12 - Costa Barros@21531991
+3910@RJ@7102@Associação dos Moradores e Amigos do Vale Feliz@Avenida Venezuela, s/n  Albuquerque@25977990
+3911@RJ@7102@Escola E. Municipalizada Albino Teixeira da Rocha@Rodovia Santos Dumont, Km 61  Providência@25980990
+3912@RJ@7110@Prefeitura Municipal de Valença (AGC Parapeúna)@Rua Duque Costa, s/n - Parapeúna@27650990
+3931@RJ@6865@Associação de Moradores Mutirão Urbano São Vicente@Rua Primavera, 16 São Vicente@26170990
+3933@RJ@7004@Associaçao de Produtores Rurais de Taquari@Rua Sertao do Taquari, s/n Taquari@23970993
+3934@RJ@7004@Associação de Moradores de Tarituba@Avenida dos Bulhões, s/n Escola Tarituba@23975990
+3935@RJ@6893@Agência de Correios Comunitária Afonso Arinos@Rua Joao Cabral, 1063 - Afonso Arinos@25875990
+3936@RJ@7084@Associaçao de Moradores de Santo da Vista Alegre@Estrada de Santo Antonio da Vista Alegre, 3215@25882991
+3937@RJ@7084@Associaçao de Moradores da Sao Jose@Rua Manoel de Souza Jesus, s/n@25882990
+3938@RJ@7004@Associação de Moradores do Bananal@Estrada do Bananal, s/n Parati@23970991
+3939@RJ@7043@Associaçao de Moradores e Amigos do Conjunto Nova Sepetiba@Rua Quarenta e Sete, Quadra 32 Bairro Sepetiba@23547990
+3940@RJ@7043@Associaçao de Moradores do Borel@Rua São Miguel, 500 - Tijuca@20530991
+5087@RJ@6993@Associação Pequenos Produtores Rurais e Moradores  Barracão dos Mendes@Barracão dos Mendes s/n, Centro@28600991
+5591@RJ@6993@Associação dos Pequenos Produtores Rurais de São Lourenço@Estrada de São Lourenço, Km 19 - s/n@28630991
+5592@RJ@6870@Prefeitura de Bom Jardim (AGC Alto São José)@Estrada da Silveira, s/nº@28664991
+5593@RJ@6932@Associação de Moradores e Amigos de Sapeatiba Mirim@Estrada Sepeatiba Mirim, Km 23@28960990
+5611@RJ@6989@Associação dos Amigos e Moradores do Engenho do Mato@Estrada do Engenho do Mato, s/nº@24346990
+5616@RJ@6993@Sociedade Cooper Mural Cooperativa da Mulher Rural de Nova Friburgo@Rua Jonas Mendes, nº 75@28630992
+5669@RJ@6993@Associação dos Pequenos Produtores Rurais de Salinas (Posto Patrocínio)@Lugarejo Fazenda Patrocínio, s/n@28635990
+5672@RJ@7043@Associação dos Moradores do Morro da Casa Branca@Rua São Miguel, nº 130 - Fundos@20530992
+5673@RJ@7078@Associação dos Remanescentes de Quilombo de Botafogo-Caveira@Estrada da Caveira, s/nº@28940990
+5674@RJ@7042@Município de Rio das Ostras - Centro da Cidadania@Avenida Casuarina, nº 595@28890994
+5717@RJ@6845@Associação dos Moradores  Pescadores e Agropecuaristas de Garatucaia@Rua Erdina da Conceição 625@23918990
+5821@RJ@6865@Multirão Urbano Santa Cruz@Avenida São Bernardo@26160991
+5822@RJ@6885@Associação de Moradores e Amigos da Praça Cordeiro e Caxanga@Rua Manoel Francisco Pinto, s/nº@27998990
+5943@RJ@6993@Associação de Agricultores, Familiares e Moradores de Centenário e Adjac@Avenida Antônio de Sá Martins, s/nº@28630993
+5961@RJ@7078@Associação de Moradores e Amigos do Recanto do Sol@Rodovia Amaral Peixoto, S/N Km 111@28940991
+6003@RJ@6993@Associação de Moradores de Boa Esperança@Estrada da Boa Esperança, S/N@28635991
+6004@RJ@6993@Associação de Moradores de Boa Esperança@Praça Júlio José Pedro, 51@28635992
+6005@RJ@6993@Assoc de Agricultores, Famil, Moradores e Amigos da Comunidade Cardinot@Estrada Ernesto de Souza Cardinot, S/N@28630994
+6006@RJ@6993@Prefeitura Municipal de Nova Friburgo (Galdinópolis)@Estrada Marcos Heringer, S/N@28600992
+6007@RJ@6845@Associação de Moradores da Praia do Machado@Avenida Nelson Bastos, 42@23913990
+6008@RJ@6845@Associação de Moradores do Cantagalo@Estrada Cidade da Bíblia, 1@23919990
+6009@RJ@6845@Associação de Moradores de Santa Rita II@Avenida Beira Mar, 130@23943990
+6010@RJ@6845@Associação de Moradores do Morro da Lambicada@Rua Sebastião Botelho Vieira, 6@23913991
+6011@RJ@6845@AGC Perequê@Avenida Francisco Magalhães de Castro, 1120@23954990
+6043@RJ@7004@Associação de Moradores e Produtores Rurais de São Gonçalo@Estrada São Gonçalo, nº 1964@23970994
+6044@RJ@7004@Assoc. de Moradores Rurais do Carrasquinho, Mato Dentro, Penha e Souza@Estrada Parati-Cunha, Km 8@23970995
+6045@RJ@7004@Associação de Moradores e Produtores Rurais de Corisco@Estrada do Corisquinho, s/nº@23970996
+6055@RJ@6993@Assoc. dos Agricultores Familiares e Amigos da Comunidade de Vargem Alta@Estrada João Heringer, s/nº - Km 26@28611990
+6063@RJ@7042@Município de Rio das Ostras (AGC Cidade Praiana)@Rua Santa Catarina, nº 41 - Loja 5@28890995
+6069@RJ@6993@Associação dos Amigos do Amparo@Estrada Friburgo-Amparo, s/nº - Km 09 - Loja 01@28605991
+6083@RJ@6966@Associação de Moradores e Amigos de Praia Pequena@Rua da Praia Pequena, nº 03@23860993
+6115@RJ@6845@Associação de Moradores da Vila Velha@Estrada Vereador Benedito Adelino, nº 5550@23909990
+6116@RJ@6911@Associação dos Pequenos Produtores Rurais da Fazenda do Campo@Praça Pedro Henrique Ângelo, s/nº@28650990
+6124@RJ@6873@Assoc. Comunitária dos Moradores e Amigos do Bairro Tangará e Adjacência@Rua Castro alves, nº 52B@28921990
+6134@RJ@6941@Associação de Moradores Joaquim de Oliveira@Rua Coronel Antônio Maurício da Rocha, Quadra-199 - Lote 1@24813990
+6135@RJ@6941@Associação dos Moradores - Vila Rica@Rua Diamante@24801990
+6136@RJ@6941@Associação dos Moradores São Miguel@Estrada Ademar Ferreira Torres, s/nº - Badureco@24810990
+6137@RJ@6941@Assoc. de Moradores, Amigos, Prod. Rurais e Artesãos de Picos e Peróbas@Estrada Eugênio Costa, s/nº@24806990
+6147@RJ@6932@Associação de Moradores e Amigos do Arrastão das Pedras@Sítio Esmeralda, s/nº@28960991
+6265@RJ@6873@Prefeitura Municipal de Cabo Frio - Secretaria de Planejamento@Estrada de Botafogo, 14@28927990
+6273@RJ@6873@Associação dos Moradores da Maria Joaquina@Rua Justiniano de Souza, nº 7 - Loja 02@28921991
+6290@RJ@7043@Comunidade Tabajaras de Botafogo@Real Grandeza, nº 546 - Casa 33B@22281990
+6291@RJ@6873@Associação de Moradores de Angelim@Estrada da Agrisa, s/nº - Bairro Angelim@28927991
+6308@RJ@7042@CRAS Central@Rua Três Marias, s/nº@28894990
+6309@RJ@7042@CRAS Norte@Rua Peperônia, 82@28899990
+6310@RJ@6873@Amplocape - Assoc de Moradores e Proprietários do Lot. Caravelas do Peró@Rua Pau-brasil, s/nº - Caravelas do Peró@28923990
+6345@RJ@7073@Associação, Cultural e de Comunicação de São José de Ubá@Rua Campo Grande, s/nº@28455990
+6355@RJ@6912@Centro Pró-melhoramento de Cangulo@Rua Doutor Natalício Camboim, Lote 1 - Quadra 11@25220990
+6356@RJ@6873@Assoc. de Moradores dos Sítios dos Gravatás I e II  - AMGBNC@Rua das Pacas, s/nº - Quadra M - Lote 1563@28927992
+6382@RJ@6862@Associação dos Moradores e Amigos do Bairro Artur Cataldi@Estrada Sítio São Sebastião, 186@27115990
+6383@RJ@7085@Prefeitura de Saquarema (AGC Vilatur)@Praia de São Conrado, s/n - Quadra 441 - Lote 13@28992990
+6395@RJ@6873@Assoc. Com. dos Moradores e Amigos de Restinga Campos Novos e Botafogo@Estrada de Botafogo, 10 - Botafogo, Cabo Frio (RJ)@28929990
+6396@RJ@6873@Associação dos Moradores e Amigos do Bairro Guriri@Avenida Caminho de Búzios, 29 - Quadra 24 Lote 09@28921992
+1676@RN@7167@Associação Comunitária dos Moradores e Veranistas da Praia de Santa Rita@Avenida Central, s/n - Santa Rita - Escola Municipal Ver. Ricardo Afonso Lima@59575990
+1677@RN@7221@Colônia de Pescadores de Maruim@Rua da Floresta, 47 - Canto do Mangue - Ribeira@59010990
+1679@RN@7222@Escola Estadual Celita Freire Barbosa@Rua do Comércio, s/n - Pirangi do Sul@59164990
+1680@RN@7222@Escola Municipal Alberto de Carvalho Araújo@Rua Carmem Miranda, s/n - Pirangi do Sul@59164991
+2362@RN@7229@Pirangi de Dentro@Rua Projetada, s/n - Pirangi de Dentro - Posto de Saúde - Marcondes Bezerra@59150990
+2395@RN@7221@Escola Municipal Francisco Varela@Rua da Lagoa Nova, s/n - Guarapes@59074990
+2397@RN@7176@Escola Municipal Tereza Fagundes@Sítio Sapucaia@59173991
+2555@RN@7167@Administração da Praia de Genipabu@Rua Vereador Ricardo Afonso, s/n - Praia de Genipabu@59575991
+2556@RN@7167@Associação dos Moradores de Estivas@Rua Principal, s/n - Estivas - Fundação João de Rosa@59575992
+2565@RN@7167@Vila de Fátima@Rua Principal, s/n - Panificadora Nossa Senhora de Fátima@59575993
+2566@RN@7167@Associação Melhor Viver de Pitangui@Rua Cícero Inácio, s/n - Praia de Pitangui@59575994
+2568@RN@7176@Escola Municipal João Mandu da Silva@Rua Manoel Cláudio Bezerra, s/n - UNA - Mandu@59173992
+2569@RN@7165@Comunidade do Sítio Taboca@Rua do Posto, s/n - Posto de Saúde - Sítio Taboca@59180990
+2570@RN@7248@Comunidade de São José do Potengi@Rua Francisco Ferreira, 44 - Posto de Saúde - São José do Potengi@59470990
+2629@RN@7220@Comunidade de Jucuri@Rua Domingos Julião Nascimento, s/n - Jucuri / Mossoró@59600990
+2667@RN@7220@Passagem de Pedra@Associação Comunitária de Passagem de Pedra - Zona Rural@59600991
+2898@RN@7229@Residencial Zona Sul@Avenida Nezinho Alves, s/n - Emaús@59150994
+2900@RN@7222@Núcleo Colonial do Pium@Rua Projetada, s/n - Posto de Saúde - Pium@59164994
+2901@RN@7222@Comunidade de São Paulo - Pium@Rodovia RN 313 km 01 - Loja do Posto Eushaday - Pium@59164995
+3205@RN@7229@Conselho Comunitário Granja Santa Catarina@Rua Projetada, s/n - IBDF - Jiqui@59150995
+3858@RN@7167@Comunidade de Barra do Rio@Barra do Rio - Posto de Saúde@59575995
+3860@RN@7268@Clube de Mães da Comunidade de Barreiros@Sítio Barreiros, s/n - São Gonçalo do Amarante - Zona Rural@59298990
+3915@RN@7208@Colônia dos Pescadores@Rua Auta de Souza, s/n - Guarapes I - Macaíba/RN@59288991
+3916@RN@7151@Centro Comunitário de Piquerí@Rua Osório Chaves, 138 - Posto de Correios - Piquerí@59190990
+3917@RN@7151@Centro Comunitário de Barra de Cunhaú@Rua da Igreja, s/n - Posto de Correios - Barra de Cunhaú@59190991
+3918@RN@7151@Centro Social de Areia Branca@Rua Alfredo Brito, s/n - Loja da Telemar - Areia Branca@59190992
+3921@RN@7182@Centro Comunitário de Pataxó@Rua Central, s/n - Pataxó@59508990
+3925@RN@7125@Comunidade do Conjunto Parati/2000@Rua Maria Cândida de Amorim, 106 - Conselho Comunitário - Parati/2000@59650990
+4352@RN@7155@Comunidade de Capela@Zona Rural, s/n - Posto de Saúde - Distrito de Capela@59570990
+4353@RN@7222@ANEA - Conjunto dos Agrônomos@Rua das Oiticicas, 78 - Conselho Comunitário - Distrito de Búzios@59164996
+4359@RN@7222@Mercadinho Pedro e Paula@Rua Doutor Tarcísio, 1987 - Praia de Barreta - Nísia Floresta/RN@59164997
+4391@RN@7124@Povoado de Gargalheiras@Povoado de Gargalheiras, s/n@59370990
+4413@RN@7229@Posto de Medicamentos Mendonça@Rua Pedro Barbosa, 24 - Bairro Bela Vista II@59150991
+4589@RN@7208@Conselho Comunitário de Riacho do Sangue@Rodovia RN-160, s/n - Riacho do Sangue - Área Rural - Macaíba/RN@59288990
+4624@RN@7138@Conselho Comunitário de Pico Estreito@Pico Estreito, s/n - Pico Estreito - Baraúna/RN@59695990
+4639@RN@7222@Mini-Box Tabatinga@Rua da Praia, 15 - Praia de Tabatinga - Nísia Floresta/RN@59164998
+4719@RN@7268@Santo Antônio do Potengí@Rua Engenheiro Roberto Bezerra Freire, S/N - Sto Antônio do Potengi@59297990
+4781@RN@7268@Oiteiros@Rua Principal, s/n - Povoado de Oiteiros - São Gonçalo do Amarante@59299991
+4782@RN@7268@Serrinha@Rua Principal, s/n - Povoado de Serrinha - São Gonçalo do Amarante@59299992
+4812@RN@7268@Uruaçu@Rua Principal, s/n - Povoado Uruaçu - São Gonçalo do Amarante/RN@59299990
+5369@RN@7182@Mercado Público de Arapuá@Sítio Arapuá@59508992
+5370@RN@7136@Vale Verde@Destilaria Usina Vila Oiticica@59194990
+5371@RN@7136@Sagí@Povoado do Sagí@59194991
+5372@RN@7229@Mercadorama@Rua Santo Antônio, 15 - Bela Vista II@59145990
+5497@RN@7237@Cuité@Rua São Sebastião, s/n@59196990
+5499@RN@7271@Vale do Lírio@RN-02, Km 4 - Assentamento Vale do Lírio - São José de Mipibú@59162990
+5504@RN@7124@Associação dos Ribeirinhos do Vale do Acauã@Sítio Barra do Rio Carnaúba@59370991
+5548@RN@7271@Creche Municipal do Município do Distrito de Taborda@Distrito de Taborda@59162991
+5549@RN@7271@Associação Comunitária de Laranjeiras do Abdias@Rua São José - laranjeiras do Abdias@59162992
+5550@RN@7153@Associação Comunitária do Povoado do Ermo@Povoado do Ermo - Zona Rural@59374990
+5551@RN@7153@Associação Comunitária da Rajada@Povoado da Rajada@59374991
+5552@RN@7222@Escola Emília de Carvalho@Morrinhos- Zona Rural@59165990
+5563@RN@7194@Escola Municipal da Localidade Morada Nova@Localidade Morada Nova@59550990
+5564@RN@7222@Centro Educacional Nossa Senhora de Fátima@Povoado de Currais- Nísia Floresta@59165991
+5618@RN@7194@Comunidade do Amarelão@Escola Municipal Saramandaia - Comunidade do Amarelão - Zona Rural@59550992
+5623@RN@7171@Cajueiro@Sítio Cajueiro - Zona Rural@59335990
+5656@RN@7229@Cajupiranga@Mega Negociação Imobiliária - Cajupiranga@59156990
+5659@RN@7218@Esperança@Padaria de Conveniência - Tomaz - Bairro da Esperança@59182990
+5660@RN@7293@Morada Nova@Associação de Moradores - Morada Nova - Zona Rural@59565990
+5661@RN@7223@Primeira Lagoa@Associação Comunitária - Primeira Lagoa - Zona Rural@59215990
+5662@RN@7268@Santa Terezinha@Associação de Moradores - Santa Terezinha@59291993
+5663@RN@7222@Alcaçuz@Presídio de Alcaçuz - Pium@59165992
+5721@RN@7150@Ramal@Centro Comunitário de Ramal@59230990
+5774@RN@7124@Bulhões@Escola Antônio Lasdislau L. Galvão@59370992
+5775@RN@7223@Sítio Juriti@Associação dos Moradores@59285990
+5776@RN@7223@Sitio Juriti@Associação dos Moradores@59215991
+5777@RN@7138@Distrito do Juremal@Escola Estadual Maria Justina do Nascimento@59695991
+5778@RN@7155@Distrito do Matas@Associação do Conselho Comunitário@59570992
+5779@RN@7155@Distrito do Ponta do Mato@Associação do Conselho Comunitário@59570991
+5877@RN@7268@Barro Duro@Rua Principal S/N - Posto de Saúde de Barro Duro - Zona Rural@59298992
+5878@RN@7271@Pau Brasil@Salão de Francis Cabeleleira - Rocinha@59162993
+5879@RN@7271@Ribeiro@Associação Comunitária do Ribeiro@59162994
+5880@RN@7178@Barra@Escola de Informática e Cidadania de Grossos - Av. Principal S/N@59675990
+5883@RN@7178@Córrego@Av. Principal, s/n - Povoado de Córrego - Escola de Informática e Cidadania@59675992
+5884@RN@7178@Areias Alvas@Av. Principal, s/n - Areias Alvas - Associação de Desenvolvimento Sustentável@59675991
+5885@RN@7167@Maanain@Conselho Comunitário de Maanain - Zona Rural@59575996
+5910@RN@7229@Bela Parnamirim@Rua Vereador Bandeira Júnior, 3 - Bela Parnamirim@59142990
+5911@RN@7229@Caminho do Sol@Rua Dorado, 218 - Parque das Nações@59158990
+5968@RN@7268@Pajuçara@Centro Comunitário - Zona Rural@59298991
+5969@RN@7268@Loteamento Canaã@Centro Comunitário - Zona Rural@59298994
+5970@RN@7268@Cidade das Rosas@Rua Bem-me-quer, n.20 - Jardins@59293990
+5971@RN@7268@Trigueiros@Centro Comunitário - Zona Rural@59298993
+6025@RN@7229@Caminho do Mar@Rua Trinta, 10 - Loteamento Caminho do Mar@59157990
+6139@RN@7221@Mar Del Plata@Rua Mameiro, 50 - Potengi@59120990
+6400@RN@7268@Rio da Prata@Avenida Joana Varela, 46 - Rio da Prata - Zona Rural@59298995
+6518@RN@15561@Associação Comunitária das Marias e Cajazeiras@Rua Projetada, s/n - Cajazeiras@59289990
+6519@RN@15560@Traíras@Posto de Saúde - Traíras@59289991
+1979@RO@7352@Vila Candelária@EFMM Km 3 nº 213@76805991
+1980@RO@7352@Vila Militar - FAB@Avenida Jorge Teixeira, 3986@76821990
+3870@RO@7352@Hortifrutigranjeiro@BR-364, Km 13  Sentido Cuiabá@76815991
+3871@RO@7352@Santo Antônio@Est do Santo Antônio, 313@76805990
+3879@RO@7367@Linha 3@Núcleo Primavera@76929990
+3882@RO@7328@São Domingos@Sub-Prefeitura de São Domingos@76937990
+3883@RO@7352@Vila Bella@Rua Capão da Canoa, 6053  - Três Marias@76808990
+3887@RO@7327@Alto Guarujás@Linha 4 -  Km 40@76995990
+3888@RO@7336@Nova Londrina@Av. Marechal Rondon, s/n  Centro@76900990
+3889@RO@7336@Novo Ji-Paraná@Av. Monte Castelo, 2556  Centro@76900991
+3890@RO@7336@Olavo Bilac@Linha 94, Km 5@76900992
+3891@RO@7347@Rondominas@Prefeitura do Distrito de Rondominas@76920990
+3892@RO@7363@Washington Luiz@Linha 12, Km 8@76934990
+3893@RO@7353@Bandeira Branca@BR 364, Km 22@76916990
+3894@RO@7353@Estrela de Rondônia@Prefeitura do Distrito de Estrela de Rondônia@76916991
+3895@RO@7353@Novo Riachuelo@Posto da EMATER@76916992
+5634@RO@7352@Embrapa@BR 364 Km 5,5@76815990
+5906@RO@7352@5º BEC@Av. Rogério Weber, 001@76804990
+5907@RO@7352@Condomínio Rio Verde@Av Jatuarana, 5695 - Eldorado@76806990
+5908@RO@7363@Novo Planalto@Linha 14 Núcleo de Novo Planalto@76934991
+1685@RS@7439@Cicade (Santa Teresa)@Rua Anselmo Garrastazu, 98@96413990
+1687@RS@7439@São Domingos@Rua 358, 470@96410990
+1690@RS@7499@Coxilha de São José@Av Principal, s/n@96570990
+1696@RS@7531@Vila Nova@Rua João Goulart, 1187@96600990
+1701@RS@7566@Matioda@Rua Luiz Covolan, s/n@95040990
+1702@RS@7566@São Luis da 6ª Légua@Capela São Luiz, 8400@95070990
+1704@RS@7566@Loreto@Loreto-2 Légua@95115990
+1721@RS@7733@São Roque@Linha São Roque Figueira de Melo@95720992
+1722@RS@7748@Refúgio da Coxilha@Rua Roberto Alves dos Santos, 120@94100990
+1723@RS@7457@Verdes Campos@Condomínio Verdes Campos@94265990
+1724@RS@7748@Santo Antônio@Rua Vânio Abílio dos Santos, 3650@94170994
+1726@RS@7457@Vila Imperial@Rua dos Franciscanos, s/n@94260990
+1727@RS@7457@Residencial Santa Cecília@Rua Artur D'Avila, 83@94264990
+1728@RS@7457@Passo da Taquara@RS-030, nº 15195@94262990
+1736@RS@7821@Loteamento Pagé@BR-285, km 197@95300990
+1746@RS@7880@Faxinal@Rua Buarque de Macedo, s/n@92529990
+1748@RS@7880@Alfama@Estrada da Alfama, s/n@92529992
+1751@RS@7907@Nova Milano@Avenida Monsenhor Albino Agazzi, 1000@95182990
+1755@RS@7977@Vila Umbu@Rua Osmar Correa da Silva, s/n@96470990
+1756@RS@7983@Vila Cancelão@Rua Vinte de Setembro, 220@96490990
+1759@RS@7994@Vila Alto Erechim@Rua Erechim, 1280@90830990
+1760@RS@7994@Vila Mato Grosso@Rua Octávio de Souza, 1818@90840990
+1761@RS@7994@Vila Ecológica@Rua Pinheiro, 41@90820990
+1768@RS@8079@Linha Pinheiral@RS-287, km 92, s/n@96820990
+1769@RS@8087@Vila Ipiranga@Rua Principal, 62@97017990
+1770@RS@8087@Vila Marques@Rua Emiliano Mortari, 5 - Sítio Paines@97017991
+1771@RS@8087@Vila Abrantes@Rua José Tavares, 261@97017993
+1772@RS@8087@Vila Videira@Rua Antônio Kohls, 35@97017994
+1773@RS@8087@Pau-a-Pique@Estrada Velha do Arenal, 53@97017995
+1777@RS@8108@Vila Palmeira@RS-10, km 50, nº 4355@95500994
+1778@RS@8108@Portão I@RS-30, km 65, nº 24@95500991
+1779@RS@8108@Ilha da Lagoa dos Barros@RS-30, km 75, nº 14079@95500992
+1783@RS@8127@Porto do Conde@Rua Recreativa, s/n@96700990
+1786@RS@8171@Conceição@Rua Nelson Holf, s/n@95760990
+1787@RS@8171@Areião@Estrada da Tafona, s/n@95760996
+1788@RS@8171@Lajeadinho@RS-122, km 10, s/n@95760994
+1789@RS@8171@Vigia@Rua da Vigia, s/n@95760992
+1793@RS@8250@Morro Azul@Rua Morro Azul,S/na Gomes, S/N@95580990
+1798@RS@8265@Jari@Barão do Triunfo, s/n@98170993
+1896@RS@7774@Balneário Presidente@Avenida Paraguassu, 798@95625990
+1897@RS@7774@Balneário Santa Teresinha@Avenida Paraguassu, 172@95625991
+1898@RS@7774@Balneário Mariluz@Avenida Paraguassu, 2755@95625993
+1899@RS@7774@Balneário Albatroz@Avenida Paraguassu, 832@95625992
+2627@RS@8288@Loteamento Primavera@Rua D, nº 3003 - Loteamento Primavera@95800990
+2628@RS@8288@Santa Tecla@Rua Fernando Manoel Schwingel, s/n - Santa Tecla@95800991
+2666@RS@8079@Linha João Alves@Estrada Linha João Alves, s/n@96820991
+2692@RS@8127@Lago Parque Clube@Rua Laurentino de Abreu, 561@96700991
+2703@RS@8294@Morro Grande@RS-040, Parada 95@94400990
+2809@RS@8079@Linha Santa Cruz@Rua Orlando Oscar Baumhardt, s/n@96820996
+2825@RS@7501@Passo Moura@Estrada Passo Moura s/nº@96501990
+2826@RS@7501@Vila Ferreira@Estrada Ferreira, 6651@96501991
+2830@RS@7501@Passo D'areia@Estrada Ferreira nº 1000@96505991
+2832@RS@7667@Jacarezinho@RS-425, km 01, s/n@95960990
+2848@RS@7914@Morretes@Rua da Praia, 16 - Morretes@92480991
+2875@RS@7566@Euzébio Beltrão Queiroz@Rua Cristóforo Randon, 185@95010990
+2876@RS@7566@São Virgílio@São Virgílio da 6ª Légua@95076990
+2877@RS@7566@Cidade Nova III@Rua F, nº 63@95112990
+2881@RS@7466@Linha Cruzeiro@Via dos Imigrantes, s/n - Bairro Cruzeiro@95704990
+2887@RS@7910@Vale Verde@Rua das Araucárias, 980@95150990
+2888@RS@7910@Vila Germânica@Rua Albano Hansen, 38@95150991
+2890@RS@7911@Linha Gramado@Linha Gramado@95320991
+2892@RS@8290@Medianeira III@Bairro Medianeira@95330990
+2893@RS@8290@Vila Azul@Vila Azul@95330991
+2894@RS@7466@Bairro Vinhedos@Rua Arlindo Baccin, 565 - Bairro Vinhedos@95707990
+2929@RS@7785@Itacolomi@RS-020, nº 8418 - Parada 77@94240990
+2930@RS@7785@Estância Antiga@Beco do Trevo, 995@94242990
+2931@RS@7779@Jardim Costa do Ipiranga@Rua Manoel Souza Rosa, 3191@94230990
+2932@RS@7457@Residence Park@RS-030, nº 9240@94261990
+2933@RS@7623@Costão@Estrada Gal. Osório, s\n@95882990
+2934@RS@7700@Novo Paraíso@Estrada Geral Novo Paraíso, s\n@95880991
+2941@RS@7994@Ilha dos Marinheiros@Rua João Inácio da Silveira, 205@90090990
+3303@RS@7483@Bom Progresso@Rua Castelo Branco, 685@98575990
+3321@RS@8294@Águas Claras@RS 040 - Km 29, 19457@94400992
+3384@RS@7482@Santa Teresinha@Rua Pedro Neis, 310@95765990
+3433@RS@7918@Lomba Grande@Av. João A Algaier, 1238@93490990
+3434@RS@7925@Santa Luzia@Rua Carlos Bruno Fett, s/n@95520990
+3435@RS@7942@Despique@Estrada Despique, s/n@95783990
+3436@RS@7942@Matiel@Rua 20 de Março, s/n@95783991
+3437@RS@7942@Bananal@Monsenhor Frank, s/n@95783992
+3438@RS@7942@Bananal Norte@Rua dos Viveiros, s/n@95783993
+3439@RS@7942@Varzea Pareci@Estrada Despique, s/n@95783994
+3440@RS@7942@Despique Sul@Estrada Despique, s/n@95783995
+3441@RS@7887@São José do Herval@Rua Reinaldo Kieling, 45 Bairro São José do Herval@93990991
+3442@RS@7887@Walachai@Estr Walachai, 610@93990990
+3445@RS@7544@Pareci Velho@RS 240, 4280@95745990
+3448@RS@8108@Catanduvinha@Estr Catanduvinha, s/n@95500995
+3450@RS@8171@Pareci Velho@Rua Principal, s/n@95760995
+3451@RS@8250@Lajeadinho@Rua da Igreja, s/n@95580991
+3452@RS@8233@Olaria@Rua Osmani Veras, 2438@95535990
+3454@RS@8242@São Braz@BR 101 Km 09, s/n@95560990
+3458@RS@8242@Jacaré@Estr Geral, s/n@95560991
+3460@RS@8245@Parque Emboaba@Rua 02 nº 184@95590991
+3461@RS@8245@Oásis do Sul@Av Interpraias, 500@95590992
+3462@RS@8245@Nova Tramandaí@Rua Minas Gerais, 2186@95590990
+3548@RS@7439@Bairro União@Estrada Coxilha do Fogo, 491@96410991
+3557@RS@8177@São Valério do Sul@Av Principal, s/n@98595990
+3559@RS@8202@Sete de Setembro@Av Principal, s/n@97960990
+3560@RS@8036@Rincão Vermelho@Av, Principal, s/n@97975990
+3562@RS@7912@Nova Ramada@Av Principal, s/n@98758990
+3565@RS@8274@Ubiretama@Av Principal, s/n@98898990
+3572@RS@7647@Dezesseis de Novembro@Av Principal, s/n@97845990
+3579@RS@8087@Vila Santa Terezinha@Estrada para São Martinho da Serra - Bairro Caturrita@97017997
+3580@RS@7725@Vila Scherer@Rua Um, s/n@97210990
+3584@RS@7784@Itaara@BR 158, Km 311@97185990
+3585@RS@7784@Jardim da Serra@Rua Jardim da Serra, s/n@97185991
+3586@RS@8026@São Miguel@BR 287, Km 208@97200990
+3588@RS@8126@Doutor Dácio@Rua Miguel Santana, 160 - Dr Dácio@97306990
+3838@RS@8235@Loteamento Castro@Rua Ernino Thies, 627@95890992
+3844@RS@7540@Capão da Porteira@Rodovia RS 040 Km 48@94770990
+3850@RS@7785@Parque São Marcos@Rua Odir Binatto, 84 - Lot São Marcos@94243990
+3897@RS@8087@Loteamento Brigada Militar@Rua D, nº 75 Quadra EE - Bairro Piratini@97032990
+4160@RS@8087@Nossa Senhora da Conceição@Rua Percival do Amaral, 9@97040990
+4235@RS@7994@Vila Teresina@Av Carlos Barbosa, 860 - Azenha@90880990
+4354@RS@7888@Rincão da Natureza@Rua Capororoca, 40 Rincão da Madalena@94252991
+4355@RS@8087@Passo da Ferreira@Vila Passo da Ferreira@97032991
+4714@RS@8294@Região  do Morrinho@Rodovia Acrísio Prates, 1862@94430990
+4748@RS@7457@Loteamento Xará@Rua Princesa Isabel, 530 - Passo da Caveira - Parada 103 - Jardim do Cedro@94260991
+4773@RS@7994@Associação dos Moradores União Vila Pedreira@Rua Ursa Maior, 356@90820991
+4776@RS@7994@Associação dos Moradores Jardim Vitória da Conquista@Rua A, 5  próximo a Plínio Kroeff@91150991
+4796@RS@8294@Passo Dos Negros@Rua Cândido Pinheiro Barcelos, 6345  Passo dos Negros@94420990
+4807@RS@8087@Rincão dos Bentos@Escola Serafim de Oliveira Bento s/n - Rincão dos Bentos@97032992
+4819@RS@7791@Parque Florestal Itapuã@Rua da Figueira nº 10@94750990
+4826@RS@7391@Sociedade Lagoa@Rodovia RS-040 km 21, nº 15900, Parada 73 - Ponta do Aterro@94760990
+5023@RS@7391@Associação Sociedade Santa Fé@Rodovia RS-040 km 35, nº 2833, Parada 107 - Morro Grande@94760991
+5085@RS@7779@Santa Tecla@Travessa Padre Cicero, 15 - Santa Tecla@94231990
+5086@RS@7888@Amigos da Bela Vista@Estrada Fazenda da Conceiçao s/n - Bela Vista@94250990
+5353@RS@7888@Cadiz e Granada@Avenida El Cadiz, 495  Parada 95@94252990
+5356@RS@7791@Hospital Colônia Itapuã@Rodovia Frei Pacífico s/nº@94750992
+5357@RS@7391@Rincão Gaudério@Rodovia RS-040 km 25,5, nº 380, Parada 80 - Morro Grande@94760994
+5358@RS@7391@Vila Fraga@Rodovia RS-040 km 33, nº 21789, Parada 100 - Morro Grande@94760993
+5359@RS@7391@Sociedade Figueira@Rodovia RS-040 km 36, Rua Magistério nº 21 - Morro Grande@94760992
+5401@RS@7791@Colônia Japonesa@Estrada da Reforma@94750994
+5402@RS@7791@Núcleo Agrícola Itapuã@Estrada da Reforma@94750995
+5403@RS@7791@Horto das Oliveiras@Estrada da Reforma@94750996
+5404@RS@7791@Parque Estadual de Itapuã@Estrada da Reforma@94750997
+5506@RS@7477@Boca do Monte@Rua Euclides da Cunha, 501 - Ferragem Saccol - 7º distrito@97170990
+5583@RS@7391@Sociedade Morro Grande@Rodovia RS 040 Km 30,2, nº 20321 - Bairro Morro Grande@94760995
+5612@RS@8080@Colônia Pinheiro@Estrada Municipal Januário C. Franco nº 96 - 9º distrito Santa Flora@97160990
+5615@RS@7668@Sobradinho@Agropecuária Sobradinho, s/n° - 3º distrito Encruzilhada@97648990
+5644@RS@11097@Fernando Ferrari@Rodovia BR-101, Km 32, nº 155 - Vila Fernando Ferrari@95584990
+5665@RS@11100@Aguapés@Rodovia BR-101 Km 82 - Aguapés@95529990
+5666@RS@7925@Palmital@Estrada do Palmital, 11300 - nº 520 - Palmital@95520991
+5667@RS@7925@Capão da Areia@Rodovia RS-030 Km 89, nº 528 - Capão da Areia@95520992
+5668@RS@7925@Emboabas@Rodovia RS-030 - Km 89 nº 9001 - Emboabas@95520993
+5766@RS@7733@Loteamento Vale Verde@Rua Teodoro Afonso Peixoto, 561 - Vale Verde - Bairro Borgueti@95720994
+5836@RS@7439@Industrial@Rua Anselmo Garrastazu, 27@96413991
+5846@RS@8079@Cerro Alegre Baixo@Avenida Willy Moraes, s/n@96835990
+5851@RS@7683@Reserva Indígena Guarani do Canta Galo@Estrada do Canta Galo, 3725 - Reserva Indígena - Bairro Canta Galo@94740990
+5855@RS@7994@Cooperativa Dois Irmãos@Rua dos Belos Girassóis, 20 - Bairro Rubem Berta@91170992
+5886@RS@8294@Jardim Castelo@Estrada Caminho do Meio, 1171 - Rua Um nº 200 - Vila Augusta@94510990
+5898@RS@7994@Loteamento Costa Gama@Estrada Costa Gama nº 4051- Bairro Belém Velho@91787990
+5905@RS@11098@Linha Santa Lúcia@Estrada Santa Lúcia s/nº - Linha Santa Lúcia@95711990
+5913@RS@7994@Comunidade Vila Gaúcha@Rua Dona Maria,  Acesso 7 n° 195 - Bairro Santa Teresa@90850990
+5914@RS@7888@Loteamento Palmas@Rua Marino Schraider, 175 - RS-020 - Parada 93-A - Palmas@94252992
+5925@RS@7391@Querência@RS-040 Km 25 nº 17.805 - Parada 79@94760996
+5926@RS@7391@Assentamento Filhos do Sepé@RS-040 Km 22 - Parada 72 - Ponta do Aterro@94760997
+5935@RS@8162@Linha São Miguel@Estrada São Miguel, s/nº Bairro Linha São Miguel@95714990
+6002@RS@7993@Condomínio Jardim Vale Verde@Avenida Andaraí, nº 453 - Bairro Rincão do Cascalho@93180990
+6018@RS@8162@Santo Antoninho@Estrada Palmeiro s/nº - Linha Palmeiro@95714991
+6020@RS@8079@Cerro Alegre Alto@Estrada Cerro Alegre@96833990
+6022@RS@7517@Barrinha@Rua Pio XII, 6550 - Barrinha@93700990
+6023@RS@8038@Rio Branco@Estrada Buarque de Macedo, 8130@95322990
+6024@RS@7888@Cerro Azul@Rua Roberto Macedo, 60 - RS-020 - Parada 97@94253990
+6031@RS@7994@Morada da Colina e Santo Antônio@Estrada Afonso Lourenço Mariante, 4600 Acesso D nº 221 - Lomba do Pinheiro@91550990
+6046@RS@7993@Cachoeira@Estrada da Cachoeira, 2290 - Bairro Cachoeira@93180991
+6047@RS@7993@Macaco Branco@Estrada Macaco Branco, 1542 - Bairro Macaco Branco@93180992
+6048@RS@7993@Bom Jardim@Estrada Macaco Branco, 20 - Bairro Macaco Branco@93180993
+6060@RS@7742@Mato Grande@Rua Otacílio Soares, 1145 - Bairro Mato Grande@94380990
+6061@RS@7742@Vila Nova@Estrada Fernando Ferrari, 7850 - Bairro Vila Nova@94380991
+6062@RS@7742@Passo Grande@Rodovia RS-030 nº 30457 - Bairro Passo Grande@94380992
+6076@RS@7482@Nova Columbia@Rua Hugo Afonso Engeroff, 1362 - Nova Columbia@95765994
+6077@RS@7482@Arroio das Pedras@Rua José Rech, 10 - Arroio das Pedras@95765991
+6078@RS@7482@Paraíso@Rua Paraíso, 247 - Paraíso@95765992
+6079@RS@7482@Bela Vista@Rua São Luís, s/n - Bela Vista@95765993
+6108@RS@7486@São João@Estrada Melita Terezinha Schneider, 85@95870990
+6114@RS@7391@Moradores da Pimenta@Estrada da Pimenta, 2700 - Bairro Águas Claras@94760998
+6119@RS@7994@Vila Castelo@Rua C (Vl Castelo), 4 - Bairro Restinga@91790990
+6144@RS@7566@Linha Quarenta@Estrada Vereador Vicente Menezes, 2350 - Linha Quarenta@95044990
+6145@RS@7510@Passo da Capivara@Estrada do Pau a Pique s/n - Passo da Capivara@97140990
+6165@RS@7653@São José do Maratá@Rodovia RST-470 s/nº - Bairro São José do Maratá@95748990
+6166@RS@7718@Balneário São Lourenço@Rodovia Balneário São Lourenço s/nº@96521990
+6171@RS@7994@Loteamento Morro dos Ventos@Rua dos Canudos, 651@91712990
+6217@RS@8179@Associação Comunitária de Moradores da Vila Rica@Rua Dr Fernando Pahim - Vila Fernando Paim@97420990
+6218@RS@12765@Linha Imperial@Rua José Grings, nº 1616 - Linha Imperial@95165990
+6219@RS@12765@Linha Brasil@Rodovia RS-235 Km 14,2 - Bairro Linha Brasil@95165992
+6220@RS@8282@Linha Temerária@Estrada da Linha Temerária, nº 2090.@95163990
+6222@RS@7971@Pinhal Alto@Rua Vicente Pietro s/nº - Bairro Centro@95160990
+6223@RS@12765@Linha Araripe@Rodovia RS-235 Km 21,5 nº 2021 - Linha Araripe@95165991
+6227@RS@7391@Cantão das Lombas@Estrada do Quilombo Gomes e Silva, 6874 - Lombas@94761990
+6228@RS@7994@Comunidade Quatro de Junho@Estrada Afonso Lourenço Mariante, 585 - Lomba do Pinheiro@91550991
+6232@RS@7457@Banhado do Gravataí@Estrada do Vadeco, s/n - Bairro Marrocos@94265991
+6235@RS@7947@Loteamento Jardim Eldorado@Rodovia RS-040 - Km 18 - parada 70 - Rua Alexandrita, nº 92@94780990
+6253@RS@8022@Rancho Velho@Estrada Rancho Velho, 4440@95553990
+6275@RS@8171@Arroio Bonito@Estrada Geral Caí-Hortêncio, 8600 - Arroio Bonito@95760997
+6299@RS@7801@Nova Vila@Av. Presidente Lucena, 7750 - Bairro Nova Vila@93900991
+6332@RS@7477@Subprefeitura Boca do Monte@Rua Euclides da Cunha, 501 - 7º Distrito@97170991
+6333@RS@7510@Subprefeitura de Pains@Rua Pedro Brilhante s/n@97140991
+6335@RS@7540@Karai Nhe'e Katu@Rodovia RS-040 - Km 39 - Parada 116 - Beco dos Índios s/n - Estiva@94770991
+6365@RS@8108@Lagoa dos Barros@Rodovia RS-030 - n° 9872 - Lagoa dos Barros@95500996
+6405@RS@7915@Linha Rio Burati@Rodovia RS-453, Km 18 - Linha Rio Burati@95183993
+6467@RS@15314@Santos Reis@Rua Santos Reis, s/n@92535991
+6468@RS@15314@Campo do Meio@Estrada Campo do Meio, s/n@92535993
+1806@SC@8376@Tijuquinhas@Rodovia BR-101, km 185 - Tijuquinhas@88160991
+1815@SC@8518@Santo Antonio@Rua Domingos Anacleto Garcia, s/n@89266990
+1819@SC@8725@Jardim Anápolis@Rua Treze de Maio, 1199@88170991
+2121@SC@8521@Ana Júlia@Rua Kurt Meinert, Quadra 7 Lote 10@89231997
+2122@SC@8521@Morro do Amaral@Rua Beiramar, P 14@89231996
+2123@SC@8521@Anaburgo@Estrada Anaburgo - Vila Nova@89237990
+2124@SC@8521@Cristo Rei@Estrada do Sul, km 11@89237992
+2126@SC@8521@Estrada Blumenau@Estrada Blumenau, km 12@89237993
+2127@SC@8521@Estrada do Sul@Estrada do Sul, km 15@89237991
+2130@SC@8521@São José@BR-301, km 4 - Itinga@89233998
+2251@SC@8437@Três Fronteiras@Rua Osvaldo Kunsler, 95 - Três Fronteiras@89950990
+2254@SC@8424@Santo Antônio@Rua Principal, s/n - Santo Antonio@89700990
+2255@SC@8424@Vila Tamanduá@Rua Principal, s/n - Tamanduá@89700991
+2256@SC@8424@Vila Jacob Biezus@Rua Principal, s/n - Posto Cem@89700992
+2299@SC@8383@São José@Avenida Major Generoso, 115@88680990
+2307@SC@8723@São Jorge@Rua Bela Vista, s/n@88860990
+2309@SC@8742@Panifício KM60@Rua Bernardo Teodoro Gonçalves, 317@88702990
+2310@SC@8742@Mercado Ofertex@Rod. Norberto Brunato, 4975@88702991
+2311@SC@8742@Sertãos dos Corrêas@Rodovia Alfredo Anacleto da Silva, s/n@88703990
+2314@SC@8486@Vila Esperança@Loc Quadra PO 05R, 126@88780990
+2796@SC@8681@Calemba@Rua Castelo Branco, 1020@88140994
+2797@SC@8681@Varginha@Rua Geral de Varginha, s/n@88140991
+2798@SC@8681@Caldas da Imperatriz@Rua Princesa Leopoldina, 60@88140992
+2799@SC@8681@Vila Santana@Rua Geral, s/n@88140993
+2800@SC@8681@Vila Nossa Senhora de Lourdes@Rua Geral, s/n@88140990
+2805@SC@8385@Zimbros@Avenida Girassol,  2121@88215991
+3208@SC@8458@Vila Tritícula@Rua São Francisco, s/n@89530990
+3209@SC@8717@Juvêncio@Rua Principal, s/n - Juvêncio@89868990
+3601@SC@8742@Mercado Redivo@Rod. Norberto Brunato, s/n@88702992
+3602@SC@8742@Bom Pastor - Mercado MB@Rod. João Alfredo Rosa, s/n@88708991
+3603@SC@8742@Guarda ME@Rod. Alfredo Anacleto da Silva, s/n@88708992
+3604@SC@8750@De Villa@Rua Domingos Scarpato, s/n@88840992
+3644@SC@8362@Barra Clara@Estrada Geral de Barra Clara@88465990
+3645@SC@8460@Garcia@Estrada Geral Garcia@88463991
+3862@SC@8360@Novo Encantado@Estrada Geral, s/n - Novo Encantado@89905991
+3863@SC@8360@Gaspar@Estrada Geral, s/n - Gaspar@89905990
+3865@SC@8424@São Paulo@Estrada Geral, s/n - São Paulo@89700993
+3914@SC@8360@Prata@Estrada Geral, s/n - Prata@89905992
+4360@SC@8424@Presidente Kennedy@Rua Principal, s/n - Presidente Kennedy@89700994
+4361@SC@8424@Barra do Tigre@Rua Principal, s/nº - Barra do Tigre@89700995
+4362@SC@8424@Três de Outubro@Rua Principal, s/n - Três de Outubro@89700996
+4382@SC@8518@Rio da Luz@Estrada Rio da Luz, s/n@89260994
+4383@SC@8518@Garibaldi@Estrada Garibaldi, s/n@89260996
+4384@SC@8556@Campinha Central@Rua Campinha Central, s/n@89108991
+4385@SC@8556@Massarandubinha@Estrada Geral, s/n@89108993
+4386@SC@8556@Benjamin Constant@Rua Benjamin Constant, s/n@89108992
+4388@SC@8537@Salto Pilão@Rodovia BR-470, km 127 nº 4923@89182990
+4389@SC@8463@Gasparinho Central@Rua Itália, s/n - Gasparinho Central@89110993
+4414@SC@8463@Gaspar Alto@Rua Geral, 13635 - Gaspar Alto@89110990
+4415@SC@8463@Gaspar Alto Central@Rua Guilherme Bels, s/n@89110991
+4416@SC@8463@Gasparinho@Rua Itália, 5960 - Gasparinho@89110994
+4417@SC@8463@Gaspar Grande@Rua Prefeito Leopoldo Schramm, 2640 - Gaspar Grande@89110995
+4586@SC@8465@Jordão@Rua Enéa Joaquim Costa 66 - Bairro Jordão@88190991
+4587@SC@8528@Amigos da Caputera@Rua Fernando Antônio dos Santos, s/n - Caputera@88790990
+4592@SC@8589@Guarda do Embaú@Rua  Geral da Guarda do Embaù@88139990
+4593@SC@8589@Passagem do Massiambu@Rua Geral da Passagem do Massiambu  Mercearia Lamiro@88139991
+4595@SC@8589@Ponta do Papagaio@Rua Flamboyant, 435 - Ponta do Papagaio@88139993
+4596@SC@8725@Sorocaba do Sul - Posto de Saúde@Estrada Geral - Sorocaba do Sul@88170992
+4597@SC@8725@Sorocaba de Dentro@Estrada  Geral - Sorocaba de Dentro - Posto de Saúde@88170993
+4604@SC@8521@Ana Júlia ll@Ana Júlia, Q 11 L 01@89231995
+4606@SC@8521@Timbé@Estrada Timbé, s/n@89226997
+4608@SC@8521@Estrada Comprida@Estrada Comprida,  s/n@89237994
+4612@SC@8472@Caixa D'agua@Rua Angelo Zanluca, 97@89270991
+4613@SC@8472@Corticeira@Rua Marcionilo dos Santos, s/n@89270990
+4617@SC@8518@Ribeirao Cavalo@Rua Ermelina Trentina Menel, s/n@89266992
+4618@SC@8518@Ribeirão Norte@Rua Ribeirão Grande do Norte, 801@89266991
+4620@SC@8518@Rio Cerro@Rua Gustavo Gunz, 548@89260995
+4627@SC@8543@Espigão@Rua Pedro Liebel, 982@89300990
+4630@SC@8684@Alberto Torres@Rua Alberto Torres, 3809@89283990
+4631@SC@8684@Rio Vermelho@Rua Carlos Muhlmann, s/n@89292990
+4633@SC@8521@Vigorelli@Rua João de Melo Souza Alvin, 323@89226998
+4780@SC@8376@Garcia@Rua Antonio Paulo Garcia, s/n@88160992
+4808@SC@8465@Areias do Meio@Rodovia SC-410 s/n  km 05 - Gov. Celso Ramos@88190992
+4823@SC@8609@Machado@Rua Principal, s/n@89870991
+4830@SC@8344@Sanga da Areia@Alameda Antonio Alves da Silva, 878 -  Sanga da Areia@88900992
+5501@SC@8521@Gabriela@Rua Paranaguamirim, 407 - Paranaguamirim@89234990
+5507@SC@8341@Subida@Estrada Geral, 560 - Subida@89135992
+5508@SC@8341@Vargem Grande@Estrada Geral Vargem Grande, s/n@89135991
+5509@SC@8628@Caminho Papanduva@Estrada Geral Caminho Papanduva s/n@89150992
+5510@SC@8628@Serra dos Indios@ Estrada Geral Serra dos Indios s/n@89150991
+5511@SC@8628@São José@Estrada Geral São José s/n@89150993
+5512@SC@8375@Barra São João@Rua Ministro Luiz Galotti, 1975@89124991
+5585@SC@8692@Iperoba@Rodovia Duque de Caxias, 7777 - Iperoba@89240991
+5705@SC@8465@Areias de Cima@BR-101, km 180 - Areias de Cima@88190993
+5706@SC@8465@Associação dos moradores da Praia do Antenor@Rua Gentil de Moura Carvalho, s/n - Praia do Antenor@88190994
+5769@SC@8377@Loteamento Dona Edite@Rua da Comunidade, 213@89045998
+5820@SC@8375@Alto Benedito@Rua Leopoldo Koprowski, 788@89124992
+5837@SC@8692@Ervino@Avenida Atlântica, 1200@89240990
+5840@SC@8589@Chaveiro Pinheira@Rua Aderbal Ramos da Silva, 286@88139992
+5876@SC@8521@Estrada do Pico@SC 301 n 6339 - Km 81 Pirabeiraba@89239990
+5945@SC@8521@Estrada Canela@Rodovia BR 101 Km 25, 100@89239995
+5951@SC@8521@Ribeirão@Alvino Souza do Nascimento, s/n@89226990
+6073@SC@8521@Lagoinha@Minas Gerais, 5780@89215990
+6100@SC@8521@Estrada Palmeiras@Rua XV de Outubro n. 4505@89239997
+6182@SC@8507@Antonio Heil@Rua Germano Vieira, 2000 - Km 12@88318990
+6183@SC@8507@Baia@Rua Marcos Albino, 958@88318991
+6184@SC@8507@Arraial dos Cunha@Rod. Antonio Heil, 10780 - Arraial dos Cunha@88318992
+6185@SC@8507@Paciência@Rua Benta Custódio Vieira, 254@88318993
+6186@SC@8507@Brilhante I@Rua José Lana, 70@88318994
+6188@SC@8507@Limoeiro@Rua Edmundo Leopoldo Merízio, 1200@88318996
+6190@SC@8507@Espinheirinho@Rua Clarindo Sebastião da Cunha,@88317990
+6198@SC@8507@Brilhante II@Rua José Marcelino Rodrigues, 4309@88318997
+6266@SC@8424@Engenho Velho@Rua Principal, s/n  Engenho Velho@89700997
+6267@SC@8424@Fragosos@SC 283, s/n (prox. EAFC)@89700998
+6268@SC@8424@Planalto@Rua Principal, s/n   Planalto@89701990
+6269@SC@8483@Boa Vista@Rod. Arino Cândido, s/n ( ICR 350 ) ( Mercado Ferreira )@88820993
+6270@SC@8483@Sanga Funda@Rodovia Paulino Búrigo, s/n - Sanga Funda (Posto Pessoa)@88820998
+6272@SC@8483@Barra Velha@Antônio Sebastião Lemos, s/n (Mercado Viana)@88820996
+6274@SC@8692@Tapera@Rua Binot Palmier de Goneville, s/n@89240993
+6280@SC@8484@Baú@Rua Maria de Lourdes Pontaldi, s/n - Baú Baixo@88320990
+6281@SC@8484@Pocinho@Estrada Geral do Pocinho, 287@88320991
+6282@SC@8465@Areias de Baixo@Av. Nézio João de Miranda, s/n@88190996
+6283@SC@8465@Dona Lucinda@Rodovia SC-410, km 8@88190997
+6296@SC@8700@Alto Forquilha@Rua Antonio Jovita Duarte, 9825@88107990
+6300@SC@8571@Porto Escalvado@Rua Francisco Miguel Nunes, 581 - Porto Escalvado@88374990
+6321@SC@8405@Comunidade do Moura@Rua Alberto Orsi, 6997 - Bairro Moura@88230990
+6342@SC@8356@Conquista@Avenida Jaraguá do Sul, 9906@89247990
+6348@SC@8518@Bananal do Sul@Estrada Vicente Bernardes, s/n@89269990
+6430@SC@8377@Vila Itoupava@Rua Erwin Manske, 13375 - Vila Itoupava@89075990
+6433@SC@8539@Luiz Alves@Estrada Geral Paula Ramos S/Nº@89128990
+6520@SC@8521@Jardim Edilene@Avenida Kurt Meinert, Q 17 Lt 22@89231998
+6695@SC@8507@Campeche@Rua Vergílio Cadore S/N@88318998
+2614@SE@8802@Associação dos Moradores do Povoado Alto da Boa Vista@Rua Principal, s/n@49400990
+2615@SE@8796@Associação dos Moradores do Povoado Bom Jardim@Rua Principal, s/n@49500990
+4591@SE@8804@Associação dos Moradores Povoado Pedra Branca@Rua da Igreja, 55@49170991
+6350@SE@8847@Povoado Triunfo@Rua Principal@49480990
+6393@SE@8841@Povoado Alto da Colina@Avenida Luiz Bomfim Freire, Nº 1601 Povoado Alto da Colina@49100992
+6394@SE@8841@Loteamento Lauro Rocha@Rua E, S/N - Loteamento Lauro Rocha@49100991
+6407@SE@8841@Povoado Pedreiras@Rua Principal , Nº 10650 Povopado Pedreiras@49100993
+1825@SP@8858@Prefeitura Municipal@Rua Capitão João Urias, 347 - São Roque da Fartura@13890990
+1834@SP@9082@Bairro Cachoeira@Estrada da Cachoeira, 136 - Cachoeira@06723990
+1836@SP@9113@Associação dos Moradores do Caputera@Estrada Municipal, 733 - Caputera -Embu/SP@06845991
+1837@SP@9113@CPC Ressaca@Estrada da Ressaca, 356 - Colonial - Embu/SP@06844990
+1838@SP@9114@Cipó@Rua Benedito Jandira Soares, 64@06900990
+1840@SP@9114@Bairro Lagoa Grande@Largo do Amancio, 800 - Lagoa Grande@06900992
+1842@SP@9114@Vale Tranquilo@Rua Belmiro Silva, 184 - Vale Tranquilo@06900994
+1850@SP@9301@Bairro Laranjeiras@Estrada das Laranjeiras, s/n, km 18 (Arm. Xavier) - Laranjeiras@06950990
+1851@SP@9301@Bairro Palmeirinhas@Praça Daniel Vaz Pereira, 36 - Palmeirinhas@06950991
+1852@SP@9301@Condomínio R. N. Fleming@Estrada Milton Fleming, Nº 3000  - Bairro Senhorinhas@06950992
+1856@SP@9301@Palmeiras@Rua Inácio Vieira Pinto, 25@06950996
+1857@SP@9301@Bairro Juquiazinho@Estrada  Pedra Lisa, 351@06950997
+1860@SP@9338@Condomínio Jardim Iporã@Alameda das Palmeiras, 02 - Jardim Iporã@07600990
+1871@SP@9479@Posto de Saúde@Rua Benedito Bento Rocha, s/n - Estação@18580990
+1881@SP@9660@Sociedade Amigos e Moradores do Bairro Chácara Taquari@Estrada Municipal, nº 700 - Chácara Taquari@12214992
+1883@SP@9661@Bairro Despezio@Rua Antônio Despézio, 580 - Despézio@06890990
+1884@SP@9661@Bairro Fazenda Vitória@Estrada Embratel, 04@06890991
+1886@SP@9661@Jardim da Serra@Rua Bananeiras, 04 - Jardim da Serra@06890993
+1888@SP@9669@Associação de Moradores do Bairro Theodoro de Souza Barros@Rua Engracia Gimenes, 87 - Theodoro de Souza Barros@13520990
+1930@SP@9114@Bairro do Penteado@Estrada do Baygton, 124 - Bairro dos Penteados - Embu-Guaçu/SP@06900995
+1941@SP@8992@Bom Retiro@Estrada Ismael Leme Mourão, s/n - Bom Retiro@12929990
+1942@SP@9771@Vargem@Estrada entre Serras e Águas, Km 2,5 - Guaraiuva@12935990
+1945@SP@9245@Ribeirão da Várzea@Rua 18, Quadra 16 - Ribeirão da Várzea@18385990
+1950@SP@9201@Administração Regional do Paruru@Rua Elídio Domingues, nº 53 - Bairro do Paruru@18155990
+1955@SP@9240@Conceição@Rua São Bento, s/nº - Distrito da Conceição@18207990
+1956@SP@9240@Associação de Colaboradores para o Desenvolvimento do Distrito de Tupy@Rua 04, s/nº - Altura da Rodovia Raposo Tavares Km 188, Distrito de Tupy@18207991
+1960@SP@8908@Sociedade Amigos dos Bairros do Monte Líbano e Santo Antonio@Rua José Gabriel Rachid Pires, Cx. Luz 184@18190996
+1965@SP@8901@Araçaíba@Via Itapeva, s/nº - Distrito de Araçaíba@18323990
+1966@SP@9023@Campina do Monte Alegre@Rua dos Dourados, nº 1200, Salto - Posto de Saúde@18245990
+1967@SP@9222@George Oetterer@Avenida José Rocha, 20 - Bairro George Oetterer@18560990
+2146@SP@9369@Posto de Medicamentos Sabaúna@Rua Antônio Jimenez Valleijo, 18 - Vila Andrade@08850990
+2147@SP@9369@Paulo Ikemori - ME@Estrada Mogi Barroso, km 20@08751990
+2154@SP@9725@Jonas de Souza - ME@Estrada Bairro Enxovia de Baixo, s/nº - Bairro Enxovia de Baixo@18270992
+2218@SP@9490@Fazenda Santa Rita@Sede da Fazenda Santa Rita - Fazenda Santa Rita@19410992
+2219@SP@9490@Fazenda São José da Lagoa@Sede da Fazenda São José da Lagoa - Fazenda São José da Lagoa@19410990
+2220@SP@9490@Fazenda Santo Antonio da Lagoa@Sede da Fazenda Santo Antonio da Lagoa - Fazenda Santo Antonio da Lagoa@19410991
+2403@SP@9082@Bairro Morro Grande@Estrada do D.A.E., 51@06722990
+2406@SP@9369@Geraldo Alves de Souza@Rua Guararema, 32 - Taiaçupeba@08765990
+2407@SP@9584@Prefeitura Municipal de Salesópolis@Rua Antônio de Souza Prado, 15@08970990
+2408@SP@9476@Associação Morro do Bairro dos Marianos@Estrada Municipal dos Marianos, s/n@11790990
+2410@SP@9369@A.A. Bairro Ouro Verde@Rua Santa Virgínia, 59@08745990
+2412@SP@8967@Sociedade de Moradores e Amigos de Boracéia@Rua Deputado Emílio Justo, 68@11250990
+2704@SP@9182@Associação dos Moradores dos Morrinhos III e IV@Travessa - 312, nº 28 - Morrinhos III@11495990
+2735@SP@9369@Associação de Adquirentes de Unidades do Loteamento Real Park Mogi@Rua Coronel Cardoso de Siqueira, 3232 - Mogi das Cruzes@08790990
+3112@SP@9369@Mercado João de Barro de Mogi Ltda@Rua Minas Gerais, 20 - Chácara Guanabara@08772995
+3307@SP@9668@EEPG - Bairro Maria Trindade@Rua A, nº 15, Rodovia Anhangüera - Maria Trindade@05275990
+3308@SP@9566@Associação de Moradores do Condomínio Residencial Morada do Sol@Avenida 42, s/nº - Santa Elisa@13504990
+3309@SP@9049@Venda Branca@Avenida Família Anacleto - Venda Branca@13700991
+3310@SP@9049@Lagoa Branca@Praça da República - Lagoa Branca@13700990
+3341@SP@9088@Sociedade Melhoramento de Vila Light@Avenida  Principal, 313@11500990
+3342@SP@9338@Casa de Rações Mato Dentro@Estrada Mário Freitas da Silva - Mato Dentro, S/N@07600994
+3366@SP@9675@São Sebastião da Serra@Rua Narciso Stocco, nº 70, Bairro do Patrimônio@17390990
+3380@SP@9369@Mercadinho Bernadotti Ltda -ME@Estrada do Negreiro,130 KM-7   Itapety@08772991
+3429@SP@9369@Sociedade Amigos de Vila Morais e Adjacências@Estrada Municipal do Sato, 248- Vila Morais@08700990
+3593@SP@9210@Associação de Bairro Unidos Tucum , Retiro, Tabaquara e Colônia Central@Rodovia Prefeito Casimiro Teixeira - KM 31.4@11920990
+3594@SP@9636@Associação de Bairro de Caruara@Praça das Palmeiras, s/n@11200990
+3597@SP@9369@Escola Municipal Rural Margareth Unger L. Rosa@Estrada de Santa Catarina, KM 8 - Jardim São Pedro@08830990
+3618@SP@9301@Bairro Palestina@Estrada da Palestina, 7005 - Palestina -Juquitiba/SP@06951995
+3620@SP@9661@Bairro Itatuba@Estrada Maria Soares Pereira, 560@06890995
+3670@SP@9468@Guaianás@Rua Regente Feijó, L-80 - Distrito Guaianás@17285990
+3672@SP@9495@Santo Antônio da Estiva@Rua Santo Antônio, nº 221, Quadra 10 - Setor 200@16603990
+3673@SP@9285@Potunduva@Rua São José, nº 340 - Distrito Potunduva@17220990
+3674@SP@9348@Padre Nóbrega@Avenida Sampaio Vidal, nº 182@17533990
+3695@SP@9337@Dona Catarina@Praça de Igreja, nº 03 - Bairro Dona Catarina@18123990
+3696@SP@8892@Bom Retiro da Esperança@Rua Independência, nº 11 - Bom Retiro da Esperança@18240990
+3697@SP@9667@J J Oliveira Bar e Mercearia Ltda - ME@Rua Cônego Francisco Ribeiro, 31 - Pocinho@18230992
+3700@SP@8892@Posto de Saúde do Bairro Machadinho@Estrada Municipal do Machadinho, s/nº - Bairro do Machadinho@18240993
+3701@SP@8892@Posto de Saúde Maria Lopes dos Santos@Estrada Municipal Bairro Ribeirão Grande, s/nº - Bairro Ribeirão Grande@18240995
+3702@SP@8892@Posto de Saúde do Bairro Boa Vista@Rodovia Raposo Tavares, s/nº, km 200 - Bairro Boa Vista@18240991
+3703@SP@8892@Posto de Saúde do Bairro Guareí Velho@Estrada Municipal, s/nº - Bairro Guareí Velho@18240992
+3710@SP@8976@Associação dos Proprietários e Moradores do Jardim Santo Inácio@Avenida Silvana, nº 1783 - Jardim Santo Inácio@18590991
+3711@SP@9037@Nelsi Donizeti de Almeida - ME@Avenida Januário R. Siqueira, nº 1500 - Bairro Turvo das Almeidas@18300990
+3712@SP@8865@Posto de Saúde do Bairro Ribeirãozinho@Estrada para o Bairro da Capuavinha, s/nº - Bairro Ribeirãozinho@18220991
+3714@SP@8865@Posto de Saúde do Bairro Cerrado@Rua Sabiá, s/nº - Bairro Cerrado@18220993
+3717@SP@9000@Aracaçu@Rua Carlos Riedel, nº 65 - Distrito de Aracaçu@18295990
+3719@SP@9231@Engenheiro Maia@Rua Principal, s/n - Distrito Engenheiro Maia@18445990
+3720@SP@9231@Turiba do Sul@Rua Pedro Rosa, nº 180 - Distrito Turiba do Sul@18450990
+3721@SP@9201@Associação Amigos do Bairro da Granja Votorantim I e II@Rua L, Quadra 12, Lot.12 - Bairro da Granja Votorantim I@18150993
+3723@SP@9342@Assentamento Santo Antonio@Sede do Assentamento Santo Antonio - Assentamento Santo Antonio@19430991
+3724@SP@9342@Posto de Atendimento à Saúde Bairro Areia Branca@Posto de Atendimento à Saúde Bairro Areia Branca - Areia Branca@19430990
+3725@SP@9729@Escola Estadual Prof. Romilda L. P. dos Santos@Escola Estadual Prof. Romilda L. P. dos Santos - Gleba Água Sumida@19280990
+3726@SP@9729@Escola Estadual Prof. Francisco Ferreira de Souza@Escola Estadual Prof. Francisco Ferreira de Souza - Ribeirão Bonito@19280991
+3727@SP@9533@Escola Municipal Jardim Eldorado@Assentamento Tupanciretã - Jardim Eldorado@19400991
+3728@SP@9573@Santa Marina - Setor II@Gleba XV de Novembro, Setor II - Subprefeitura de Rosana - Fazenda Santa Marina@19273990
+3729@SP@9573@Santa Marina - Setor II@Gleba XV de Novembro, Setor II - Subprefeitura de Rosana - Fazenda Santa Marina@19273991
+3730@SP@9573@Campinho@Posto Avançado de Saúde - Campinho@19273992
+3731@SP@9217@Prefeitura Municipal (Convenente)@Centro de Saúde - Sete Copas@19560990
+3732@SP@9669@Associação dos Proprietários do Condomínio Serra Verde@Rodovia SP-304 - km 209 - Ribeirão Vermelho@13520991
+3733@SP@8912@Centro de Desenvolvimento Comunitário Bela Vista@Escola Estadual Hermínio Pagotto, s/n - Bela Vista do Chibarro@14800990
+3734@SP@8912@Mercearia Nossa Senhora de Fátima@Rodovia Abílio Augusto Correia, Km 01 - Machados@14800991
+3735@SP@9153@Nova Paulicéia@Avenida Araraquarense,s/nº - Distrito de Nova Paulicéia@14813990
+3741@SP@9177@Associação Amigos dos Bairros Unidos@Rua Doutor Francisco de Assis Barbosa, nº 50 - Bairro Pingo de Ouro@12500990
+3748@SP@9283@Associação do Valle Esmeralda@Estrada Manuel G. Navarro, Km 13,5, Vale Esmeralda@13240990
+3749@SP@9700@Sindicato dos Trabalhadores Agric. Familiar de Sumaré e Região@Rua Luiz Vaz de Camões, nº 226 - Jardim Primavera@13173990
+3751@SP@9213@Associação dos Moradores do Bairro do Ipê@Alameda das Hortencias, s/n@15385990
+3753@SP@9239@Jardim Samambaia@Estrada Mato a Dentro, 695@06886990
+3762@SP@9673@Boiçucanga@Rua Gilmar Furtado de Oliveira, 111 - Boiçucanga@11618990
+3768@SP@9082@Bairro dos Mendes@Estrada dos Mendes, 310@06724990
+3769@SP@9591@Centro de Saúde do Assentamento Bom Pastor@Centro de Saúde do Assentamento Bom Pastor -  Assentamento Bom Pastor@19250990
+3770@SP@9086@Posto de Atendimento à Saúde@Dependências do PAS - Bairro do Cateto@19860990
+3771@SP@9533@Posto de Saúde do Assentamento Primavera@Posto de Saúde do Assentamento Primavera - Primavera@19400990
+3775@SP@9157@Gramadinho@Rua Elias Jorge Daniel, nº 56 - Distrito de Gramadinho@18218990
+3796@SP@9564@Bairro do Taquaral@Bairro do Taquaral@14830990
+3822@SP@9719@Taquaral@Rua do Cafezal, n. 746, Centro@14765990
+3837@SP@9668@Jardim Paineiras Perus@Rua Minas Gerais, 46 -Jardim das Paineiras- Morro Doce -Perus/SP@05276990
+3842@SP@8908@Aguinaldo Antônio de Oliveira Araçoiaba ME@Estrada do Cercado, s/n, cx 837, Bairro do Cercado@18190997
+3845@SP@9668@EEPG Prof. Regina Miranda Brant de Carvalho@Rua Filomena Belmont, 75 - Eng. Marsilac -São Paulo/Capital@04891990
+3852@SP@9640@Sociedade Amigos de Bairro Taquacetuba@Estrada Taquacetuba, 207 - Bairro Taquacetuba@09835991
+3853@SP@9640@Sociedade Amigos e Bairro Jardim Represa@Estrada Galvão Bueno, 30.125 - Jardim Represa@09842993
+3913@SP@9668@Associação dos Moradores da Chácara Bananal@Rua Projetada, 21@04948990
+4158@SP@9114@Bairro de Santa Fé@Estrada Antônio Gerassi, 2000@06900997
+4161@SP@9369@Mercadinho e Bar Nova Geração Mogi Ltda-ME@Estrada Taboão do Paratei Km 25 s/n -Taboão@08772990
+4163@SP@9789@Associação dos Moradores da Vila Carvalho@Rua 3, n.91, Vila Carvalho@15507990
+4166@SP@9531@Prefeitura Municipal de Presidente Epitácio@Estrada Vicinal para Caiuá, s/n, Lagoinha@19470990
+4167@SP@9406@Itaóca@Rodovia João Ferreira da Silva, s/n, Itaóca@18435990
+4168@SP@9406@Bairro do Barreiro@Rodovia Luiz José Squário, s/n, Barreiro@18435991
+4169@SP@9406@Bairro do Braganceiro@Estrada Municipal do Bairro do Braganceiro, s/n, Braganceiro@18435992
+4170@SP@9247@Santo Antônio@Rua Gerson de Souza Lima, 1041, Santo Antônio@18480990
+4171@SP@9247@Ribeirão Branco@Rua Mato Grosso, 167, Ribeirão Branco@18480991
+4172@SP@9097@Três Barras@Rua Francisca Rameires Grespan, 28, Três Barras@13780990
+4173@SP@9097@Ribeirão Santo Antônio@Praça Ziconeca, 87, Ribeirão Santo Antônio@13780991
+4175@SP@8992@Araras do Mori@Rodovia Capitão Barduíno, km 104,5 - Araras do Mori@12924990
+4176@SP@8961@Vale do Igapó Empreendimentos Ltda@Alameda das Tachã, s/n, Q BN Lote 1, Vale do Igapó@17036990
+4177@SP@8928@Cachoeira@Estrada do Bairro Boa Vista, km 10 - Boa Vista@12940991
+4178@SP@8928@Associação Comunitária do Bairro Pedreira@Estrada dos Pires s/n Loteamento Pedra Bela - ao lado da Pedreira Atibaia@12940992
+4179@SP@8928@Portão@Rua Antônio da Cunha Leite, 3209 - Portão@12948990
+4180@SP@8906@Associação dos Moradores do Bairro Santa Ella@Estrada Municipal Imperial, 4656, Santa Ella@18147990
+4181@SP@8875@Sociedade Melhoramentos Recanto dos Pássaros@Rodovia Raposo Tavares, Km 82, Bairro Genebra@18125990
+4594@SP@9114@Chácara Califórnia@Avenida Dois, 13 - Chácara Califórnia - Embu-Guaçu/SP@06900998
+4637@SP@9625@Associação dos Proprietários e Moradores do Jardim Cipreste@Caminho dos Vianas, 801 - Jardim Cipreste@09170990
+4707@SP@8928@Associação do Centro comunitário do Bairro da Boa Vista@Estrada Luciano Rocha Peçanha, s/n - Bairro da Cachoeira@12940993
+4708@SP@9717@Prefeitura Municipal de Tapirai@Avenida José Garcia de Salles, 1003, Rio Turvo@18180990
+4709@SP@9093@Parque Pantanal@Rua Padre Jeremias José Nogueira, 274, Parque Pantanal@13690990
+4710@SP@9201@Sociedade de Amigos do Recreio Residencial de Ibiúna@Estrada Municipal, 1000, Recreio@18150994
+4711@SP@9223@Associação dos Prop de Lotes no Loteam Núcleo Lageado Portal dos Nobres@Rodovia SP 191 Rio Claro/Ipeúna@13537990
+4713@SP@9660@Associação de Moradores do Bairro Bengalar@Estrada do Bengalar, 982 - Bengalar@12213991
+4753@SP@9499@Pununduva@Estrada Francisco Misse, 1200 - Purunduva-Pirapora do Bom Jesus@06550990
+4754@SP@8967@Associação dos Condominos do Loteamento Morada da Praia@Rod. Dr. Manoel Hippolito do Rego, KM 193@11250992
+4755@SP@9016@Escola Municipal de Capitão Braz@Estrada Municipal, s/n@11950990
+4756@SP@9016@Escola Municipal de Vila Andreia@Estrada Municipal, s/n@11950991
+4757@SP@9016@Escola Municipal de Barra do Azeite@Estrada Municipal, s/n@11950992
+4758@SP@9016@Escola Municipal do Bairro Jacupiranguinha@Estrada Municipal, s/n@11950993
+4759@SP@9016@Escola Municipal da Vila Tatu@Estrada Municipal, s/n@11950994
+4760@SP@9182@Associação de Moradores do Morro do Engenho@Rua Leopoldo Xavier, 45@11435990
+4761@SP@9362@EMEI Maria José de Carvalho - Ribeirão Bonito@Sí´tio Ribeirão Bonito, s/n@11850991
+4763@SP@9636@Sociedade Melhoramentos de Monte Cabrão@Av. Principal de Monte Cabrão, 02@11220991
+4765@SP@9678@Sociedade Melhoramentos Dique Sambaiatuba@Rua 02, 19/21 - Fundos@11365990
+4766@SP@9476@Posto de Atendimento de Manoel da Nóbrega@Estrada Municipal, s/n@11790991
+4767@SP@9476@Assoc. Rural de Três Barras@Estrada Municipal, s/n@11790992
+4768@SP@9237@Associação de Bairro Jardim Anchieta@Rua Radamés Incontri Filho, 60@11740991
+4779@SP@9432@Associação Habitacional Casa Para Todos - Vila Nova Quitauna@Olívio Basílio Marçal , 270@06172990
+4798@SP@9082@Capelinha@Estrada da Capelinha, 8917 - Terra de São Felipe (Caucaia do Alto)@06729990
+4799@SP@9082@Bairro dos Neves@Estrada dos Neves, 480 - Bairro dos Neves@06729991
+4800@SP@9014@Agrovila III@Rua Dois,s/n, Agrovila III@19450990
+4801@SP@9014@Agrovila IV@Rua Um, 24, Agrovila IV@19450991
+4802@SP@9014@Sao Francisco@Estrada Vicinal Presidente Epitácio, s/n, Fazenda São Francisco@19450992
+4813@SP@9660@Associação dos Proprietários das Chácaras Bonsucesso@Estrada Juca de Carvalho, 15100,  Pau de Saia@12214994
+4815@SP@9729@Santa Zélia@Posto de Atendimento á Saúde - Assentamento Santa Zélia@19280992
+4816@SP@9729@Escola Estadual Laudenor de Souza@Escola Estadual Laudenor de Souza - Assentamento Laudenor de Souza@19280993
+4822@SP@9114@Jardim Paulistinha@Estrada Municipal da Paulistinha, 70 -A  Jardim Paulistinha@06901990
+4825@SP@8992@Atibaianos@Estrada Domício Franco de Camargo, km 3 - Atibaianos@12924992
+4827@SP@9432@CPC Associação Açucará@Assembléia, 32  Jardim Açucará@06266990
+5028@SP@9669@Residencial Botânico@Alameda dos Angicos, 472 - Jardim Botânico@13520992
+5076@SP@9646@Sub Prefeitura do Distrito de São Francisco Xavier@Praça Cônego Manzi, s/n - Distrito de São Francisco Xavier@12249990
+5079@SP@9667@Murosaki & Marczuk@Rua Avelino Antonio Vieira, 219 - Gramadão@18230994
+5081@SP@9369@Paulo Roberto Editore - ME@Rodovia Mogi-Bertioga Km 75, nº 771 - Bairro: Manuel Ferreira@08766990
+5089@SP@9038@Centro de Saúde do Bairro do Porto@Avenida Bom Jesus, s/n, Bairro Porto@18195991
+5090@SP@9640@Associação do Conjunto Habitacional de Vila Ferreira@Rua da Vitória, 3.315 - Vila Ferreira@09851990
+5169@SP@8992@Água Comprida@Rodovia Padre Aldo Bolini, km 70 - Água Comprida@12902990
+5360@SP@8961@Tibiriçá@Rua Figueira de Melo, Quadra 3, s/n - Centro@17110990
+5367@SP@9668@Associação de Moradores Jardim Nova Vitória@Avenida Vitória nº 27 - Bairro Jardim Nova Vitória - São Paulo@08372990
+5373@SP@8989@Rural Green Valley@Alameda das Primaveras, 101,  Green Valley@18605990
+5374@SP@9129@Centro de Saúde do Bairro Santa Rita do Pontal@Rua Dois, s/n, Santa Rita do Pontal@19275990
+5375@SP@9129@Centro de Saúde do Bairro Agrovila Rosanela@Rua Central, s/n, Agrovila Rosanela@19275991
+5377@SP@9452@EMEF Serrinha da Prata@Rodovia Raposo Tavares, km 251, Paranapanema@18720990
+5380@SP@9468@Posto de Saúde de Santelmo@Rua Eliazar Braga, Q-123, Santelmo@17288990
+5386@SP@9669@EMEIF Dr. Celso Silveira Mello@Rua Rio Piracicaba, s/n, Bairro Vertentes@13520993
+5387@SP@9660@Ass. dos Moradores do Jardim Cristina, Ouro Preto e Portal de Minas@Rua Servidão, nº 2  4ª   Travessa,  - Bairro dos Freitas@12214995
+5388@SP@9369@Bairro São João@Estrada Kem Saito nº 205 - Bairro São João@08766991
+5496@SP@9518@CAIC Agrovila@Rua Três, s/n, Posto de Saúde, Fazenda CAIC, Agrovila@18540991
+5514@SP@8992@Guaripocaba@Estrada do Guaripocaba s/n - Bairro Guaripocaba@12902991
+5536@SP@8908@Guarda Municipal de Araçoiaba da Serra@Avenida D. Pedro II, nº 192 - Araçoiabinha@18190991
+5561@SP@9088@Associação de Moradores da Vila Noel@Avenida Principal, 03@11538990
+5570@SP@9640@Associação Civil Comunitária do D.E.R. e Vila das Paineiras@Rua Maria Adelaide L. Quelhas, 261 A - DER - Vila das Paineiras@09725990
+5617@SP@9260@Associação dos Proprietários e Amigos do Empreendimento Eldorado APAEE@Estrada Taquaral s/n - Bairro Taquaral@13308990
+5639@SP@9667@Panificadora Santa Cruz@Rua Euclides de Almeida Bueno, 362 - Santa Cruz dos Matos@18230995
+5647@SP@9671@São João Novo@Rua Faustina Maria das Dores, 30 - Distrito de São João Novo@18140990
+5653@SP@9640@Sociedade Amigos dos Moradores do Parque São Bernardo@Rua Minas Gerais, s/n - Parque São Bernardo@09761991
+5654@SP@9640@Sociedade Amigos do Bairro Vila Esperança@Rua Jardim, 395 - Vila Esperança@09783990
+5655@SP@9640@Associação de Moradores do Jardim Nossa Senhora de Fátima@Mario Missiroli, 15029 - Jardim Nossa Senhora de Fátima@09820990
+5727@SP@9640@Conselho Comunitário do Núcleo Jesus de Nazaré@Avenida Jesus de Nazaré, 59.525 - Ferrazópolis@09782991
+5730@SP@9640@Sociedade Amigos da Vila Sabesp@Rua das Colinas, 32069 - Montanhão - Vila Sabesp@09792992
+5731@SP@9640@Conselho Comunitário do Núcleo Cafezais do Bairro Montanhão@Passagem dos Cafezais, 64.673 - Montanhão@09791991
+5767@SP@9667@Valmaris Minimercado@Rua Laurindo Gomes Ferreira, 142 - Abaitinga@18230990
+5772@SP@9524@Pracinha@Rua José Bonifácio, 349 - Centro@17790990
+5818@SP@9176@Bar Bela Vista@Avenida Francisco Lerário, 975 - Maracatu, Guararema@08900990
+5819@SP@9608@Sociedade Amigos das Chácaras Boa Vista@Rua Horácio José do Prado nº 471, km 55, Chácaras Boa Vista@07500990
+5838@SP@9640@Conselho Comunitário do Jardim Limpão e Jardim Regina@Rua Alberto Benecasa, 68133@09781992
+5839@SP@9176@Bar Ponte Alta@Estrada Municipal Antonio Donizete Leite, 246 - Ponte Alta, Guararema@08900992
+5842@SP@9668@Casa Branca@Rua Vitória nº 17-B - Parque São Miguel (Zona Sul)@04855990
+5845@SP@9365@Antonio Conselheiro@Posto de Saúde Familiar - Assentamento Antonio Conselheiro@19260990
+5847@SP@9669@Chácaras Primavera@Avenida Principal nº 2@13520994
+5848@SP@9584@CPC Ribeirão do Pote@Rua do Casarão, nº 13@08970991
+5849@SP@9369@Chácara Novo Horizonte@Rua Novo Horizonte, nº 30 - Biritiba Ussu@08767990
+5871@SP@9182@Sociedade Moradores e Amigos da Cachoeira@Estrada Guarujá Bertioga  Km 13@11446990
+5874@SP@9369@São João@Estrada Kem Saito, nº305@08767991
+5881@SP@9182@Associação de Moradores do Bairro Cidade Atlântica@Rua Uruguai nº 1721@11442990
+5893@SP@9687@Associação Comunitária do Bairro Barra do Ribeirão da Serra@Rua Beija Flor  nº 169@11910990
+5933@SP@8970@CPC Rio Acima@Estrada do Eroy nº 315 Bairro Rio Acima@08940991
+5944@SP@8860@Parque dos Lagos@Chalé nº 02, Prainha Tarcis Negrão - Parque dos Lagos@18770990
+5948@SP@9660@Altos do Caetê II - Soc. Amigos do Bairro Alto do Caetê e Adjacências@Estrada Municipal Juca de Carvalho, 2004 - Bar e Mercearia do Tonho@12213993
+5949@SP@9608@Monte Negro@Estrada do Monte Negro Km 8, Bairro Monte Negro@07500991
+5989@SP@8924@Bairro do Correia@Estrada Esmera Maria Rodrigues, 1369 - Bairro do Correia@07400990
+6032@SP@9182@Sociedade Amigos do Perequê@Estrada Guarujá Bertioga@11446991
+6033@SP@8967@Associação de Moradores do Jardim Ana Paula@Rua C, nº 11 Km 220,5@11250993
+6034@SP@8967@Instituto Aliança com a Vida@Rua Engenheiro José Sanches Ferrari nº 87A@11250994
+6037@SP@9671@Canguera@Rua Amaro Godinho da Silva, 660 - Distrito de Canguera@18145990
+6042@SP@9146@Vargem Grande@Estrada da Vargem Grande, 4713@07863990
+6058@SP@9608@Bairro Granja Urupês@Via das Perobas nº 176, Bairro Granja Urupês@07500992
+6064@SP@9088@Sociedade de Melhoramentos do Caminho dos Pilões@Caminho dos Pilões s/nº@11543990
+6065@SP@9237@Centro de Ref. e Apoio aos Pequenos e Médios Proprietários do Raminho@Estrada do Raminho nº 1995@11740993
+6066@SP@9237@Associação dos Moradores do Parque Real e Adjacências@Rua Doze nº 1452@11740994
+6072@SP@8923@Sítio Novo@Estrada Vicinal Artur Nogueira/Limeira, km 0, Bairro Sítio Novo@13160990
+6085@SP@9703@Jardim Alto de Suzano@Rua Marcos Prado de Almeida - Jardim Suzano@08665990
+6122@SP@9369@Escola Municipal Fujitaro Nagao@Estrada Fujitaro Nagao - Cocuera@08880990
+6123@SP@9668@Jardim Manacá da Serra@Rua Amaro Alves do Rosário, 3213@04884990
+6141@SP@8908@Papelaria Lia Lua@Rua Doutor Celso Charuri, 223 - Jundiaquara@18190993
+6152@SP@9640@Associação Beneficente Plante Sorrisos@Passagem da Biquinha, 86@09790990
+6169@SP@9668@Associação dos Moradores do Novo São Norberto@Rua Bem-te-vi, 117 - Parelheiros - São Paulo@04875990
+6172@SP@8992@Araras dos Pereiras@Estrada Municipal Ulysses da Silveira Guimarães, s/n - Araras dos Pereiras@12924993
+6173@SP@9499@Colinas de Shidharta@Rua Pardal, 01 - Colinas de Shidharta - Piarapora do Bom Jesus/SP.@06550991
+6180@SP@9527@Centro Comunitário de Vila Mirim Nossa Senhora Aparecida@Rua Julio Prestes de Albuquerque s/nº@11717990
+6181@SP@9668@Associação Unidos do Bairro Jardim Bom Clima@Rua João Ferreira de Freitas, 55 - Jardim Bom Clima - São Paulo - SP@04884992
+6194@SP@8992@Marina@Rua Marinópolis, 4 - Mercearia Dona Neusa@12929991
+6195@SP@9640@Associação Comunitária do Jardim Regina@Rua João de Barros, 222@09781990
+6199@SP@8967@Associação Condominial Parque Caiubura@Avenida Caiubura nº 10@11250995
+6203@SP@9182@Associação de Moradores Futura Geração da Cachoeira@Viela Santo Amaro 142@11446992
+6208@SP@9088@Associação de Educação Ambiental Cubatão de Bem com o Mangue@Rua Larissa Cokner, 378@11540990
+6224@SP@9183@Centro Comunitário Habitacional e Educacional Betel@Rua Ecologia, 14 - Jardim Fátima@07177990
+6250@SP@9369@União dos Moradores do bairro Cocuera@Estrada Katsuji Kitagushi, 82 - Cocuera@08880991
+6252@SP@8976@São Roque Novo@Praça Luiz Francisco Vieira, s/n@18590990
+6255@SP@9362@Associação de Moradores do Bairro Engano e Adjacências@Rodovia Regis Bittencourt, 81 - Engano@11850992
+6276@SP@9668@Associação Amigos do Bairro Parque Brasil@Rua Hum, 86 - Vila Guiomar - Bairro Capela do Socorro@04961990
+6297@SP@9700@Assentamento 02@Estrada Teodor Condieu,12@13171990
+6301@SP@8992@Green Park@Rua Antonio Luppi s/n@12903990
+6311@SP@9671@Mailasqui@Rua Luiz Matheus Mailasky, 273 - Distrito de Mailasqui@18143990
+6317@SP@9660@Caixa Postal Comunitária Bairro do Costinha@Estrada Municipal Rodolfo Sebastião Alvarenga@12214993
+6318@SP@9660@Caixa Postal Comunitária do Vila Olaria@Estrada Municipal do Jaguari, 9.575 - Jaguari@12213990
+6327@SP@9668@Associação Independente Vila Nova Esperança@Rua Paraíso, 08 - Vila Nova Esperança - Butantã/SP.@05570990
+6343@SP@9468@Horto de Aimorés - Gleba I@Unidade de Saúde Claudeci dos Santos Tavares, s/n - Gleba I@17283991
+6344@SP@9468@Horto de Aimorés - Gleba II@EMEI Paulo Freire@17283992
+6346@SP@8992@Associação dos Proprietários Moradores do Morro Grande da Boa Vista@Estrada Municipal Liberato Fortini, 4654 Bairro Morro Grande da Boa Vista@12928990
+6347@SP@9038@Jutuba@Estrada Vicinal Darcy Mariano de Almeida, Mercearia Esperança, bairro Jutuba@18195992
+6361@SP@9661@CPC Bananeira@Rua Bananeira, 04 - Jardim da Serra - São Lourenço da Serra/SP@06890994
+6369@SP@9396@Associação de Moradores do Bairro Cuiabá@Estrada Municipal João Fabiano Barbosa, 898@12969990
+6399@SP@9369@Igreja Evangélica Missão Presbiteriana Hermom@Estrada Municipal Yoneji Nakamura, 01 - bairro do Taboão@08772992
+6403@SP@8992@Caixa Postal Comunitária Bairro Biriça do Valado@Estrada Municipal Antonia de Souza Moreno s/n@12918990
+6409@SP@9369@Comércio Varejista de Mercadorias em Geral@Avenida José Antonio de Melo, 271@08750990
+6416@SP@9668@Associação dos Moradores do Sítio Reimberg@Rua Jatoba Reimberg, 1 "B"@04855991
+6420@SP@9678@CPC Parque Bitarú I@Rua Alexandre Sendim, n° 100 - Parque Bitarú - São Vicente/SP@11330990
+6421@SP@9636@CPC Vale do Quilombo@Vale do Quilombo, nº 02 - Vale do quilombo - Santos/SP@11096990
+6470@SP@9009@Bacuriti@Rua Doze de Outubro, s/n, Centro@16520991
+6471@SP@9009@Simões@Rua Coronel Armando Simões, s/n, Simões@16510990
+6476@SP@9468@Vanglória@Rua Pedro Dias Barbosa, 140, Centro@17289990
+6529@SP@9099@CPC Guarapuã@Rua Sétimo Izidro Tidei, 647 Centro Guarapuã@17310990
+6573@SP@9222@Campos Villeta@Avenida Geoprge Oetterer, Nº 90, Campos Villeta@18560991
+6574@SP@9222@Jardim Alvorada@Rua Colibri, Nº 90 Jardim Alvorada@18560992
+3163@TO@9805@Céu Azul@Avenida Principal@77834990
+3166@TO@9805@Novo Horizonte@Rua Principal@77834992
+6146@TO@9899@CPC Setor União Sul@ Rua 06 QD 11 LT 38 - ST União Sul@77062990
