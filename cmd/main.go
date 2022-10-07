@@ -1,13 +1,12 @@
 package main
 
 import (
+	"CEP/dataframetools"
 	"CEP/files"
 	"CEP/tools"
 	"fmt"
 	"github.com/go-gota/gota/dataframe"
-	"golang.org/x/text/encoding/charmap"
 	"log"
-	"os"
 )
 
 type CepConfig struct {
@@ -17,79 +16,69 @@ type CepConfig struct {
 	Cpcd        string
 }
 
+//type SetCepCconfig struct {
+//	FilterFile        string   `json:"filterFile"`
+//	SetColImportant   []int    `json:"setColImportant"`
+//	SetColNames       []string `json:"setColNames"`
+//	SetDelimeter      rune     `json:"setDelimeter"`
+//	HasHeader         bool     `json:"hasHeader"`
+//	HasWithLazyQuotes bool     `json:"hasWithLazyQuotes"`
+//	UnicodeModel      string   `json:"unicodeModel"`
+//}
+
 func main() {
 	var orig, dest string
+	var dataframe_list []dataframe.DataFrame
 
 	orig = "./data/atualiza_base_cep_out_2022.zip"
 	dest = "./data/unzipfiles/"
+	fmt.Println(orig)
 
-	cepData := CepConfig{
-		Logradouro:  "LOG_LOGRADOURO",
-		Bairro:      "LOG_BAIRRO",
-		FaixaBairro: "LOG_BAIRRO",
-		Cpcd:        "LOG_CPC",
-	}
-
-	files.Unzip(orig, dest)
+	//files.Unzip(orig, dest)
 	listFile, err := files.ScanDir(dest)
+
 	if err != nil {
 		print(err)
 	}
 
-	listf := tools.Filter(listFile, cepData.Logradouro)
+	setCepCconfig := dataframetools.SetCepCconfig{FilterFile: "atualiza_cep\\LOG", SetColImportant: []int{1, 2, 3, 7},
+		SetColNames: []string{"uf", "loc_nu", "bai_nu", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
+		UnicodeModel: "ISO88591"}
+	setCepCconfig1 := dataframetools.SetCepCconfig{FilterFile: "LOG_BAIRRO", SetColImportant: []int{0, 1, 2, 3},
+		SetColNames: []string{"bai_nu", "uf", "loc_nu", "bairro"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
+		UnicodeModel: "ISO88591"}
+	setCepCconfig2 := dataframetools.SetCepCconfig{FilterFile: "LOG_CPC", SetColImportant: []int{1, 2, 3, 5},
+		SetColNames: []string{"uf", "loc_nu", "cpc_nu", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
+		UnicodeModel: "ISO88591"}
+	setCepCconfig3 := dataframetools.SetCepCconfig{FilterFile: "LOG_FAIXA_BAIRRO", SetColImportant: []int{0, 1, 2},
+		SetColNames: []string{"bai_nu", "cep_inicial", "cep_final", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
+		UnicodeModel: "ISO88591"}
+	setCepCconfig4 := dataframetools.SetCepCconfig{FilterFile: "LOG_LOCALIDADE.TXT", SetColImportant: []int{0, 1, 2, 3},
+		SetColNames: []string{"loc_nu", "uf", "municipio", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
+		UnicodeModel: "ISO88591"}
 
-	//var dataFrameList []dataframe.DataFrame
-	var df dataframe.DataFrame
+	arrCepConfig := []dataframetools.SetCepCconfig{setCepCconfig, setCepCconfig1, setCepCconfig2, setCepCconfig3, setCepCconfig4}
 
-	df, err = ReadData(listf)
-	if err != nil {
-		log.Fatalf("data can't be reading")
-	}
+	for _, cep := range arrCepConfig {
+		listf := tools.Filter(listFile, cep.FilterFile)
+		//fmt.Println(listf)
 
-	fmt.Println(df) //df.Select([]int{1, 2, 3, 7))
-	fmt.Println(df.Describe())
+		var df dataframe.DataFrame
 
-}
-
-func ReadData(listOfFilename []string) (dataframe.DataFrame, error) {
-
-	//var temp string
-	//var content []byte
-	//var err error
-	//
-	//for _, filename := range listOfFilename {
-	//	content, err = os.ReadFile(filename)
-	//	if err != nil {
-	//		return dataframe.DataFrame{}, err
-	//	}
-	//
-	//	temp += string(content)
-	//}
-	//ioContent := strings.NewReader(string(content))
-	//
-	//return dataframe.ReadCSV(ioContent, dataframe.WithDelimiter('@'),
-	//	dataframe.WithLazyQuotes(true),
-	//	dataframe.HasHeader(false)), nil
-
-	//var temp string
-	//var content []byte
-
-	var df, dfConcat dataframe.DataFrame
-
-	for _, filename := range listOfFilename {
-		content, err := os.Open(filename)
+		df, err = dataframetools.ReadData(listf, cep)
 		if err != nil {
-			return dataframe.DataFrame{}, err
+			log.Fatalf("data can't be reading")
 		}
+		fmt.Println(df)
 
-		//ioContent := strings.NewReader(string(content))
-		ioContent := charmap.ISO8859_1.NewDecoder().Reader(content)
-		df = dataframe.ReadCSV(ioContent, dataframe.WithDelimiter('@'),
-			dataframe.WithLazyQuotes(true),
-			dataframe.HasHeader(false))
-		dfConcat = dfConcat.Concat(df)
+		dataframe_list = append(dataframe_list, df)
 
 	}
 
-	return dfConcat, nil
+	//dataframe_list[0] = dataframe_list[0].Concat(dataframe_list[2].Select([]int{0, 1, 3}))
+	////dataframe_list[0] = dataframe_list[0].LeftJoin(dataframe_list[4].Select([]int{0, 2}), []string{"loc_nu"}...)
+	//dataframe_list[0] = dataframe_list[0].LeftJoin(dataframe_list[1].Select([]int{1, 2}), []string{"bai_nu"}...)
+
+	fmt.Println(dataframe_list[0])
+
 }
