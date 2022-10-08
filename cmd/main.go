@@ -6,6 +6,7 @@ import (
 	"CEP/tools"
 	"fmt"
 	"github.com/go-gota/gota/dataframe"
+	"github.com/go-gota/gota/series"
 	"log"
 )
 
@@ -41,7 +42,7 @@ func main() {
 		print(err)
 	}
 
-	setCepCconfig := dataframetools.SetCepCconfig{FilterFile: "atualiza_cep\\LOG", SetColImportant: []int{1, 2, 3, 7},
+	setCepCconfig := dataframetools.SetCepCconfig{FilterFile: "atualiza_cep/LOG", SetColImportant: []int{1, 2, 3, 7},
 		SetColNames: []string{"uf", "loc_nu", "bai_nu", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
 		UnicodeModel: "ISO88591"}
 	setCepCconfig1 := dataframetools.SetCepCconfig{FilterFile: "LOG_BAIRRO", SetColImportant: []int{0, 1, 2, 3},
@@ -51,7 +52,7 @@ func main() {
 		SetColNames: []string{"uf", "loc_nu", "cpc_nu", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
 		UnicodeModel: "ISO88591"}
 	setCepCconfig3 := dataframetools.SetCepCconfig{FilterFile: "LOG_FAIXA_BAIRRO", SetColImportant: []int{0, 1, 2},
-		SetColNames: []string{"bai_nu", "cep_inicial", "cep_final", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
+		SetColNames: []string{"bai_nu", "cep_inicial", "cep_final"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
 		UnicodeModel: "ISO88591"}
 	setCepCconfig4 := dataframetools.SetCepCconfig{FilterFile: "LOG_LOCALIDADE.TXT", SetColImportant: []int{0, 1, 2, 3},
 		SetColNames: []string{"loc_nu", "uf", "municipio", "cep"}, SetDelimeter: '@', HasHeader: false, HasWithLazyQuotes: true,
@@ -69,16 +70,21 @@ func main() {
 		if err != nil {
 			log.Fatalf("data can't be reading")
 		}
-		fmt.Println(df)
+		//fmt.Println(df)
 
 		dataframe_list = append(dataframe_list, df)
 
 	}
 
-	//dataframe_list[0] = dataframe_list[0].Concat(dataframe_list[2].Select([]int{0, 1, 3}))
-	////dataframe_list[0] = dataframe_list[0].LeftJoin(dataframe_list[4].Select([]int{0, 2}), []string{"loc_nu"}...)
-	//dataframe_list[0] = dataframe_list[0].LeftJoin(dataframe_list[1].Select([]int{1, 2}), []string{"bai_nu"}...)
+	dataframe_list[0] = dataframe_list[0].Concat(dataframe_list[2].Select([]string{"uf", "loc_nu", "cep"}))
+
+	f := dataframe.F{Colname: "uf", Comparator: series.Eq, Comparando: "AC"}
+	dataframe_list[0] = dataframe_list[0].Filter(f)
+	dataframe_list[1] = dataframe_list[1].LeftJoin(dataframe_list[4].Select([]string{"loc_nu", "municipio"}), "loc_nu")
+	dataframe_list[0] = dataframe_list[0].LeftJoin(dataframe_list[1].Select([]string{"bai_nu", "municipio", "bairro"}), "bai_nu")
+	//dataframe_list[0] = dataframe_list[0].LeftJoin(dataframe_list[1].Select([]string{"bai_nu", "bairro"}), "bai_nu")
 
 	fmt.Println(dataframe_list[0])
-
+	fmt.Println(dataframe_list[1])
+	fmt.Println(dataframe_list[4])
 }
